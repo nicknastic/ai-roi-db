@@ -1,0 +1,3204 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "6a04da1e9060",
+      "company": "Salesforce",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce AI agents handling customer service inquiries",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduced its own customer service team from 9,000 to 5,000 employees after deploying Agentforce",
+      "roi_metrics": [
+        "service team 9,000 to 5,000",
+        "~44% headcount reduction",
+        "service team reduced 9000 to 5000"
+      ],
+      "sources": [
+        {
+          "source_org": "CX Today (citing Marc Benioff)",
+          "source_url": "https://www.cxtoday.com/contact-center/servicenow-hasnt-cut-its-customer-service-headcount-despite-deflecting-75-of-cases/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "Salesforce (duplicate-test entry)",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9a7d7c6cb4e3",
+      "company": "ServiceNow",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "AI agents deflecting customer support cases on its own platform",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Deflected roughly 75% of customer cases; reports $325M in annualized value from AI productivity",
+      "roi_metrics": [
+        "75% case deflection",
+        "$325M annualized value"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow / CX Today",
+          "source_url": "https://www.cxtoday.com/contact-center/servicenow-hasnt-cut-its-customer-service-headcount-despite-deflecting-75-of-cases/",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "3b9e74899b16",
+      "company": "BHN (Blackhawk Network)",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "ServiceNow AI agents for chargeback dispute resolution",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Cut dispute resolution from 90 to 30 days; recovers 95-98% of chargebacks vs 79% industry average; agent onboarding cut from 4 weeks to 1",
+      "roi_metrics": [
+        "90 to 30 days resolution",
+        "95-98% chargeback recovery",
+        "training 4 weeks to 1 week",
+        "CSAT 4.4/5"
+      ],
+      "sources": [
+        {
+          "source_org": "Cyntexa (ServiceNow case)",
+          "source_url": "https://cyntexa.com/blog/how-organizations-are-leveraging-servicenow-ai-agents-in-customer-support/",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "f3d3ec1cbd7c",
+      "company": "BMO (Bank of Montreal)",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "ServiceNow AI agents for IT/HR self-service provisioning",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "200% year-over-year increase in self-service adoption; deflected over 50% of routine tickets",
+      "roi_metrics": [
+        "200% YoY self-service increase",
+        "50%+ ticket deflection"
+      ],
+      "sources": [
+        {
+          "source_org": "Thunai (ServiceNow case)",
+          "source_url": "https://www.thunai.ai/blog/servicenow-ai-agent-use-cases",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "ba02bd6fea1d",
+      "company": "NIB Health Insurance",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "AI-driven digital assistants for customer service",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Saved $22 million; reduced customer service costs by 60%; decreased agent phone calls by 15%",
+      "roi_metrics": [
+        "$22M saved",
+        "60% cost reduction",
+        "15% fewer agent calls"
+      ],
+      "sources": [
+        {
+          "source_org": "NextPhone (IBM-cited stats)",
+          "source_url": "https://www.getnextphone.com/blog/ai-customer-service-statistics",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "08f24b7e06cc",
+      "company": "Gamma",
+      "industry": "Technology & Software",
+      "business_function": "R&D / Product",
+      "use_case": "Claude integrated into product for content generation",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "30% improvement in user satisfaction, leading to 20% rise in free-to-paid conversions",
+      "roi_metrics": [
+        "30% satisfaction improvement",
+        "20% conversion rise"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic (via Foundation Inc analysis)",
+          "source_url": "https://foundationinc.co/lab/anthropic",
+          "source_type": "frontier-lab",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "fb4460b9b0bc",
+      "company": "Hume",
+      "industry": "Technology & Software",
+      "business_function": "R&D / Product",
+      "use_case": "Claude with prompt caching in production product",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "80% cost reduction using prompt caching; 36% user preference for Claude over other LLMs",
+      "roi_metrics": [
+        "80% cost reduction",
+        "36% user preference"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic (via Foundation Inc analysis)",
+          "source_url": "https://foundationinc.co/lab/anthropic",
+          "source_type": "frontier-lab",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "71728eeb5a2b",
+      "company": "TELUS",
+      "industry": "Telecom",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude as core engine for internal Fuel iX employee AI platform",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Gave 57,000 employees access to AI workflows across developer, analyst and support teams",
+      "roi_metrics": [
+        "57,000 employees enabled"
+      ],
+      "sources": [
+        {
+          "source_org": "DataStudios (Anthropic enterprise cases)",
+          "source_url": "https://www.datastudios.org/post/claude-in-the-enterprise-case-studies-of-ai-deployments-and-real-world-results-1",
+          "source_type": "frontier-lab",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://www.anthropic.com/customers/telus",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8953c1eabbc8",
+      "company": "Kuwait Finance House",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Microsoft AI solution (RiskGPT) for claims/risk processing",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "New claim processing reduced from up to one hour to just 10 minutes",
+      "roi_metrics": [
+        "1 hour to 10 minutes per claim"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft Cloud Blog",
+          "source_url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5ad42c426a45",
+      "company": "BKW",
+      "industry": "Energy & Utilities",
+      "business_function": "Knowledge Management",
+      "use_case": "Edison platform on Azure AI Foundry for internal data access",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Within two months, 8% of staff active, media inquiries processed 50% faster, 40+ use cases documented",
+      "roi_metrics": [
+        "media inquiries 50% faster",
+        "40+ use cases",
+        "8% staff active in 2 months"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft Cloud Blog",
+          "source_url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d848ee1eddcb",
+      "company": "Bupa APAC",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "GitHub Copilot and M365 Copilot for developer and workflow productivity",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Generated 410,000+ lines of AI-assisted code, 30,000+ Copilot chats, accelerated 100+ AI use cases",
+      "roi_metrics": [
+        "410,000 lines AI code",
+        "30,000+ Copilot chats",
+        "100+ use cases"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft Cloud Blog",
+          "source_url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5a128ab37f88",
+      "company": "Microsoft CSS",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Copilot in Dynamics 365 Customer Service for agent assistance",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "12% reduction in case resolution time; 10% of collaboration-requiring cases resolved independently (study of 6,500 agents vs 5,000 control)",
+      "roi_metrics": [
+        "12% faster resolution",
+        "10% cases resolved independently",
+        "6,500 agents studied"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft WorkLab",
+          "source_url": "https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "be0e66dd8c17",
+      "company": "Impact",
+      "industry": "Professional Services",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Microsoft 365 Copilot deployed organization-wide for workflow optimization",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "100 users saved over 20,000 hours a year; annual net ROI of about $1.72 million; power users saved 9 hours a week",
+      "roi_metrics": [
+        "20,000 hours/year saved",
+        "$1.72M annual net ROI",
+        "9 hours/week per power user"
+      ],
+      "sources": [
+        {
+          "source_org": "Impact (Microsoft Copilot case study)",
+          "source_url": "https://www.impactmybiz.com/case-study/microsoft-copilot-case-study/",
+          "source_type": "foundry",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "5d8e5c242164",
+      "company": "Newman's Own",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Marketing",
+      "use_case": "Microsoft 365 Copilot for marketing and operations at a 50-person company",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Marketing team tripled monthly campaigns; 70 hours/month saved summarizing industry news; briefs cut from 3 hours to 30-60 min",
+      "roi_metrics": [
+        "3x monthly campaigns",
+        "70 hours/month saved",
+        "briefs 3h to 30-60min"
+      ],
+      "sources": [
+        {
+          "source_org": "C5 Insight (Microsoft case)",
+          "source_url": "https://c5insight.com/3-microsoft-365-copilot-case-studies/",
+          "source_type": "foundry",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "56e75b5abdec",
+      "company": "Jubilant Ingrevia",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI combined with digital and skills transformation in chemical manufacturing",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Operational EBITDA improvement of 15-25% when AI combined with digital and skills transformation",
+      "roi_metrics": [
+        "15-25% EBITDA improvement"
+      ],
+      "sources": [
+        {
+          "source_org": "McKinsey",
+          "source_url": "https://alicelabs.ai/en/insights/ai-implementation-case-studies",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "a232af61e3ad",
+      "company": "Vodafone",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "TOBi AI virtual assistant handling customer inquiries across markets",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "TOBi resolved 70% of customer inquiries without human escalation; estimated ~680M euros annual customer service savings; NPS improved 12 points",
+      "roi_metrics": [
+        "70% inquiries resolved",
+        "~680M euro annual savings",
+        "+12 NPS points",
+        "10M+ interactions/month"
+      ],
+      "sources": [
+        {
+          "source_org": "AI Magicx (Vodafone 2025 figures)",
+          "source_url": "https://www.aimagicx.com/blog/ai-telecom-enterprise-agentic-adoption-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "72fa21c48e18",
+      "company": "Vodafone",
+      "industry": "Telecom",
+      "business_function": "Field Service",
+      "use_case": "Agentic AI embedded into field-services operations (with Celfocus)",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Cut repeat visits and harmonised quality in field operations, advancing zero-touch network ambitions with measurable operational gains",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "TelcoTitans",
+          "source_url": "https://www.telcotitans.com/vodafonewatch/case-study-vodafone-seeing-tangible-ai-success-in-the-field/9584.article",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "86699c768077",
+      "company": "AT&T",
+      "industry": "Telecom",
+      "business_function": "Network Operations",
+      "use_case": "AI network optimization agents making autonomous adjustments",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduced service-affecting outages by 37% in 2025; processes 1B+ network events/day; prevented an estimated 12M customer-impacting downtime minutes in Q4 2025",
+      "roi_metrics": [
+        "37% fewer outages",
+        "1B+ events/day",
+        "12M downtime minutes prevented"
+      ],
+      "sources": [
+        {
+          "source_org": "AI Magicx",
+          "source_url": "https://www.aimagicx.com/blog/ai-telecom-enterprise-agentic-adoption-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "e11fd99e543c",
+      "company": "Vodafone / Deutsche Telekom",
+      "industry": "Telecom",
+      "business_function": "Network Operations",
+      "use_case": "Google Cloud Autonomous Network Operations for self-managing networks",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Early deployments reduced telecom network repair times by approximately 25%",
+      "roi_metrics": [
+        "25% faster repairs"
+      ],
+      "sources": [
+        {
+          "source_org": "Telco Magazine (Google Cloud)",
+          "source_url": "https://telcomagazine.com/news/google-vodafone-dt-ai-network-ops-cuts-repairs-by-25",
+          "source_type": "foundry",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "f4257a630859",
+      "company": "BT / Three",
+      "industry": "Telecom",
+      "business_function": "Network Operations",
+      "use_case": "AI pilot predicting tower/equipment failures from live telemetry",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "AI pilot predicted 52% of tower failures in advance, enabling proactive maintenance",
+      "roi_metrics": [
+        "52% of tower failures predicted"
+      ],
+      "sources": [
+        {
+          "source_org": "Mavso Tech",
+          "source_url": "https://www.mavsotech.com/blog-posts/the-ai-powered-telco-global-trends-and-deployment-realities",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "cc079d8651a0",
+      "company": "Klarna",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "OpenAI-powered AI assistant handling customer service chats",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Within 30 days handled 2.3M chats (work of 700 full-time agents); 25% drop in repeat inquiries; ~$40M estimated profit improvement",
+      "roi_metrics": [
+        "2.3M chats in 30 days",
+        "700 FTE equivalent",
+        "25% fewer repeat inquiries",
+        "$40M profit improvement"
+      ],
+      "sources": [
+        {
+          "source_org": "Twig (Klarna/OpenAI case)",
+          "source_url": "https://www.twig.so/blog/klarna-ai-customer-support-efficiency",
+          "source_type": "frontier-lab",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "785b77d8ea95",
+      "company": "Wiley",
+      "industry": "Media & Entertainment",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce AI agents for customer self-service during call spikes",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Increased self-service results and efficiency by over 40%; achieved 213% ROI from Service Cloud integration",
+      "roi_metrics": [
+        "40%+ self-service efficiency",
+        "213% ROI"
+      ],
+      "sources": [
+        {
+          "source_org": "CX Today (Agentforce cases)",
+          "source_url": "https://www.cxtoday.com/crm/agentforce-case-studies/",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "2c50fa008d30",
+      "company": "Engie",
+      "industry": "Energy & Utilities",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce for billing and clean-energy customer questions",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Successfully assisting 83% of users with Agentforce self-service",
+      "roi_metrics": [
+        "83% of users assisted"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "01cd8ee17f00",
+      "company": "Yahoo! JAPAN",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce resolving customer FAQs grounded in order and case data",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Resolves 25,000 customer FAQs a month, grounded in trusted knowledge and case history",
+      "roi_metrics": [
+        "25,000 FAQs/month"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/agentforce/customer-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c56f36e76590",
+      "company": "JPMorgan",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Agentic AI deployed across production workflows",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Runs 450+ agentic AI use cases in production daily",
+      "roi_metrics": [
+        "450+ agents in production"
+      ],
+      "sources": [
+        {
+          "source_org": "AI Monk (enterprise ROI cases)",
+          "source_url": "https://aimonk.com/agentic-ai-examples-enterprise-roi-case-studies/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "d8c205bee4fe",
+      "company": "Precina",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "R&D / Product",
+      "use_case": "Agentforce and Salesforce tech supporting diabetes patient care",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduced average blood sugar (A1C) of 50 rural patients from 9.6 to 6.4 in twelve weeks",
+      "roi_metrics": [
+        "A1C 9.6 to 6.4",
+        "50 patients",
+        "12 weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "CX Today (Agentforce cases)",
+          "source_url": "https://www.cxtoday.com/crm/agentforce-case-studies/",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "ee0011ab1ce6",
+      "company": "Accenture (SynOps clients)",
+      "industry": "Professional Services",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "SynOps AI platform for digital transformation recommendations",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Helped clients increase project success rates by 25%",
+      "roi_metrics": [
+        "25% higher project success rate"
+      ],
+      "sources": [
+        {
+          "source_org": "SmartDev (Accenture SynOps)",
+          "source_url": "https://smartdev.com/ai-use-cases-in-consulting/",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-20",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "70a0f46eafba",
+      "company": "EchoStar (Hughes)",
+      "industry": "Telecom",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Azure AI Foundry to build 12 production apps (sales call auditing, retention analysis, field-service automation)",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "12 new production apps projected to save 35,000 work hours and boost productivity by at least 25%",
+      "roi_metrics": [
+        "35,000 work hours saved",
+        "25%+ productivity boost",
+        "12 production apps"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/24300-hughes-azure-ai-foundry",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3482414735c7",
+      "company": "Brisbane Catholic Education",
+      "industry": "Education",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot and Copilot Studio gen-AI tool for educators",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Educators reported saving an average of 9.3 hours per week",
+      "roi_metrics": [
+        "9.3 hours/week saved"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/23838-brisbane-catholic-education-microsoft-365-copilot-chat",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2471a1d38737",
+      "company": "Sikshana Foundation",
+      "industry": "Education",
+      "business_function": "Knowledge Management",
+      "use_case": "AI copilot for teachers to draft lesson plans (with Microsoft Research India)",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Shortened lesson preparation time from an hour or more to just minutes",
+      "roi_metrics": [
+        "lesson prep hour+ to minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://news.microsoft.com/source/asia/features/indias-schoolteachers-are-drafting-better-lesson-plans-faster-thanks-to-a-copilot/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "81868eae3a8b",
+      "company": "HELLENiQ ENERGY",
+      "industry": "Energy & Utilities",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Microsoft 365 Copilot and Copilot Studio for productivity (with PwC)",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Boosted productivity by 70% and reduced email processing time by 64%",
+      "roi_metrics": [
+        "70% productivity boost",
+        "64% less email processing time"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/24670-helleniq-energy-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d2dbef33d695",
+      "company": "Ma'aden",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Microsoft 365 Copilot for drafting, document creation, data analysis",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Saving up to 2,200 hours monthly across tasks like drafting emails and analyzing data",
+      "roi_metrics": [
+        "2,200 hours/month saved"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/21514-maaden-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "69fb4e38b495",
+      "company": "MAIRE",
+      "industry": "Energy & Utilities",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Microsoft 365 Copilot to automate routine engineering tasks",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Saving more than 800 working hours per month, freeing engineers for strategic activities",
+      "roi_metrics": [
+        "800+ working hours/month saved"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://customers.microsoft.com/en-gb/story/1782421038868081701-maire-microsoft-teams-energy-en-italy",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "de5470fef6fa",
+      "company": "Petrobras",
+      "industry": "Energy & Utilities",
+      "business_function": "Knowledge Management",
+      "use_case": "Azure OpenAI Service to build Chat Petrobras for workflow and report summarization",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Deployed Chat Petrobras to streamline workflows and summarize reports for 110,000 employees",
+      "roi_metrics": [
+        "110,000 employees served"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://customers.microsoft.com/en-us/story/1758695276753608190-petrobras-azure-openai-service-energy-en-brazil",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8d01d9fdc7da",
+      "company": "Centrica",
+      "industry": "Energy & Utilities",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Microsoft Power Platform low-code app development at scale",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Grew from 300 apps in 2019 to 800+ business solutions, supporting 330 makers and 15,000 users",
+      "roi_metrics": [
+        "300 to 800+ apps",
+        "330 makers",
+        "15,000 users"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/1775645348335316408-centrica-azure-application-insights-energy-en-united-kingdom",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9403800b37a0",
+      "company": "Fisher & Paykel",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce for appliance self-service support grounded on knowledge articles",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Increasing self-service rates from 40% to 70%, reducing service costs and improving satisfaction",
+      "roi_metrics": [
+        "self-service 40% to 70%"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "57e3d4b9334a",
+      "company": "College Possible",
+      "industry": "Education",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce to help coaches serve more students with research and interaction support",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Serves four times as many students per coach; 25,000 students served per year",
+      "roi_metrics": [
+        "4x students per coach",
+        "25,000 students/year"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/college-possible/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "24da929a202b",
+      "company": "reMarkable",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce knowledge-based FAQ agent 'Mark' for customer support",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Deployed first agent in 3 weeks; handled 18K+ service conversations with improving NPS and deflection, no added human agents",
+      "roi_metrics": [
+        "18K+ conversations",
+        "3-week deployment"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/remarkable-agentforce-slack-scale-customer-service-it/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "14b7bdf5f995",
+      "company": "1-800Accountant",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce autonomous chat resolution during tax season",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Autonomously resolved 70% of chat engagements during tax week in 2025",
+      "roi_metrics": [
+        "70% of chats resolved"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/1800-accountant/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "40114fd22748",
+      "company": "Indeed",
+      "industry": "Technology & Software",
+      "business_function": "R&D / Product",
+      "use_case": "OpenAI APIs powering 'Invite to Apply' job-matching feature",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Drove a 20% increase in applications and a 13% uplift in downstream success",
+      "roi_metrics": [
+        "20% more applications",
+        "13% downstream uplift"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/1-million-businesses-putting-ai-to-work/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "68c19c94c1d2",
+      "company": "Intercom",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "OpenAI as backbone of Fin customer service agent",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Accelerated development cycles from quarters to days with OpenAI powering Fin",
+      "roi_metrics": [
+        "dev cycles quarters to days"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/1-million-businesses-putting-ai-to-work/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "83b142edad55",
+      "company": "Lowe's",
+      "industry": "Retail & E-commerce",
+      "business_function": "Field Service",
+      "use_case": "Mylow Companion in-store app for associate project guidance built on OpenAI models",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Empowers associates across 1,700+ stores with expert project guidance",
+      "roi_metrics": [
+        "1,700+ stores"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/1-million-businesses-putting-ai-to-work/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "652a55d8e420",
+      "company": "Parloa",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "OpenAI models powering voice-driven customer service agents (AMP platform)",
+      "ai_technology": "Speech / voice AI",
+      "roi_outcome": "In one deployment, a global travel company reduced requests for a human agent by 80%",
+      "roi_metrics": [
+        "80% fewer human-agent requests"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/parloa/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a611c0ab4c41",
+      "company": "AAA Washington",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce augmenting sales and service experts for member touchpoints",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Augmentation strategy to give members more personalized, tailored touchpoints at critical moments",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/aaa-washington/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "965a3376ffcc",
+      "company": "Goodyear",
+      "industry": "Automotive",
+      "business_function": "Marketing",
+      "use_case": "Agentforce for customer engagement and targeted offers",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Expects to increase marketing campaign effectiveness and drive customer retention and service revenue",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/goodyear-agentforce-sales-customer-experience/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "38ec057eced1",
+      "company": "ASAPP",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "GenerativeAgent Platform for enterprise customer service using Claude in Amazon Bedrock",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduced call escalation by up to 40 percent while improving customer service interactions",
+      "roi_metrics": [
+        "up to 40% less call escalation"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/ai/generative-ai/customers/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "da1a86f5816c",
+      "company": "Trellix",
+      "industry": "Technology & Software",
+      "business_function": "Fraud & Risk",
+      "use_case": "Generative AI security tools for natural-language investigations and alert analysis using Claude in Amazon Bedrock",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Saves thousands of hours of manual effort and achieves 23x cost savings while maintaining 95% accuracy",
+      "roi_metrics": [
+        "23x cost savings",
+        "95% accuracy",
+        "thousands of hours saved"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/ai/generative-ai/customers/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "18f1beccdd03",
+      "company": "Jabil",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Intelligent shopfloor assistant using Amazon Q connecting databases across languages",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "74% reduction in data processing times; deployed in 3 weeks; processes 1,700+ policies and specifications across multiple languages",
+      "roi_metrics": [
+        "74% faster data processing",
+        "3-week deployment",
+        "1,700+ policies processed"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ee7593f9fce7",
+      "company": "BMW Group",
+      "industry": "Automotive",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "AI solution analyzing system architecture, logs, and infrastructure changes on Connected Vehicle Backend",
+      "ai_technology": "Anomaly detection",
+      "roi_outcome": "Identifies root causes of service disruptions in minutes, a task that previously required hours of manual investigation",
+      "roi_metrics": [
+        "root cause in minutes vs hours",
+        "23M vehicles",
+        "17B requests/day"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "244885df573a",
+      "company": "One Medical",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Field Service",
+      "use_case": "Generative AI to reduce administrative tasks for doctors across 270 clinics",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Reduces administrative tasks by 40% compared to industry standards, giving doctors more time with patients",
+      "roi_metrics": [
+        "40% less admin work",
+        "270 clinics"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/ai/generative-ai/customers/amazon/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7b53c02b4375",
+      "company": "Amazon Ads",
+      "industry": "Media & Entertainment",
+      "business_function": "Marketing",
+      "use_case": "AI-generated images for Sponsored Brands ad campaigns (Amazon Nova Canvas)",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Advertisers using AI-generated images saw nearly 8% click-through rates and submitted 88% more campaigns than non-users",
+      "roi_metrics": [
+        "~8% CTR",
+        "88% more campaigns"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/going-beyond-ai-assistants-examples-from-amazon-com-reinventing-industries-with-generative-ai/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7698c516e9b1",
+      "company": "Warner Bros. Discovery Sports Europe",
+      "industry": "Media & Entertainment",
+      "business_function": "R&D / Product",
+      "use_case": "Cycling Central Intelligence (CCI) AI solution using Amazon Bedrock and Claude 3.5",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Built AI-powered race storytelling solution for cycling broadcasts",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/aws-doubles-investment-in-aws-generative-ai-innovation-center-marking-two-years-of-customer-success/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "bb3238d056ca",
+      "company": "Intercom",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Fin AI customer service agent built with Claude on AWS",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Fin achieves 56% average resolution within 30 days, with some customers reaching 80-90%; adopted by 4,000+ customers",
+      "roi_metrics": [
+        "56% average resolution",
+        "up to 90% resolution",
+        "4,000+ customers"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS / Anthropic",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/intercom-anthropic/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "67216cba96a8",
+      "company": "JAKALA",
+      "industry": "Professional Services",
+      "business_function": "Marketing",
+      "use_case": "Hybrid Claude agent model for campaign optimization and reporting in marketing activation",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Campaign-optimization cycle compressed from 5-7 days to under 24 hours; team productivity up ~30%; client satisfaction up 35-40%",
+      "roi_metrics": [
+        "5-7 days to under 24 hours",
+        "~30% productivity",
+        "CSAT +35-40%",
+        "70% of senior time redirected"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/jakala",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "bcefc19ca542",
+      "company": "Apollo",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "Claude 3.5 Haiku powering AI Copywriter for outbound sales messaging",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "76% user preference rate for Claude; production retention spike from 20% to 23% driven solely by the model change",
+      "roi_metrics": [
+        "76% preference rate",
+        "retention 20% to 23%"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/apollo",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6355d43a5471",
+      "company": "Anthropic",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "Gong Revenue AI OS for seller productivity and onboarding from customer call insights",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Achieved 64% increase in seller productivity and 46% improvement in ramp times",
+      "roi_metrics": [
+        "64% seller productivity",
+        "46% faster ramp"
+      ],
+      "sources": [
+        {
+          "source_org": "Gong",
+          "source_url": "https://www.gong.io/customers/case-studies/anthropics-64-productivity-gain-combining-revenue-ai-with-a-customer-centric-gtm-strategy",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "4b02d8d1c5be",
+      "company": "Pinterest",
+      "industry": "Technology & Software",
+      "business_function": "R&D / Product",
+      "use_case": "Generative AI discovery engine serving content recommendations at scale",
+      "ai_technology": "Recommendation system",
+      "roi_outcome": "Reimagined discovery for 600 million monthly users using generative AI alongside growth and profitability",
+      "roi_metrics": [
+        "600M monthly users"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "aca5dcf3dee7",
+      "company": "ServiceNow (Now on Now)",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Now Assist GenAI deployed internally for self-service and code generation",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "14% boost to employee deflection rate; 10% developer productivity gain; 48% code generation acceptance rate; $10M value",
+      "roi_metrics": [
+        "14% deflection boost",
+        "10% productivity gain",
+        "48% code acceptance",
+        "$10M value"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://www.servicenow.com/customers/now-on-now-now-assist.html",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f391f3df229f",
+      "company": "Novant Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "ServiceNow ML/Predictive Intelligence for IT incident categorization and resolution",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "AI recommends resolution paths that are 82% more effective; reduces ticket reassignment ping-pong from the 12% of time agents spent on triage",
+      "roi_metrics": [
+        "82% more effective resolution",
+        "12% agent time on triage"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/case-study/cs-servicenow-himss-novant.pdf",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c9998ae87cce",
+      "company": "BT",
+      "industry": "Telecom",
+      "business_function": "Network Operations",
+      "use_case": "ServiceNow Now Assist for predictive outage detection and agent support",
+      "ai_technology": "Anomaly detection",
+      "roi_outcome": "Cut time to fix problems from 4.7 hours to under a minute; for a 300-agent team, AI summaries cut paperwork time by 55%",
+      "roi_metrics": [
+        "4.7 hours to under a minute",
+        "55% less paperwork",
+        "300-agent team"
+      ],
+      "sources": [
+        {
+          "source_org": "Cyntexa (ServiceNow case)",
+          "source_url": "https://cyntexa.com/blog/how-organizations-are-leveraging-servicenow-ai-agents-in-customer-support/",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "de525e97ed34",
+      "company": "Southeastern Railway",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "ServiceNow Now Assist for CSM case and chat summarization",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Deployed in 3 weeks; saves 13 seconds average handling time per chat handover, ~130 minutes a week and 108 hours a year",
+      "roi_metrics": [
+        "13 sec/chat saved",
+        "108 hours/year",
+        "3-week deployment"
+      ],
+      "sources": [
+        {
+          "source_org": "UP3 (ServiceNow case)",
+          "source_url": "https://up3.co.uk/customer-stories/southeastern-now-assist-ai-case-study/",
+          "source_type": "saas",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "e6419a060f4e",
+      "company": "AES",
+      "industry": "Energy & Utilities",
+      "business_function": "Legal & Compliance",
+      "use_case": "Google Cloud AI agents for safety audits",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduces audit costs by 99% and audit time from 14 days to one hour",
+      "roi_metrics": [
+        "99% lower audit costs",
+        "14 days to 1 hour"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6de3cf3a8783",
+      "company": "General Mills",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Knowledge Management",
+      "use_case": "BigQuery and Vertex AI giving employees secure access to gen AI over structured and unstructured data",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Saves over $100 million using BigQuery and Vertex AI for employee data access and Q&A",
+      "roi_metrics": [
+        "$100M+ saved"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1a20b0d2b9f2",
+      "company": "Mercado Libre",
+      "industry": "Retail & E-commerce",
+      "business_function": "R&D / Product",
+      "use_case": "Vertex AI Search across 150 million items for product discovery",
+      "ai_technology": "Recommendation system",
+      "roi_outcome": "Deployed across 150M items in 3 pilot countries helping 100M customers, delivering millions of dollars in incremental revenue",
+      "roi_metrics": [
+        "150M items",
+        "100M customers",
+        "millions in incremental revenue"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "df62180d3201",
+      "company": "Commerzbank",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Gen AI summaries of investment advisory calls with corporate clients",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Reduced administration time by 66% with AI-assisted advisory call summaries",
+      "roi_metrics": [
+        "66% less admin time"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c0eb305343e5",
+      "company": "United Wholesale Mortgage",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Google Cloud gen AI to transform the mortgage underwriting experience",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "More than doubled underwriter productivity",
+      "roi_metrics": [
+        "2x+ underwriter productivity"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "72d0c42b4299",
+      "company": "Deutsche Bank",
+      "industry": "Financial Services",
+      "business_function": "R&D / Product",
+      "use_case": "DB Lumina AI research tool for financial analysts",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Research work that used to take hours or days can now be completed in minutes",
+      "roi_metrics": [
+        "hours/days to minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "9e2b55de3d4d",
+      "company": "L'Oreal",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Marketing",
+      "use_case": "Imagen 3 and Veo 2 in CREAITECH GenAI Beauty Content Lab for marketing concepts",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Reduced time for initial creative concepts from weeks to days versus the previous agency-dependent process",
+      "roi_metrics": [
+        "weeks to days"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "47487ec5c491",
+      "company": "Honeywell",
+      "industry": "Manufacturing",
+      "business_function": "R&D / Product",
+      "use_case": "Vertex AI, BigQuery, and Gemini AI agents for product lifecycle management",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "AI agents help engineers create specs and analyze performance up to 70% faster",
+      "roi_metrics": [
+        "up to 70% faster"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ab319d442cc2",
+      "company": "LiveX AI",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Multimodal generative AI customer experience agents on GKE and NVIDIA AI",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduces customer support costs by 85% with human-like conversational agents",
+      "roi_metrics": [
+        "85% lower support costs"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d02a6160fc5f",
+      "company": "The Home Depot",
+      "industry": "Retail & E-commerce",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "BigQuery data insights for associates to manage stock and call-center info",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Empowers associates to keep 50,000+ items stocked at over 2,000 locations with timely data insights",
+      "roi_metrics": [
+        "50,000+ items",
+        "2,000+ locations"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/25-of-my-favorite-roi-customer-stories-gen-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "bcc198b4dc30",
+      "company": "Supermetrics",
+      "industry": "Technology & Software",
+      "business_function": "Marketing",
+      "use_case": "Vertex AI Agent Builder marketing intelligence agent automating weekly reporting",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Automated weekly reporting, freeing up 15+ hours/month per marketer across 15,000+ customers",
+      "roi_metrics": [
+        "15+ hours/month/marketer",
+        "15,000+ customers"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/customers/supermetrics",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "508a760a694e",
+      "company": "Pinnacol Assurance",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Gemini to accelerate repetitive tasks like client interview prep and claims analysis",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "96% of surveyed employees reported time savings",
+      "roi_metrics": [
+        "96% employees report time savings"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4161821a42ac",
+      "company": "Rivian",
+      "industry": "Automotive",
+      "business_function": "Knowledge Management",
+      "use_case": "Gemini with Google Workspace and NotebookLM for employee research and FAQ knowledge base",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Reduced repetitive inquiries via a shareable grounded knowledge base, accelerating employee research and learning",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "be4cfc18e0a8",
+      "company": "NatWest",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "IBM Consulting + watsonx Assistant 'Marge' AI mortgage support platform",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Co-created an AI-powered cloud platform providing real-time digital mortgage support for home buyers",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/products/watsonx/client-quotes",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "92c03e9ff89b",
+      "company": "Camping World",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "IBM watsonx Assistant 'Arvee' virtual assistant for contact center",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Agents 33% more efficient, wait times down 33 seconds, customer engagement increased 40% across platforms",
+      "roi_metrics": [
+        "33% more agent efficiency",
+        "wait -33 seconds",
+        "+40% engagement"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/products/watsonx/client-quotes",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f5368366ad47",
+      "company": "City of Helsinki",
+      "industry": "Public Sector & Government",
+      "business_function": "Customer Service",
+      "use_case": "IBM Consulting + watsonx Assistant automation for city services",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "10 virtual assistants handle up to 300 contacts per day, serving 38,000+ employees and removing departmental silos",
+      "roi_metrics": [
+        "10 virtual assistants",
+        "300 contacts/day",
+        "38,000 employees"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/products/watsonx/client-quotes",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e4e89860d9df",
+      "company": "Water Corporation",
+      "industry": "Energy & Utilities",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "IBM Consulting + watsonx Code Assistant for SAP cloud migration automation",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Saved roughly 1,500 hours of manual infrastructure labor, cut development costs by 30%, and offset SAP cloud running cost by more than 40%",
+      "roi_metrics": [
+        "1,500 hours saved",
+        "30% lower dev costs",
+        "40%+ cost offset"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/products/watsonx/client-quotes",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a423ee50679d",
+      "company": "Providence",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Human Resources",
+      "use_case": "IBM Consulting AI-powered HR agent using watsonx Orchestrate for hiring",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Managers spend 90% less time on hiring steps; job requests 70% more accurate; internal transfers 12 days faster; transfer time and cost cut by 60%",
+      "roi_metrics": [
+        "90% less time on hiring",
+        "70% more accurate requests",
+        "transfers 12 days faster",
+        "60% lower cost"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.prnewswire.com/news-releases/ibm-consulting-expands-ai-capabilities-to-accelerate-enterprise-transformation-302763432.html",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "72bf743c61d3",
+      "company": "Georgia Tech (Avid Solutions)",
+      "industry": "Education",
+      "business_function": "Field Service",
+      "use_case": "IBM watsonx Orchestrate smart workflows for field response",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Saw a 60% decrease in manual field response times through smart workflows",
+      "roi_metrics": [
+        "60% faster field response"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/products/watsonx-assistant/case-studies",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5891c61b4d19",
+      "company": "Accenture",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Intelligent Financial Advisor on SAP generating narrative commentaries for controllership",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "90%+ of AI-generated narratives approved with little revision; saved ~57,000 hours globally; moved to a 3-day close from 5; freed 20% of idle cash",
+      "roi_metrics": [
+        "57,000 hours saved",
+        "90%+ auto-approved",
+        "5-day to 3-day close",
+        "20% idle cash freed"
+      ],
+      "sources": [
+        {
+          "source_org": "SAP News",
+          "source_url": "https://news.sap.com/2026/03/how-accenture-uses-ai-as-growth-engine/",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "0f06447b7e23",
+      "company": "Accenture (marketing)",
+      "industry": "Professional Services",
+      "business_function": "Marketing",
+      "use_case": "AI Refinery agentic solution (powered by SynOps) for marketing campaign workflows",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Expected to reduce manual steps in a marketing campaign by 25-35%, from 135 steps to 85",
+      "roi_metrics": [
+        "25-35% fewer manual steps",
+        "135 to 85 steps"
+      ],
+      "sources": [
+        {
+          "source_org": "Accenture",
+          "source_url": "https://www.accenture.com/us-en/case-studies/technology/ai-refinery-smarter-faster-marketing",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ba1afc52c4ce",
+      "company": "BBVA",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Accenture-built AI-powered digital onboarding and sales model",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Delivered record-breaking growth including a 117% increase in new customers, with nearly 50 million digital users",
+      "roi_metrics": [
+        "117% increase in new customers",
+        "~50M digital users"
+      ],
+      "sources": [
+        {
+          "source_org": "Accenture",
+          "source_url": "https://www.accenture.com/us-en/insights/strategy/reinvented-with-accenture",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a29a97a8813f",
+      "company": "Vodafone VOXI",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "Accenture gen AI to rebuild VOXI youth-brand customer service chatbot",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Reimagined the customer service chatbot to be faster and more accurate than before",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Accenture",
+          "source_url": "https://www.accenture.com/us-en/insights/strategy/reinvented-with-accenture",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "15018888be48",
+      "company": "Crocs",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Infosys AI (Topaz) to optimize operations and reduce costs",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Using Infosys AI to optimize operations and reduce costs (cited by Infosys CEO on earnings call)",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "The Register",
+          "source_url": "https://theregister.com/2026/04/28/tcs_infosys_wipro_hcl_fy26",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "7eb269954cc9",
+      "company": "Wipro",
+      "industry": "Professional Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Microsoft 365 Copilot deployed internally across delivery and engineering",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "More than 95% monthly active usage, 7.5 million prompts per month, average of 23 actions per user per week",
+      "roi_metrics": [
+        "95%+ MAU",
+        "7.5M prompts/month",
+        "23 actions/user/week"
+      ],
+      "sources": [
+        {
+          "source_org": "Windows Forum (Microsoft data)",
+          "source_url": "https://windowsforum.com/threads/microsoft-365-copilot-at-300-000-seats-infosys-tcs-wipro-scale-agentic-ai.421959/",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "3a6ec097be24",
+      "company": "Infosys",
+      "industry": "Professional Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Microsoft 365 Copilot deployed internally (Infosys Topaz) across delivery, engineering, corporate",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Reached more than 91% monthly active users across delivery, engineering, and corporate functions",
+      "roi_metrics": [
+        "91% MAU",
+        "100,000+ licensed employees"
+      ],
+      "sources": [
+        {
+          "source_org": "Windows Forum (Microsoft data)",
+          "source_url": "https://windowsforum.com/threads/microsoft-365-copilot-at-300-000-seats-infosys-tcs-wipro-scale-agentic-ai.421959/",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "a5871cc59274",
+      "company": "JLL",
+      "industry": "Real Estate",
+      "business_function": "Legal & Compliance",
+      "use_case": "AI lease abstraction and review for commercial real estate documents",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Cut manual review labor by 60%, surfaced over $1M in missed escalation clauses, teams handle 3x volume without adding headcount",
+      "roi_metrics": [
+        "60% less manual review",
+        "$1M+ missed clauses found",
+        "3x volume"
+      ],
+      "sources": [
+        {
+          "source_org": "BuildMVPfast (CRE AI analysis)",
+          "source_url": "https://www.buildmvpfast.com/blog/ai-agents-real-estate-workflow-automation-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "e65fe502d26f",
+      "company": "JLL",
+      "industry": "Real Estate",
+      "business_function": "Fraud & Risk",
+      "use_case": "Machine learning for tenant risk profiling in leasing platforms",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Analyzes lease history, payment behavior, and tenant demographics to flag high-risk applications and transactions",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Mobile Reality (JLL Proptech Report)",
+          "source_url": "https://themobilereality.com/blog/proptech/ai-in-real-estate",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "7328cadc08b4",
+      "company": "Compass",
+      "industry": "Real Estate",
+      "business_function": "Sales",
+      "use_case": "Voice-activated AI assistant for agents (drafts emails, follow-ups, marketing collateral, client invitations)",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Hands-free agent assistant deployed across a platform that reached 340,000 agents after the Anywhere Real Estate acquisition",
+      "roi_metrics": [
+        "340,000 agents"
+      ],
+      "sources": [
+        {
+          "source_org": "BuildMVPfast",
+          "source_url": "https://www.buildmvpfast.com/blog/ai-agents-real-estate-workflow-automation-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "43e9425ed20c",
+      "company": "Compass",
+      "industry": "Real Estate",
+      "business_function": "Sales",
+      "use_case": "AI tools that write listing descriptions, schedule showings, and predict buyer likelihood to close",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Agent productivity tools generating listings and predicting which buyers are most likely to close",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "AZ Big Media",
+          "source_url": "https://azbigmedia.com/real-estate/the-ai-driven-real-estate-platforms-dominating-the-2026-housing-market/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "11f530161567",
+      "company": "Redfin",
+      "industry": "Real Estate",
+      "business_function": "R&D / Product",
+      "use_case": "Conversational AI home search with semantic understanding plus AI virtual staging (Redfin Redesign)",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Natural-language home search that interprets semantic meaning (e.g. 'tiki bar' surfaces tropical-themed homes); lets users restage finishes on listing photos",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "BuildMVPfast",
+          "source_url": "https://www.buildmvpfast.com/blog/ai-agents-real-estate-workflow-automation-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "6da94687fce0",
+      "company": "Zillow",
+      "industry": "Real Estate",
+      "business_function": "R&D / Product",
+      "use_case": "AI Mode for buyers (compare listings, estimate renovation costs, analyze affordability, negotiation insights) plus AI-generated floor plans",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Launched AI Mode March 2026; AI-optimized listings on Zillow get 45% more views than standard listings",
+      "roi_metrics": [
+        "45% more listing views",
+        "19% higher lead-to-tour",
+        "24% higher lead-to-lease",
+        "43% higher lead-to-application"
+      ],
+      "sources": [
+        {
+          "source_org": "AZ Big Media",
+          "source_url": "https://azbigmedia.com/real-estate/the-ai-driven-real-estate-platforms-dominating-the-2026-housing-market/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "EliseAI (Zillow partnership)",
+          "source_url": "https://eliseai.com/zillow-partnership",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c669435ac506",
+      "company": "CBRE",
+      "industry": "Real Estate",
+      "business_function": "Knowledge Management",
+      "use_case": "AI to extract, assimilate and deliver proprietary data to brokers and cut research costs",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Using AI to accumulate and surface data for brokers more efficiently and meaningfully cut the cost of research efforts",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Facilities Dive",
+          "source_url": "https://www.facilitiesdive.com/news/how-commercial-property-management-firms-are-using-ai-and-hope-to-use-it/813798/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "e62e965607e5",
+      "company": "EliseAI",
+      "industry": "Real Estate",
+      "business_function": "Customer Service",
+      "use_case": "Agentic AI for multifamily leasing and resident management across text, email, chat, voice",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Used by 600+ operators including 38 of the NMHC Top 50; responds to prospects in 30 seconds or less; 77% of operators report opex reductions and 85% improved lead-to-lease conversion",
+      "roi_metrics": [
+        "600+ operators",
+        "38 of NMHC Top 50",
+        "30 sec response",
+        "77% opex reduction",
+        "85% conversion improvement",
+        "10.8M hours saved",
+        "1.9 day median lead-to-app",
+        "700+ operators"
+      ],
+      "sources": [
+        {
+          "source_org": "Re-Leased (PM platform guide)",
+          "source_url": "https://www.re-leased.com/software/best-ai-powered-property-management-platforms-2026-guide",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "EliseAI",
+          "source_url": "https://eliseai.com/blog/a-year-to-remember-for-multifamily-eliseai",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "110bbd81f2e2",
+      "company": "TAM Residential",
+      "industry": "Real Estate",
+      "business_function": "Customer Service",
+      "use_case": "EliseAI LeasingAI for automated prospect communications",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Automated over one million total staffing hours managing prospect communications",
+      "roi_metrics": [
+        "1M+ staffing hours automated"
+      ],
+      "sources": [
+        {
+          "source_org": "EliseAI",
+          "source_url": "https://eliseai.com/blog/ai-in-property-management-what-multifamily-professionals-need-to-know",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "2f9b7e65b707",
+      "company": "Summit Property Management",
+      "industry": "Real Estate",
+      "business_function": "Customer Service",
+      "use_case": "EliseAI full suite of leasing and resident services across portfolio",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Deployed EliseAI's full product suite across 10,000+ multifamily units with measurable positive impact",
+      "roi_metrics": [
+        "10,000+ units"
+      ],
+      "sources": [
+        {
+          "source_org": "EliseAI",
+          "source_url": "https://eliseai.com/blog/ai-in-property-management-what-multifamily-professionals-need-to-know",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "e286c0554f2c",
+      "company": "Relos",
+      "industry": "Real Estate",
+      "business_function": "Legal & Compliance",
+      "use_case": "V7 Go AI agents to process real estate transaction contracts",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Processed $100M+ in transaction volume; saved 45-60 min per contract at 99.5% accuracy across 120+ transactions; cut contract processing cost from $300-1,000 to ~$100",
+      "roi_metrics": [
+        "$100M+ volume",
+        "45-60 min/contract saved",
+        "99.5% accuracy",
+        "cost $300-1000 to ~$100"
+      ],
+      "sources": [
+        {
+          "source_org": "V7 Labs",
+          "source_url": "https://www.v7labs.com/blog/best-ai-tools-for-real-estate",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "1cc7aec1523e",
+      "company": "Centerline",
+      "industry": "Real Estate",
+      "business_function": "Finance & Accounting",
+      "use_case": "V7 Go AI document processing for real estate financial services",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Achieved a 35% productivity increase in the first month of implementation",
+      "roi_metrics": [
+        "35% productivity increase"
+      ],
+      "sources": [
+        {
+          "source_org": "V7 Labs",
+          "source_url": "https://www.v7labs.com/blog/best-ai-tools-for-real-estate",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "ea389d0a59a9",
+      "company": "Prophia",
+      "industry": "Real Estate",
+      "business_function": "Legal & Compliance",
+      "use_case": "AI extraction of commercial real estate lease data terms",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Extracts 215+ CRE data terms at 99% accuracy with 5-10 minute turnaround; ~$150,000 annual labor savings for firms processing 1,000+ leases/year",
+      "roi_metrics": [
+        "215+ terms",
+        "99% accuracy",
+        "5-10 min turnaround",
+        "$150K annual savings"
+      ],
+      "sources": [
+        {
+          "source_org": "BuildMVPfast",
+          "source_url": "https://www.buildmvpfast.com/blog/ai-agents-real-estate-workflow-automation-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "20f4cf043167",
+      "company": "AppFolio",
+      "industry": "Real Estate",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Realm-X AI assistant and flows for property management across 20,000+ customers",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Over 93% of AppFolio customers actively use its AI tools; saves 10+ hours per week per property manager (~3 work weeks annually)",
+      "roi_metrics": [
+        "93%+ adoption",
+        "10+ hours/week saved",
+        "20,000+ customers",
+        "96% of 20,000+ customers",
+        "10.3 hrs/week saved",
+        "11.9 hrs/week on comms",
+        "26 sec/message",
+        "73% higher lead-to-showing"
+      ],
+      "sources": [
+        {
+          "source_org": "V7 Labs",
+          "source_url": "https://www.v7labs.com/blog/best-ai-tools-for-real-estate",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "AppFolio",
+          "source_url": "https://www.appfolio.com/newsroom/appfolio-ai-agents",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "700c36c64159",
+      "company": "Yardi",
+      "industry": "Real Estate",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Virtuoso enterprise AI platform spanning property, asset, and investment management",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Deployed Virtuoso as enterprise AI platform across property, asset, and investment management functions",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "V7 Labs",
+          "source_url": "https://www.v7labs.com/blog/best-ai-tools-for-real-estate",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "7f4e6dea59ff",
+      "company": "Cambio",
+      "industry": "Real Estate",
+      "business_function": "Legal & Compliance",
+      "use_case": "Agentic AI reasoning across unstructured CRE documents and multi-step analyses",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Agentic AI that runs multi-step analyses across unstructured documents and adapts to changing regulations (YC-backed, raised $18M at $100M valuation)",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "BuildMVPfast",
+          "source_url": "https://www.buildmvpfast.com/blog/ai-agents-real-estate-workflow-automation-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "57aa9cd4e2b9",
+      "company": "Bedrock Robotics",
+      "industry": "Real Estate",
+      "business_function": "Field Service",
+      "use_case": "AI self-driving construction vehicles using 3D mapping from laser, satellite, and motion sensors",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Bedrock Operator autonomously navigates worksites via real-time 3D mapping to augment construction labor amid workforce shortages",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Bisnow",
+          "source_url": "https://www.bisnow.com/national/news/proptech/the-4-newest-proptech-unicorns-show-ais-increasing-role-in-real-estate-133304",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "1dfbfdb28b58",
+      "company": "CoStar (Matterport)",
+      "industry": "Real Estate",
+      "business_function": "R&D / Product",
+      "use_case": "AI and computer vision for interactive 3D virtual property tours",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Acquired Matterport for $1.6B to power AI-driven 3D virtual tours for property listings",
+      "roi_metrics": [
+        "$1.6B acquisition"
+      ],
+      "sources": [
+        {
+          "source_org": "BuildMVPfast",
+          "source_url": "https://www.buildmvpfast.com/blog/ai-agents-real-estate-workflow-automation-2026",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "96a54d2e8240",
+      "company": "Sir Robert McAlpine",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Buildots AI progress tracking comparing 360-camera footage to BIM across live projects",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Deployed Buildots across over 260,000 square meters of live projects for tracking, billing, and QA with a time-stamped visual audit trail",
+      "roi_metrics": [
+        "260,000+ sq m"
+      ],
+      "sources": [
+        {
+          "source_org": "Mastt (construction AI roundup)",
+          "source_url": "https://www.mastt.com/blogs/construction-ai-companies",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "73281976cb9b",
+      "company": "Corscale",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Doxel AI/LiDAR/computer vision progress tracking on data center builds",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Used Doxel on Virginia data center projects to speed delivery, reduce waste, adjust crews and catch schedule slips before delays",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Mastt",
+          "source_url": "https://www.mastt.com/blogs/construction-ai-companies",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "003c0a951db3",
+      "company": "Suffolk Construction",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "OpenSpace Visual Intelligence (AI Autolocation, AI Voice Notes) for jobsite documentation",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Saw an 86% speed improvement in documenting issues using OpenSpace AI Autolocation and AI Voice Notes; deploying on data center builds",
+      "roi_metrics": [
+        "86% faster issue documentation"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenSpace",
+          "source_url": "https://www.openspace.ai/blog/openspace-2025-review/",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "517e56722ed7",
+      "company": "McCarthy Building Companies",
+      "industry": "Construction",
+      "business_function": "Field Service",
+      "use_case": "Dusty Robotics FieldPrinter printing BIM layout directly onto concrete slabs",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Layout that once took a crew a week was finished in a day or two on large healthcare and industrial builds, ensuring next trade got it right without rework",
+      "roi_metrics": [
+        "layout week to 1-2 days"
+      ],
+      "sources": [
+        {
+          "source_org": "Mastt",
+          "source_url": "https://www.mastt.com/blogs/construction-ai-companies",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "79e48b6152d4",
+      "company": "Bouygues Construction",
+      "industry": "Construction",
+      "business_function": "R&D / Product",
+      "use_case": "AI-driven engineering to redesign structural elements plus ALICE scheduling simulations",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "On the Bagneux metro station project, AI redesign of a retaining wall cut 140 tonnes of steel, lowering cost and embodied carbon before construction",
+      "roi_metrics": [
+        "140 tonnes of steel cut"
+      ],
+      "sources": [
+        {
+          "source_org": "Mastt",
+          "source_url": "https://www.mastt.com/blogs/construction-ai-companies",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "d2c27170b73f",
+      "company": "OpenSpace",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Spatial AI visual intelligence platform mapping jobsite imagery to BIM across data center projects",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Across 1,000+ data center projects: 41% fewer claims, 5X more quality issues captured, 10X faster documentation, 5-week average payback",
+      "roi_metrics": [
+        "41% fewer claims",
+        "5X more quality issues",
+        "10X faster docs",
+        "5-week payback",
+        "1,000+ data center projects"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenSpace",
+          "source_url": "https://www.openspace.ai/press-releases/openspace-surpasses-1000-data-center-projects-defining-the-construction-intelligence-standard-for-ai-infrastructure/",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "819037f1ef3b",
+      "company": "Coastal Construction",
+      "industry": "Construction",
+      "business_function": "Finance & Accounting",
+      "use_case": "Togal.AI deep-learning takeoff and estimating from construction drawings (high-rise residential/commercial)",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Saved an average of 14.5 hrs per plan set (from ~20 hrs/week of manual takeoff), ~$1M/year cumulative savings; 20% accuracy gain and 40% speed improvement",
+      "roi_metrics": [
+        "14.5 hrs/plan set saved",
+        "~$1M/year savings",
+        "20% accuracy gain",
+        "40% faster",
+        "14.5 hrs/plan set",
+        "13,920 hrs/year",
+        "~$1M first-year savings",
+        "97% to 98% accuracy",
+        "40-60% less coordination effort"
+      ],
+      "sources": [
+        {
+          "source_org": "Togal.AI",
+          "source_url": "https://www.togal.ai/case-studies",
+          "source_type": "other",
+          "source_tier": "primary"
+        },
+        {
+          "source_org": "Togal.AI",
+          "source_url": "https://www.togal.ai/case-study/coastal-construction-case-study",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "713d687847e8",
+      "company": "Consigli",
+      "industry": "Construction",
+      "business_function": "Finance & Accounting",
+      "use_case": "Togal.AI for estimating across distributed teams ($4B+ annual volume)",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Transitioned 80-100 estimators from On-Screen Takeoff to Togal.AI for faster, more consistent, collaborative estimating at scale",
+      "roi_metrics": [
+        "$4B+ annual volume",
+        "80-100 estimators"
+      ],
+      "sources": [
+        {
+          "source_org": "Togal.AI",
+          "source_url": "https://www.togal.ai/case-studies",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2a67e090c46b",
+      "company": "UrbanCore Construction",
+      "industry": "Construction",
+      "business_function": "Finance & Accounting",
+      "use_case": "Togal.AI for conceptual estimates on multifamily and adaptive-reuse projects",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Conceptual estimates that used to take a week or more are now produced in a matter of hours, helping clients focus on viable deals",
+      "roi_metrics": [
+        "week+ to hours"
+      ],
+      "sources": [
+        {
+          "source_org": "Togal.AI",
+          "source_url": "https://www.togal.ai/case-studies",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "9331bf047360",
+      "company": "Suffolk Construction (ALICE)",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "ALICE Technologies generative scheduling simulating build sequences on a life-sciences project",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Recovered 42 days on a life sciences project using ALICE generative scheduling",
+      "roi_metrics": [
+        "42 days recovered",
+        "22-day negative float eliminated"
+      ],
+      "sources": [
+        {
+          "source_org": "Dan Cumberland Labs (ALICE case)",
+          "source_url": "https://dancumberlandlabs.com/blog/ai-construction-industry/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "ALICE Technologies",
+          "source_url": "https://blog.alicetechnologies.com/case-studies",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2f954a33f46b",
+      "company": "Zachry Construction",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "ALICE Technologies AI to accelerate and optimize estimating and scheduling on major infrastructure projects",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Uses ALICE AI to accelerate and optimize project estimating and scheduling, saving time and resources on major projects",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "ALICE Technologies",
+          "source_url": "https://blog.alicetechnologies.com/news",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "83b0b878f230",
+      "company": "ALICE Technologies",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Generative scheduling engine simulating millions of build sequences for optimal time/cost path",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Independent analysis suggests the platform reduces project duration by an average of 17% and labor costs by 14%",
+      "roi_metrics": [
+        "17% shorter duration",
+        "14% lower labor costs",
+        "$32M revenue preserved",
+        "29-day delay avoided",
+        "63 days cut",
+        "90+ days on portfolio"
+      ],
+      "sources": [
+        {
+          "source_org": "Construction Digital",
+          "source_url": "https://constructiondigital.com/top10/top-ai-tools-in-construction",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "ALICE Technologies",
+          "source_url": "https://blog.alicetechnologies.com/case-studies/32m-saved-data-center-project-overcomes-29-day-delay-with-alice-0",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d533dcd85f59",
+      "company": "Dusty Robotics",
+      "industry": "Construction",
+      "business_function": "Field Service",
+      "use_case": "FieldPrinter autonomous layout robot printing BIM plans onto slabs at 1/16 inch accuracy",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Deployed by DPR, McCarthy and Skanska across healthcare, industrial and commercial builds; printed 100+ million square feet of layout to date",
+      "roi_metrics": [
+        "1/16 inch accuracy",
+        "100M+ sq ft printed",
+        "50% faster layout (Skanska)",
+        "100% accuracy"
+      ],
+      "sources": [
+        {
+          "source_org": "Construction Digital",
+          "source_url": "https://constructiondigital.com/top10/top-ai-tools-in-construction",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "Dusty Robotics",
+          "source_url": "https://www.dustyrobotics.com/customer-stories/skanska-case-study",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2f6d7775f074",
+      "company": "nPlan",
+      "industry": "Construction",
+      "business_function": "Fraud & Risk",
+      "use_case": "Machine learning for construction schedule risk analysis trained on historical project schedules",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Trains models on 750,000 historical project schedules representing over $2 trillion of construction spend to forecast schedule risk",
+      "roi_metrics": [
+        "750,000 schedules",
+        "$2T+ construction spend"
+      ],
+      "sources": [
+        {
+          "source_org": "Construction Digital",
+          "source_url": "https://constructiondigital.com/top10/top-ai-tools-in-construction",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "de9c5d90634b",
+      "company": "Togal.AI",
+      "industry": "Construction",
+      "business_function": "Finance & Accounting",
+      "use_case": "Deep-learning automated takeoff detecting, measuring and labeling project spaces from drawings",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "98% accuracy on floor plan takeoffs at 5x manual speed; independent University of Kansas study showed up to 76% time savings vs On-Screen Takeoff",
+      "roi_metrics": [
+        "98% accuracy",
+        "5x faster",
+        "76% time savings",
+        "333% revenue growth 2025",
+        "80% time reduction",
+        "5 AI patents"
+      ],
+      "sources": [
+        {
+          "source_org": "Construction Digital",
+          "source_url": "https://constructiondigital.com/top10/top-ai-tools-in-construction",
+          "source_type": "other",
+          "source_tier": "secondary"
+        },
+        {
+          "source_org": "Togal.AI",
+          "source_url": "https://www.togal.ai/case-study/coastal-construction-case-study",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b6b55d0466c3",
+      "company": "Linxon",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "OpenSpace visual intelligence for EPC delivery of substations and grid infrastructure",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Uses OpenSpace for jobsite documentation across power infrastructure EPC projects (AMEA, Europe, Americas)",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "OpenSpace",
+          "source_url": "https://www.openspace.ai/resources/case-studies/",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "206d6074044e",
+      "company": "Autodesk",
+      "industry": "Construction",
+      "business_function": "R&D / Product",
+      "use_case": "Project Bernini generative AI creating 3D building models from text prompts or images",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Generates 3D building models from text prompts or images, embedding AI assistants into design and construction workflows (Forma)",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Buildcheck",
+          "source_url": "https://buildcheck.ai/insights-case-studies/ai-transforms-aec-boosting-bids-design-and-roi",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "5d4028106dd0",
+      "company": "Procore",
+      "industry": "Construction",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Helix Intelligence Layer with AI agents (RFI Creation Agent, Daily Log Agent, Procore Assist chatbot)",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Embedded AI agents that draft RFIs, generate daily logs, and answer questions conversationally inside the contractor's existing platform",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Dan Cumberland Labs",
+          "source_url": "https://dancumberlandlabs.com/blog/construction-ai-tools/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "medium"
+    },
+    {
+      "id": "4dfbe087c259",
+      "company": "GoldOller Real Estate Investments",
+      "industry": "Real Estate",
+      "business_function": "Finance & Accounting",
+      "use_case": "EliseAI conversational AI and EliseCRM for delinquency follow-up and prospect nurturing",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Collected $2.4M in 30+ day overdue balances via automated follow-ups; 4% portfolio-wide occupancy increase; 2.2x ROI on centralized resource spend",
+      "roi_metrics": [
+        "$2.4M collected",
+        "4% occupancy increase",
+        "2.2x ROI"
+      ],
+      "sources": [
+        {
+          "source_org": "EliseAI",
+          "source_url": "https://eliseai.com/customer-stories/how-goldoller-enhanced-the-employee-experience-and-improved-conversion-rates-with-elisecrm",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1c47785bb231",
+      "company": "Stratford Partners",
+      "industry": "Real Estate",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "EliseAI-enabled centralization for leasing follow-ups and delinquency across multifamily assets",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Centralization cut payroll burden on four Colorado deals from $167,000 (two managers) to $116,000 (one senior manager plus centralized leasing), with improved conversion and reduced bad debt",
+      "roi_metrics": [
+        "payroll $167K to $116K"
+      ],
+      "sources": [
+        {
+          "source_org": "EliseAI",
+          "source_url": "https://eliseai.com/customer-stories/how-stratford-partners-baked-ai-enabled-centralization-into-their-investment-thesis",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "fa2574797364",
+      "company": "Landmark Properties",
+      "industry": "Real Estate",
+      "business_function": "Customer Service",
+      "use_case": "EliseAI to boost NOI via improved collections and lead-to-lease conversion across student/multifamily housing",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Deployed EliseAI across a $15B AUM portfolio of 115+ communities and 72,000+ student beds to improve collections and conversion amid staffing shortages",
+      "roi_metrics": [
+        "$15B AUM",
+        "72,000+ beds",
+        "115+ communities"
+      ],
+      "sources": [
+        {
+          "source_org": "EliseAI",
+          "source_url": "https://eliseai.com/customer-stories/landmark-properties-improves-their-operational-efficiency-and-customer-experiences-with-eliseai",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "158bce9276cb",
+      "company": "Ananda Development",
+      "industry": "Construction",
+      "business_function": "R&D / Product",
+      "use_case": "ALICE generative scheduling to explore construction scenarios on a Bangkok residential high-rise (Elio Del Nest)",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Explored scenarios that slashed costs by 32% and, by adjusting overtime timing, decreased project duration by 208 days on a luxury residential high-rise",
+      "roi_metrics": [
+        "32% cost reduction",
+        "208 days shorter"
+      ],
+      "sources": [
+        {
+          "source_org": "ALICE Technologies",
+          "source_url": "https://blog.alicetechnologies.com/case-studies/ananda-elio-del-nest",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5e2fced39851",
+      "company": "Build Group",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "ALICE construction optioneering for the 5M Project in San Francisco to explore schedule alternatives",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Saved millions of dollars on the production schedule by reducing crew utilization by 10% on a tight-logistics urban site",
+      "roi_metrics": [
+        "10% lower crew utilization",
+        "millions saved"
+      ],
+      "sources": [
+        {
+          "source_org": "ALICE Technologies",
+          "source_url": "https://www.alicetechnologies.com/solutions/for-general-contractors",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6baf148a8e93",
+      "company": "SCS JV (Skanska, Costain, STRABAG)",
+      "industry": "Construction",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "ALICE optioneering to find efficient sequencing on HS2 Copthall Green tunnels and Euston cavern shaft",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Used ALICE to determine optimal production rates and efficient sequencing, identifying significant time and money savings on the Euston SCL shaft to enable an earlier construction start",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "ALICE Technologies",
+          "source_url": "https://blog.alicetechnologies.com/case-studies",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "ccd53608c214",
+      "company": "Turner Construction",
+      "industry": "Construction",
+      "business_function": "Field Service",
+      "use_case": "Dusty Robotics FieldPrinter multi-trade layout on a 20-story headquarters",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Printing multiple trades' layout at once let Turner complete layout 10x faster than traditional methods at 100% accuracy with no rework; one project laid out 42,000 sq ft in 5 days with a single person",
+      "roi_metrics": [
+        "10x faster layout",
+        "100% accuracy",
+        "42,000 sq ft in 5 days / 1 person"
+      ],
+      "sources": [
+        {
+          "source_org": "Dusty Robotics",
+          "source_url": "https://www.dustyrobotics.com/customer-stories/robotics-for-autonomous-layout",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "632b5490292d",
+      "company": "Mortenson",
+      "industry": "Construction",
+      "business_function": "Field Service",
+      "use_case": "Dusty Robotics FieldPrinter with Autodesk AutoCAD plugin for multi-trade field layout",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "BIM data transferred directly to the field; consistent accuracy let crews put walls up immediately behind the robot, driving other trades (mechanical, etc.) to adopt it mid-project",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Dusty Robotics",
+          "source_url": "https://www.dustyrobotics.com/customers/mortenson",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "f5ff10da9d49",
+      "company": "MPC (Mountain Plains Constructors)",
+      "industry": "Construction",
+      "business_function": "Finance & Accounting",
+      "use_case": "Togal.AI automated takeoff for preconstruction estimating in Denver",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Estimators tackle the work of two to three people without hiring extra staff; with entry-level estimators costing ~$90,000 in Denver, the platform paid for itself in a couple of days",
+      "roi_metrics": [
+        "work of 2-3 people",
+        "paid for itself in days"
+      ],
+      "sources": [
+        {
+          "source_org": "Togal.AI",
+          "source_url": "https://www.togal.ai/blog/how-much-money-does-togal-ai-save-construction",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-06-22",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    }
+  ]
+}
