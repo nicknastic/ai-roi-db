@@ -3199,6 +3199,237 @@
       "date_added": "2026-06-22",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "69c72aff0dbf",
+      "company": "CMPC",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI photo-optical log measurement (Timbeter) replacing manual scaling across nationwide harvesting operations in Chile",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Pilot delivered 11.5x ROI, projected 15x ROI nationwide with est. $1.2M USD savings; measurement 15x faster than manual; 45 tonnes/yr of marking paint eliminated; zero accidents during pilot; full national rollout since 2021",
+      "roi_metrics": [
+        "15x projected ROI",
+        "11.5x ROI in pilot areas",
+        "$1.2M est. annual savings",
+        "15x faster measurement",
+        "45 tonnes/yr paint eliminated",
+        "zero accidents in pilot"
+      ],
+      "sources": [
+        {
+          "source_org": "Timbeter",
+          "source_url": "https://timbeter.com/blog/how-cmpc-chile-scaled-digital-timber-measurement-nationwide/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "48811d3f80b2",
+      "company": "Latvia's State Forests (LVM)",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Optimization-based harvest and delivery scheduling (Remsoft Woodstock OPT) across 1.6M ha, 12,000 harvest units/yr and 50+ mills",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "4% transportation cost reduction saving ~EUR 1.2M annually; 9% contract fulfillment improvement (2011-2015); product downgrade revenue loss cut 5% (2013-14) and 17% (2014-15); min. 2 km cut per round trip on 25M km/yr driven",
+      "roi_metrics": [
+        "EUR 1.2M annual transport savings",
+        "4% transportation cost reduction",
+        "9% contract fulfillment improvement",
+        "17% cut in downgrade revenue loss (2014-15)"
+      ],
+      "sources": [
+        {
+          "source_org": "Remsoft",
+          "source_url": "https://remsoft.com/blog/multi-level-forest-operations-planning-and-optimization-saves-millions/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1756b72b96ba",
+      "company": "Polish State Forests (PGL LP)",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Nationwide AI photo-optical timber measurement rollout (Timbeter) integrated with the Lesnik+ system, backed by Director General's Order No. 92/2024",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Phase 1 (2024) measured 250,000+ m3 of timber across 14 forest districts; phase 2 extends to 700+ forest units nationwide; reduced forester workload and paperwork with image/geolocation traceability",
+      "roi_metrics": [
+        "250,000+ m3 measured in phase 1",
+        "700+ forest units in phase 2"
+      ],
+      "sources": [
+        {
+          "source_org": "Timbeter",
+          "source_url": "https://timbeter.com/blog/timbeter-and-polish-state-forests-enter-second-stage-of-nationwide-digital-timber-measurement-rollout/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "136e4fa97edb",
+      "company": "Washington State Department of Natural Resources",
+      "industry": "Forestry",
+      "business_function": "Field Service",
+      "use_case": "AI camera network for early wildfire detection and situational awareness on state forest lands (Pano AI)",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Kept 95% of fires below 10 acres over three years per former Commissioner of Public Lands; Jackson Road Fire (2023) response ~20 minutes faster, contained at 23 acres",
+      "roi_metrics": [
+        "95% of fires kept below 10 acres (3 yrs)",
+        "~20 min faster response (Jackson Road Fire)"
+      ],
+      "sources": [
+        {
+          "source_org": "Pano AI",
+          "source_url": "https://www.pano.ai/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "784ed92e8aca",
+      "company": "Suzano",
+      "industry": "Forestry",
+      "business_function": "Procurement",
+      "use_case": "VagaLumen: Gemini-powered natural-language querying of SAP materials data (Insumos/MRO) on BigQuery via Cortex Framework",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "95% reduction in material query time (2 min to 8 sec) for the world's largest pulp producer; 4,000 accesses and 473 unique users since May 2024 go-live, democratizing data for 50,000 employees",
+      "roi_metrics": [
+        "95% query time reduction (2 min to 8 sec)",
+        "473 unique users since go-live"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/customers/suzano-genai-cortex",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d8f683f504d6",
+      "company": "Suzano",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Marvin geospatial AI platform for land management, productivity, water/carbon tracking across 2.7M ha of eucalyptus plantations; long-term commercial deal after field-trial validation",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Committed to long-term commercial agreement and invested $1M via Suzano Ventures after successful technical validation in field trials; quantified operational results not yet published",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Geo Week News",
+          "source_url": "https://www.geoweeknews.com/news/suzano-signs-long-term-deal-with-marvin-following-successful-validation-of-forestry-sector-ai-geospatial-intelligence-capabilities",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "0f33eeccbe3f",
+      "company": "Domtar",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI vision models grading lumber and detecting defects invisible to the human eye at seven named sawmills/planer mills in the US and Canada",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Significantly improved product quality and consistency over two years across mills in Arkansas, Florida, Ontario and Quebec; 'a lot less waste' per quality superintendent; no hard figures published",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Domtar",
+          "source_url": "https://www.domtar.com/domtar-ai-modeling/",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "01c2ccf0632d",
+      "company": "SCA",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI digital twin of the forest from laser scanning and harvester data for digital harvest planning (tested on 770 ha, 10,000+ ha scanned)",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Automated data interpretation replacing manual field planning; goal for all SCA Forest planners to use digital forestry planning by 2025; quantified savings not yet published",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "SCA",
+          "source_url": "https://www.sca.com/en/media/news/2024/sca-uses-ai-for-digital-forestry-planning/",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ed6ebf77eda4",
+      "company": "Metsahallitus",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Linda Forest AI (CollectiveCrunch) predicting wood inventory volumes, species and quality from satellite/LIDAR/climate data; also used by Tornator and LocalTapiola in Finland",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Reduced manual forest visits and improved prediction accuracy vs traditional inventory methods with error rates up to 30%; quantified customer-level ROI not published",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Business Finland",
+          "source_url": "https://www.businessfinland.fi/en/whats-new/cases/2022/collectivecrunch-the-keys-to-tackling-climate-change-from-space",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "6304fc2b3b18",
+      "company": "Weyerhaeuser",
+      "industry": "Forestry",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "LiDAR + satellite imagery + ML timber inventory mapping across ~10M-acre estate; 125 years of growth records feeding harvest-scheduling model; semi-autonomous AI-navigated skidder pilots",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Sharper timber inventory precision and harvest scheduling across 10M acres; AI-assisted logging pilots underway; company targets $150M incremental Timberlands EBITDA by 2030 (not AI-attributed)",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "Wood Central",
+          "source_url": "https://woodcentral.com.au/weyerhaeuser-trains-ai-to-map-every-tree-in-its-10m-acre-estate/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-07-18",
+      "has_hard_numbers": true,
+      "confidence": "medium"
     }
   ]
 }
