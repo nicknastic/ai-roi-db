@@ -533,7 +533,10 @@
       "roi_outcome": "Increased self-service results and efficiency by over 40%; achieved 213% ROI from Service Cloud integration",
       "roi_metrics": [
         "40%+ self-service efficiency",
-        "213% ROI"
+        "213% ROI",
+        "40%+ case resolution improvement",
+        "50% faster seasonal onboarding",
+        "$230K documented savings"
       ],
       "sources": [
         {
@@ -541,11 +544,17 @@
           "source_url": "https://www.cxtoday.com/crm/agentforce-case-studies/",
           "source_type": "saas",
           "source_tier": "secondary"
+        },
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/agentforce/metrics/",
+          "source_type": "saas",
+          "source_tier": "primary"
         }
       ],
       "date_added": "2026-06-20",
       "has_hard_numbers": true,
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "id": "2c50fa008d30",
@@ -3430,6 +3439,179 @@
       "date_added": "2026-07-18",
       "has_hard_numbers": true,
       "confidence": "medium"
+    },
+    {
+      "id": "a65e05ebc228",
+      "company": "N26",
+      "industry": "Financial Services",
+      "business_function": "Operations",
+      "use_case": "Claude automating document classification, extraction, translation, chargeback analysis, and financial crime analysis across 15+ internal applications",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Automated up to 70% of tasks across targeted processes; up to 50% reduction in manual processing; 15+ use cases deployed within first year serving 24 European markets",
+      "roi_metrics": [
+        "up to 70% task automation",
+        "up to 50% less manual processing",
+        "15+ use cases in first year",
+        "5x growth in AI initiatives",
+        "1-2 week ideation-to-evaluation"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/n26",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5c11a652dfe6",
+      "company": "CRED",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Code agentic coding for solution discovery, code writing, testing, and documentation across the development lifecycle",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "2x faster execution for feature delivery and fixes with 10% higher test coverage while maintaining financial-grade code quality",
+      "roi_metrics": [
+        "2x faster execution",
+        "10% test coverage increase"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/cred",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3081e5a38366",
+      "company": "Clay",
+      "industry": "Technology & Software",
+      "business_function": "Sales & Marketing",
+      "use_case": "Claude 3 Haiku generating personalized sales outreach at scale via lead identification, data enrichment, and customized messaging",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Customers save hundreds of hours by automating manual sales data work while producing more natural personalized outreach at lower model cost",
+      "roi_metrics": [
+        "hundreds of hours saved"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/clay",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "5f7baa9e605c",
+      "company": "Brand.ai",
+      "industry": "Professional Services",
+      "business_function": "Sales & Marketing",
+      "use_case": "Claude turning static brand guidelines into dynamic brand-compliance and content systems for enterprise marketing teams",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Cut enterprise brand compliance costs from $5M a year to a fraction; one copywriter manages 600 content pieces; guideline rollout cut from 24 months to days",
+      "roi_metrics": [
+        "$5M annual compliance cost cut to fraction",
+        "600 content pieces per copywriter",
+        "24 months to days rollout"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/brand-ai",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5b834736279a",
+      "company": "BOQ Group (Bank of Queensland)",
+      "industry": "Financial Services",
+      "business_function": "Operations",
+      "use_case": "Microsoft 365 Copilot for risk reviews, training program creation, reporting, and meeting productivity bank-wide",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "70% of employees save 30-60 minutes daily; business risk reviews done in one day instead of three weeks; report sign-off cut from four weeks to one",
+      "roi_metrics": [
+        "70% of staff save 30-60 min/day",
+        "risk reviews 3 weeks to 1 day",
+        "sign-off 4 weeks to 1 week",
+        "2 hours saved per meeting activity"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/20729-bank-of-queensland-azure",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "210246d241b1",
+      "company": "Lenovo",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Copilot in Dynamics 365 Contact Center with nine-language omnichannel chat and AI-suggested responses for Premier Support",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "20% reduction in average handling time, 15% higher agent productivity, record-high customer satisfaction",
+      "roi_metrics": [
+        "20% lower average handling time",
+        "15% agent productivity gain",
+        "9-language auto-translation"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/19784-lenovo-dynamics-365-customer-service",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8509acc696f5",
+      "company": "Nexo",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce AI agents autonomously resolving customer service cases",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Achieved 62% autonomous case resolution with Agentforce",
+      "roi_metrics": [
+        "62% case resolution"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/agentforce/metrics/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
