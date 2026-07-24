@@ -3612,6 +3612,345 @@
       "date_added": "2026-07-20",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "0802464ff3e0",
+      "company": "Virtua Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "",
+      "use_case": "AI-powered clinical decision support (sepsis early warning, heart-failure prediction) via Copilot as the UI over an Azure AI Foundry model",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "AI-powered clinical decision support cut sepsis false positives 80%, improved heart-failure follow-up rates from 58% to 81%, and shortened hospital stays",
+      "roi_metrics": [
+        "80% reduction in sepsis false-positive alerts",
+        "97% heart-failure prediction model accuracy",
+        "Heart-failure follow-up rate up from 58% to 81%",
+        "1-day shorter average hospital stay",
+        "15,000 excess hospital days eliminated",
+        "Clinician chart-review time cut from 30 to 5 minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26318-virtua-health-microsoft-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1aa77ea879e1",
+      "company": "LG CNS",
+      "industry": "Professional Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Code-powered 'Build Factory' automating legacy enterprise system modernization (architecture design, code generation, API migration, UI conversion)",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Claude Code-powered Build Factory migrated 2,888 of 2,913 legacy APIs (99.1%) and converted 1,340 screens to React in 7 months at roughly half the cost of a conventional rebuild",
+      "roi_metrics": [
+        "99.1% API migration completion (2,888 of 2,913)",
+        "1,340 screens converted to React",
+        "7-month delivery timeline",
+        "~50% cost reduction vs. conventional rebuild"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/lg-cns",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "858f6fd4467f",
+      "company": "Eve Legal",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Claude-powered case management platform for plaintiff law firms (document analysis, medical chronologies, demand letters, case monitoring agents, intake transcription)",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Claude-powered case management platform lets plaintiff law firms settle cases up to 60 days faster and take on 30 more cases per lawyer per year",
+      "roi_metrics": [
+        "Cases settle up to 60 days faster",
+        "Settlement values up to 30% higher",
+        "30 additional cases per lawyer per year",
+        "50% faster case life cycles",
+        "80% of manual work automated",
+        "12.5 million documents processed monthly",
+        "Engineering triage cut from 3-4 hours to minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/eve-legal",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e1014a268d7e",
+      "company": "Thrasio",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Assembled Assist (built on Claude) automating customer support ticket triage and response across ~70,000 monthly interactions for e-commerce brand portfolio",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Assembled's Claude-powered AI agent automated 53% of Thrasio's customer interactions, cutting first-response time from 1 hour to under 20 minutes and saving nearly $2M",
+      "roi_metrics": [
+        "53% of customer interactions automated",
+        "First response time cut from 1 hour to under 20 minutes",
+        "Nearly $2M in cost savings",
+        "50% decrease in full resolution time"
+      ],
+      "sources": [
+        {
+          "source_org": "Assembled",
+          "source_url": "https://www.assembled.com/blog/assembled-transforms-support-operations-with-claude",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9a8c042b0945",
+      "company": "Honeylove",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Customer Service",
+      "use_case": "Assembled Assist (built on Claude) fine-tuned on garment sizing, sales, and return policy to help agents answer questions previously escalated to team leads",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Honeylove's Claude-powered AI copilot lifted agent solves per hour 54% and CSAT 18% while cutting escalations 20% within 5 months",
+      "roi_metrics": [
+        "54% increase in solves per hour",
+        "20% decrease in escalations",
+        "18% increase in CSAT for AI-powered responses",
+        "Results achieved within 5 months of deployment"
+      ],
+      "sources": [
+        {
+          "source_org": "Assembled",
+          "source_url": "https://www.assembled.com/blog/assembled-transforms-support-operations-with-claude",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5fed2c8b2e05",
+      "company": "Formula 1",
+      "industry": "Media & Entertainment",
+      "business_function": "Marketing",
+      "use_case": "Agentforce Marketing and Data 360 unifying fan data from 100+ sources to personalize content and power AI-assisted customer service replies",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Formula 1 used Agentforce Marketing and Data 360 to unify 24 million fan profiles from 100+ data sources, lifting click-through rates 22% and cutting customer service response times 80%",
+      "roi_metrics": [
+        "22% increase in click-through rates",
+        "80% faster customer service response times",
+        "24 million fan profiles unified",
+        "100+ data sources consolidated"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/formula-one/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9bf3a15bc008",
+      "company": "MagicSchool",
+      "industry": "Education",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude-powered AI copilot for educators and students handling lesson planning, personalized feedback, content creation, and student-message safety moderation",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "MagicSchool's Claude-powered platform serves 3 million educators with a 3x reduction in incorrect safety flagging across 8-10 million monthly student messages moderated",
+      "roi_metrics": [
+        "3x reduction in incorrect safety flagging",
+        "8-10 million student messages moderated monthly",
+        "3 million educators on platform",
+        "100 million+ AI-powered engagements",
+        "5,500+ school/district partnerships"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/magicschool",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "53d7f1bf9825",
+      "company": "Benchling",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "R&D / Product",
+      "use_case": "Claude-powered Data Entry Assistant and SQL Assistant transforming unstructured lab data into structured records and answering scientific queries",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Benchling's Claude-powered Data Entry Assistant saves scientists up to 2 weeks per data-transformation task and speeds SQL-based scientific queries from hours to seconds",
+      "roi_metrics": [
+        "Up to 2 weeks saved per data-transformation task",
+        "Scientific question answering cut from hours to seconds",
+        "Preclinical study comparison validation cut from days to minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/benchling",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f449a485a17b",
+      "company": "Novo Nordisk",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "R&D / Product",
+      "use_case": "NovoScribe, an AI documentation platform built with Claude Code, generating clinical study reports, device verification protocols, and patient trial materials",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Novo Nordisk built NovoScribe on Claude Code to cut clinical study report documentation time from 10+ weeks to 10 minutes and CSR writing time by 90%",
+      "roi_metrics": [
+        "Documentation time cut from 10+ weeks to 10 minutes",
+        "90% reduction in CSR writing time",
+        "95% reduction in resources for device verification protocols",
+        "Study booklet/patient guide production cut to under a minute",
+        "11-person team maintained while expanding capabilities"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/novo-nordisk",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "298b15e2ab18",
+      "company": "Auteco",
+      "industry": "Automotive",
+      "business_function": "Customer Service",
+      "use_case": "Gemini-powered conversational agent assisting thousands of customers and optimizing marketing campaigns for a Colombian vehicle manufacturer",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Auteco's Gemini-powered conversational agent for thousands of customers cut task completion time from days to seconds and optimized marketing campaigns",
+      "roi_metrics": [
+        "Task completion time reduced from days to seconds"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "685395faca5f",
+      "company": "Inscribe",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "Claude-powered AI Risk Agents automating fraud detection, document verification, and KYC/KYB checks for banks and fintechs",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Inscribe's Claude-powered AI Risk Agents cut bank/fintech fraud review time from 30 minutes to 90 seconds and increased loan-processing throughput 70x without added headcount",
+      "roi_metrics": [
+        "20x faster fraud review (30 min to 90 sec)",
+        "70x increase in loan application processing capacity",
+        "One-day implementation for new AI models"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/inscribe",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1ffff69b9e2b",
+      "company": "SWISS (Swiss International Air Lines)",
+      "industry": "Travel & Hospitality",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Operations Decision Support Suite on Google Cloud (BigQuery, AI/ML) optimizing aircraft rotation planning and passenger disruption management",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "SWISS's Google Cloud-powered Operations Decision Support Suite saved CHF 1 million in the first 14 weeks and optimized about half of network flights with a 90% controller acceptance rate",
+      "roi_metrics": [
+        "CHF 1 million saved in 14 weeks",
+        "~50% of network flights optimized",
+        "90% optimization acceptance rate (vs. 70% target)",
+        "Double-digit millions in projected annual savings from rotation optimization alone"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/customers/swiss",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "cf9cc9f0786b",
+      "company": "DC Child and Family Services Agency (CFSA)",
+      "industry": "Public Sector & Government",
+      "business_function": "Knowledge Management",
+      "use_case": "STAAND platform on Microsoft Dynamics 365, Power Apps, and Copilot Studio consolidating case data and automating referral intake/safety-assessment workflows",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Washington DC's Child and Family Services Agency built STAAND on Microsoft Dynamics 365 and Copilot Studio, saving 45 minutes per intake report and cutting feature deployment from 4 months to 3 weeks at 20x lower cost",
+      "roi_metrics": [
+        "45 minutes saved per intake report",
+        "Feature deployment cut from 4 months to 3 weeks",
+        "20x lower development cost"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/25302-washington-dc-cfsa-microsoft-copilot-studio",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
