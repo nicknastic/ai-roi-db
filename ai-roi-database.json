@@ -3951,6 +3951,59 @@
       "date_added": "2026-07-23",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "654459913a8a",
+      "company": "United Airlines",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "Claude-powered generative AI (via Slalom and Amazon Bedrock) drafting personalized flight-status update messages for human 'Storyteller' review, plus a customer care copilot for email responses",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "United Airlines partnered with Slalom to build a Claude-powered generative AI tool that lets its Storytellers team customize 50% of all flight-status updates, up from 15%, and resolve customer care emails twice as fast",
+      "roi_metrics": [
+        "Customized flight updates up from 15% to 50% of all updates (35-point increase)",
+        "2x faster mean time to resolution with AI customer care copilot",
+        "Innovation Day to production in under 60 days"
+      ],
+      "sources": [
+        {
+          "source_org": "Slalom",
+          "source_url": "https://www.slalom.com/us/en/customer-stories/united-airlines-gen-ai",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "be983d7fd22a",
+      "company": "EY",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "EY.ai EYQ, a firm-wide generative AI platform (conversational assistants, domain agents, governed prompt tooling) built for EY's own 300,000+ professionals",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "EY's self-built EYQ generative AI platform, backed by a $1.4B investment, reached 81%+ adoption with 85 million prompts processed in 9 months and cut decision-making cycles by 8-10 weeks",
+      "roi_metrics": [
+        "81%+ user adoption rate for EY.ai EYQ",
+        "85 million prompts processed in 9 months",
+        "4.1 million developer-contributed code lines in 13 months",
+        "Decision-making accelerated by 8-10 weeks",
+        "$1.4 billion initial AI investment",
+        "83% of workforce completed foundational AI learning"
+      ],
+      "sources": [
+        {
+          "source_org": "EY",
+          "source_url": "https://www.ey.com/en_gl/insights/ai/case-study-how-ey-transformed-with-ai",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-07-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
