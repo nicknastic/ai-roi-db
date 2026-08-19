@@ -4004,6 +4004,553 @@
       "date_added": "2026-07-23",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "9d56d0a55e17",
+      "company": "Daikin",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "EY-and-SAP-led 'One Daikin' ERP transformation using AI-assisted code generation and automated testing to modernize finance, logistics, procurement and sales workflows",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Pilot went live in 10 months across 300+ frontline users; delivered 10% improved counter efficiency, 20% faster financial close, and roughly 30% faster delivery via AI-assisted coding and automated testing",
+      "roi_metrics": [
+        "10% improved counter efficiency",
+        "20% faster financial close",
+        "~30% faster delivery via AI-assisted coding",
+        "10 months to go-live",
+        "300+ frontline users"
+      ],
+      "sources": [
+        {
+          "source_org": "EY",
+          "source_url": "https://www.ey.com/en_us/alliances/daikin-transforms-business-transformation-with-ai",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "009239d0836c",
+      "company": "Lion",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Human Resources",
+      "use_case": "ServiceNow Now Assist generative AI virtual agent piloted alongside a unified EY-built employee self-service portal for HR and IT case management",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Self-service usage jumped 200% post go-live with resolution time cut in half; the Now Assist GenAI pilot reached a 25% case containment rate; employee satisfaction with People Services hit 85%",
+      "roi_metrics": [
+        "200% increase in self-service usage",
+        "50% faster resolution time",
+        "25% GenAI pilot containment rate",
+        "85% employee satisfaction",
+        "60% reduction in active cyber risk"
+      ],
+      "sources": [
+        {
+          "source_org": "EY",
+          "source_url": "https://www.ey.com/en_us/alliances/lion-shapes-employee-journeys-for-ai-future",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8bf6fe1f6b93",
+      "company": "LC Waikiki",
+      "industry": "Retail & E-commerce",
+      "business_function": "Human Resources",
+      "use_case": "AI agent built on SAP Joule handling employee self-service HR transactions (leave requests, payroll queries) via natural-language conversation",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Cut HR process cycle times by 40-60% and reduced manual errors across procurement processes by 50%",
+      "roi_metrics": [
+        "40-60% faster HR cycle times",
+        "50% reduction in manual procurement errors"
+      ],
+      "sources": [
+        {
+          "source_org": "SAP",
+          "source_url": "https://news.sap.com/2026/07/sap-business-ai-release-highlights-q2-2026/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2849e1bdcfac",
+      "company": "Bosch Digital",
+      "industry": "Manufacturing",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "SAP Joule for Developers integrated into coding workflows to automate routine coding tasks and unit testing",
+      "ai_technology": "Code generation",
+      "roi_outcome": "20% increase in developer productivity and unit testing accelerated by 15-20%",
+      "roi_metrics": [
+        "20% productivity increase",
+        "15-20% faster unit testing"
+      ],
+      "sources": [
+        {
+          "source_org": "SAP",
+          "source_url": "https://news.sap.com/2026/07/sap-business-ai-release-highlights-q2-2026/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "45f11892b8c1",
+      "company": "Aeropuertos Argentina",
+      "industry": "Travel & Hospitality",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "SNOW (Smart Network for Operative Winter) AI agent built on SAP Joule for winter airport operations planning",
+      "ai_technology": "Optimization (routing, scheduling)",
+      "roi_outcome": "Improved runway safety, cut direct operational costs by 16%, and reduced administrative effort by 90%",
+      "roi_metrics": [
+        "16% reduction in direct costs",
+        "90% reduction in administrative effort"
+      ],
+      "sources": [
+        {
+          "source_org": "SAP",
+          "source_url": "https://news.sap.com/2026/07/sap-business-ai-release-highlights-q2-2026/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1022ee305caf",
+      "company": "Canibuild",
+      "industry": "Construction",
+      "business_function": "Customer Service",
+      "use_case": "HubSpot Customer Agent deployed for autonomous support ticket resolution",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Resolution rate rose from below 20% to consistently above 80%; SLA compliance improved from 85% to 94%, freeing capacity equal to two full-time support reps",
+      "roi_metrics": [
+        "resolution rate <20% to >80%",
+        "SLA compliance 85% to 94%",
+        "workload equal to 2 FTEs"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/products/artificial-intelligence/case-studies",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "38e8f96c048b",
+      "company": "Soundstripe",
+      "industry": "Media & Entertainment",
+      "business_function": "Customer Service",
+      "use_case": "HubSpot Customer Agent deployed to handle inbound support chat and email for a music licensing platform",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "First-response time on email dropped 54% and resolution time dropped 36%, with Customer Agent absorbing 79% of chat volume",
+      "roi_metrics": [
+        "54% faster first response",
+        "36% faster resolution",
+        "79% of chat volume absorbed"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/products/artificial-intelligence/case-studies",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9d68258ece69",
+      "company": "Agicap",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "HubSpot Breeze Assistant used to drive CRM adoption and automate sales workflow tasks",
+      "ai_technology": "Copilot / assistant",
+      "roi_outcome": "20% increase in deal velocity, 100% CRM adoption, and 750 hours saved weekly",
+      "roi_metrics": [
+        "20% increase in deal velocity",
+        "100% CRM adoption",
+        "750 hours saved weekly"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/products/artificial-intelligence/case-studies",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8b7a446961ce",
+      "company": "SylvanSport",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Sales",
+      "use_case": "HubSpot Prospecting Agent for automated outbound sales outreach",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Average deal closure reduced from 76 touchpoints to 13",
+      "roi_metrics": [
+        "touchpoints per deal cut from 76 to 13"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/products/artificial-intelligence/case-studies",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "63de63e8bec2",
+      "company": "Lippert",
+      "industry": "Manufacturing",
+      "business_function": "Customer Service",
+      "use_case": "AI-enabled Customer Care 'Super-Agent' built on Databricks, trained on product manuals, case history and expert video, supporting call center agents and new-hire onboarding for RV/marine/automotive parts support",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "AI assistant handled 50% of call volume, cut new agent onboarding time roughly in half, and reached 84% model accuracy within weeks",
+      "roi_metrics": [
+        "50% of call volume handled by AI",
+        "onboarding time cut ~50%",
+        "84% model accuracy"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/customers/lippert",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d0b59fcc221f",
+      "company": "Lumen Technologies",
+      "industry": "Telecom",
+      "business_function": "Network Operations",
+      "use_case": "Multi-agent AI workflows on Databricks for network incident investigation and resolution, plus natural-language agents for finance/operations queries",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Delivered 3 million+ AI-powered diagnostics, 35% ticket deflection, and more than 100,000 AI-generated actions",
+      "roi_metrics": [
+        "3M+ AI-powered diagnostics",
+        "35% ticket deflection",
+        "100,000+ AI-generated actions"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-2026-databricks-customer-awards-industry-winners",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "340ce6e0d90c",
+      "company": "IDB Invest",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "AI-based document analysis for investment risk reviews plus an enterprise AI virtual assistant (Genie) built on Databricks",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "60% reduction in manual workload for investment risk reviews",
+      "roi_metrics": [
+        "60% reduction in manual workload"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-2026-databricks-customer-awards-industry-winners",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3ca7daaa055c",
+      "company": "Asymbl",
+      "industry": "Professional Services",
+      "business_function": "Sales",
+      "use_case": "Agentforce AI agent ('Theodore') handling lead qualification, call scheduling, and outbound prospecting",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "$1.5M in cost savings and a 427% increase in prospect engagement, delivering coverage equivalent to a sales team five times larger and 58x business growth",
+      "roi_metrics": [
+        "$1.5M cost savings",
+        "427% increase in prospect engagement",
+        "58x growth"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/asymbl/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c938944a91f4",
+      "company": "Athena Intelligence",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude-powered autonomous agent workspace automating multi-step enterprise knowledge work (legal memos, financial analysis, reporting) for regulated-industry clients",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Deployed to production in 4-8 weeks vs. a 6-12 month industry standard; executes 10,000+ autonomous workflows weekly; automated 400 monthly legal memos at a top-tier law firm, eliminating 2-3 days of manual work per month",
+      "roi_metrics": [
+        "4-8 weeks to production vs 6-12 months",
+        "10,000+ workflows/week",
+        "400 legal memos/month automated",
+        "2-3 days saved per month per use case"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/athena",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7df99c06e847",
+      "company": "Epilepsy Foundation",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Customer Service",
+      "use_case": "Claude-powered conversational AI assistant ('Sage') guiding people with epilepsy through medically-reviewed content 24/7",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Reached 60,000 interactions in its first year, a 2.5x increase in interactions per session, and enabled half-day deployment cycles for new Claude model versions, serving a base of 3.4 million Americans with epilepsy",
+      "roi_metrics": [
+        "60,000 interactions in year one",
+        "2.5x increase in interactions per session",
+        "half-day model deployment cycle",
+        "3.4 million people reached"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/epilepsy-foundation",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e30f982b6551",
+      "company": "Zapier",
+      "industry": "Technology & Software",
+      "business_function": "Marketing",
+      "use_case": "ChatGPT Work used to automate lead-QA and build campaign assets for enterprise marketing operations",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Automated a lead-QA process that previously took 35-45 minutes per lead, enabling QA on thousands of leads every month, which wasn't previously feasible",
+      "roi_metrics": [
+        "35-45 minutes per lead automated",
+        "thousands of leads QA'd monthly"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/zapier/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "93966de3cb7f",
+      "company": "Macquarie Bank",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "Gemini Enterprise agents autonomously triaging fraud alerts and powering digital self-service for banking support",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Directed 38% more users to self-service, reduced false positive fraud alerts by 40%, and reclaimed over 100,000 hours of team members' time",
+      "roi_metrics": [
+        "38% more users to self-service",
+        "40% fewer false positive alerts",
+        "100,000+ hours reclaimed"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "622cfeb278f8",
+      "company": "Lloyds Banking Group",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "ML and generative AI platform on Google Cloud Vertex AI/Gemini used to automate income verification in mortgage applications",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Reduced income verification in mortgage applications from days to seconds; scaled to 300+ data scientists using the platform, 80+ new ML use cases initiated, and 18 generative AI systems in production",
+      "roi_metrics": [
+        "income verification: days to seconds",
+        "18 genAI systems in production",
+        "80+ new ML use cases",
+        "300+ data scientists using platform"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://www.prnewswire.com/news-releases/lloyds-banking-group-accelerates-ai-innovation-with-google-cloud-302424543.html",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5ddf41d70984",
+      "company": "Five Sigma",
+      "industry": "Insurance",
+      "business_function": "Fraud & Risk",
+      "use_case": "'Clive', an AI insurance claims adjuster built on Google Cloud Vertex AI/Gemini and LangChain, automating claims data entry and analysis across text, image, voice and video",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Reduced claims cycle times by up to 60% and processing costs by 35%",
+      "roi_metrics": [
+        "up to 60% reduction in cycle time",
+        "35% reduction in processing costs"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://services.google.com/fh/files/misc/fivesigma_whitepaper.pdf",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "901f91bb1b4d",
+      "company": "Instalily",
+      "industry": "Technology & Software",
+      "business_function": "Field Service",
+      "use_case": "InstaWorkers AI agents, built on Gemini 2.5 and Vertex AI, providing real-time diagnostic support to field service technicians",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Cut technician diagnosis time from 15 minutes to under 10 seconds, lowered servicing costs by 98%, and drove a 99% improvement in end-to-end workflow speed",
+      "roi_metrics": [
+        "diagnosis time: 15 min to <10 sec",
+        "98% lower servicing costs",
+        "99% faster end-to-end workflow"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d56fc3d678ed",
+      "company": "Clearwater Analytics",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Clearwater Intelligent Console (CWIC), a generative AI platform built on Amazon Bedrock and SageMaker JumpStart, providing domain-specific 'CWIC Specialist' agents for investment accounting and compliance support",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Enabled faster responses and fewer service tickets, supporting 20% business growth without adding headcount",
+      "roi_metrics": [
+        "20% business growth without added headcount"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/how-clearwater-analytics-is-revolutionizing-investment-management-with-generative-ai-and-amazon-sagemaker-jumpstart",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5ad851d73a7c",
+      "company": "Accenture",
+      "industry": "Professional Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Centralized enterprise platform built on Azure AI Foundry to move client generative AI projects from proof-of-concept to production, unifying safety, accuracy and performance tracking",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Reduced AI app build time by 50%, deployed 75+ use cases across clients with 16 in production, and delivered 17 use cases in 4 months versus a projected 14 in 8 months",
+      "roi_metrics": [
+        "50% faster build time",
+        "75+ use cases deployed",
+        "16 in production",
+        "17 cases in 4 months vs 14 projected in 8 months"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/23953-accenture-azure-ai-foundry",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-18",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
