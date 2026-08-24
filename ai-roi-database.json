@@ -4551,6 +4551,705 @@
       "date_added": "2026-08-18",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "81517c93de94",
+      "company": "Valvoline",
+      "industry": "Automotive",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI-driven demand forecasting and scheduling for retail service center workforce",
+      "ai_technology": "Workday Scheduling and Labor Optimization with AI Demand Forecasting",
+      "roi_outcome": "AI-generated labor forecasts using 3 years of historical data cut weekly schedule creation time from over 2 hours to as little as 15 minutes, with up to 67% reduction in time to create/update schedules across 2,100+ service locations",
+      "roi_metrics": [
+        "2 hrs -> 15 min per weekly schedule",
+        "up to 67% reduction in scheduling time",
+        "15-minute interval scheduling accuracy",
+        "2,100+ locations, ~12,000 hires/year"
+      ],
+      "sources": [
+        {
+          "source_org": "Workday",
+          "source_url": "https://www.workday.com/en-us/customer-stories/q-z/valvoline-fueling-business-growth.html",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ad11d5420e26",
+      "company": "Daikin Comfort",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI/ML-based demand forecasting and unified sales & operations planning (Anaplan platform) to replace disconnected spreadsheets across sales, supply chain and manufacturing",
+      "ai_technology": "Machine learning demand forecasting on Anaplan, implemented by Slalom",
+      "roi_outcome": "Statistical/ML forecasting baseline plus unified planning cut inventory by 10% (targeting 30% total) and improved forecast accuracy by 15% while tracking 10x more SKUs than a few years prior",
+      "roi_metrics": [
+        "10% inventory reduction (30% targeted)",
+        "15% forecast accuracy improvement",
+        "10x SKU growth managed"
+      ],
+      "sources": [
+        {
+          "source_org": "Slalom",
+          "source_url": "https://www.slalom.com/us/en/customer-stories/daikin-comfort-sales-and-operations-planning",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6dec923a99cc",
+      "company": "UCLA Anderson School of Management",
+      "industry": "Education",
+      "business_function": "Marketing",
+      "use_case": "Generative AI (Claude on Amazon Bedrock) used to hyper-personalize alumni fundraising emails based on class year, giving history, degree type and fellowship participation",
+      "ai_technology": "Anthropic Claude 3 Sonnet on Amazon Bedrock, integrated with Salesforce Marketing Cloud, built by Slalom",
+      "roi_outcome": "Personalized AI-generated emails to 3,000 alumni in the 2024 reunion campaign lifted click-through rate 66%, donation conversion 86%, average gift size 26%, and total dollars raised 132% versus control emails",
+      "roi_metrics": [
+        "66% higher click-through rate",
+        "86% higher conversion to donation",
+        "26% higher average donation size",
+        "132% increase in total dollars raised"
+      ],
+      "sources": [
+        {
+          "source_org": "Slalom",
+          "source_url": "https://www.slalom.com/us/en/customer-stories/ucla-anderson-school-management-aws-salesforce",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1c9a712c720d",
+      "company": "Ocuco",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "AI-accelerated software engineering using GitHub Copilot embedded in developer workflows, with change-management support from Slalom",
+      "ai_technology": "GitHub Copilot",
+      "roi_outcome": "Optical software vendor Ocuco saw a 30% increase in story points delivered per developer and a 233% increase in weekly time savings, with 62% of users reporting better code quality and 19% fewer new defects per sprint",
+      "roi_metrics": [
+        "30% more story points per developer",
+        "233% increase in weekly time savings",
+        "62% report better code quality",
+        "19% fewer new defects per sprint"
+      ],
+      "sources": [
+        {
+          "source_org": "Slalom",
+          "source_url": "https://www.slalom.com/us/en/customer-stories/ocuco-github-copilot",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e9b3dc563e2a",
+      "company": "MIMIT Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Customer Service",
+      "use_case": "Agentic patient self-service and onboarding agents built on Agentforce and Data 360, answering FAQs, triggering care-milestone follow-ups, and moving inquiries to scheduled visits",
+      "ai_technology": "Salesforce Agentforce + Data 360 (Agentic Enterprise Architecture)",
+      "roi_outcome": "Unifying patient data and automating routine questions/coordination drove 30% higher patient satisfaction and 30% higher employee productivity, a 459% ROI, ~$500K reduction in system maintenance costs, and ~$150K/year lower inventory expense, for an estimated $1.5M in total annual savings",
+      "roi_metrics": [
+        "30% higher patient satisfaction",
+        "30% higher employee productivity",
+        "459% ROI",
+        "$500K maintenance cost reduction",
+        "$150K/year inventory savings",
+        "$1.5M estimated annual savings"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/mimit-health/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "676cd6909bab",
+      "company": "The Adecco Group",
+      "industry": "Professional Services",
+      "business_function": "Human Resources",
+      "use_case": "Agentic AI unifying data from 30+ Salesforce instances (Data 360) to power 1-to-1 applicant engagement, prescreening, match scoring and automated job creation across the recruiting lifecycle",
+      "ai_technology": "Salesforce Agentforce + Data 360",
+      "roi_outcome": "Automating routine recruiting tasks cut job-campaign prep time by 93% and delivered 15% overall time savings for recruiters handling 300 million applications a year, prompting a new multi-year unlimited Agentforce agreement through 2027",
+      "roi_metrics": [
+        "93% reduction in job campaign prep time",
+        "15% time savings from automation",
+        "300M applications/year handled",
+        "data unified across 30+ Salesforce instances"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/the-adecco-group/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "577d02ac47db",
+      "company": "SaaStr",
+      "industry": "Media & Entertainment",
+      "business_function": "Sales",
+      "use_case": "AI sales agent (\"Hexi\") personalizing outreach to untouched leads, plus a voice-powered event concierge delivering personalized attendee schedules, unifying 20+ agents on one platform",
+      "ai_technology": "Salesforce Agentforce (sales agent + Voice)",
+      "roi_outcome": "Agentic outreach to previously untouched leads achieved a 72% email open rate and closed $2.7 million in deals; a voice concierge built in two weeks served personalized schedules to hundreds of SaaStr AI London attendees",
+      "roi_metrics": [
+        "$2.7M in closed deals",
+        "72% open rate",
+        "20+ AI agents unified",
+        "voice concierge built in 2 weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/saastr/agentic-outreach/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ec4fe66d23bf",
+      "company": "Snyk",
+      "industry": "Technology & Software",
+      "business_function": "Knowledge Management",
+      "use_case": "Slack-based AI chatbot using Cortex AI (Cortex Search + inference layer) to give employees natural-language access to company data across support, sales, dev and product docs",
+      "ai_technology": "Snowflake Cortex AI",
+      "roi_outcome": "The chatbot answers about 2,500 questions a month in under a minute each, saving an estimated 1,250 employee hours per month versus manually searching disparate data sources",
+      "roi_metrics": [
+        "2,500 questions answered/month",
+        "1,250 hours saved/month",
+        "<1 minute response time"
+      ],
+      "sources": [
+        {
+          "source_org": "Snowflake",
+          "source_url": "https://www.snowflake.com/en/customers/all-customers/case-study/snyk/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4fe91248b4c5",
+      "company": "Repsol",
+      "industry": "Energy & Utilities",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot deployed by Accenture for meeting-action capture, document summarization, presentation drafting, and RFP analysis across technical and professional roles",
+      "ai_technology": "Microsoft 365 Copilot (Accenture-led deployment)",
+      "roi_outcome": "A 4-month, 550-employee pilot showed average employees saving 121 minutes/week and output quality up 16%; engineering roles saved ~97 hours/year and maintenance roles saved ~225 minutes/week, with adoption rising from 20% to over 60% of licensed users ahead of an expansion to all 25,000 employees",
+      "roi_metrics": [
+        "121 min/week saved per employee",
+        "16% output quality improvement",
+        "~97 hrs/year saved for engineers",
+        "~225 min/week saved for maintenance roles",
+        "adoption up from 20% to 60%+"
+      ],
+      "sources": [
+        {
+          "source_org": "Accenture",
+          "source_url": "https://www.accenture.com/us-en/case-studies/energy/repsols-workforce-now-runs-ai-fuel",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c0e7bdb0b8f5",
+      "company": "Asahi Europe & International",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Sales",
+      "use_case": "AI-enabled Trade Promotion Optimization tool (descriptive, prescriptive and predictive modeling on POS, weather and trading data) built on EY's Revenue Growth Management framework and Microsoft Azure ML, integrated with SAP across markets",
+      "ai_technology": "EY Trade Promotion Optimization on Microsoft Azure ML",
+      "roi_outcome": "Daily use of the AI tool grew 60% year-on-year as it scaled to five European markets, cutting promotion-analysis turnaround to within 24 hours in one market and reducing manual spreadsheet work, though EY does not disclose direct revenue or sales-lift figures -- flagged as a weaker, partially-quantified case",
+      "roi_metrics": [
+        "60% YoY growth in daily tool usage",
+        "adopted across 5 European markets",
+        "analysis completed within 24 hours (Romania)"
+      ],
+      "sources": [
+        {
+          "source_org": "EY",
+          "source_url": "https://www.ey.com/en_us/alliances/asahi-ai-transformation",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "12f5457042e0",
+      "company": "Sandler",
+      "industry": "Professional Services",
+      "business_function": "Sales",
+      "use_case": "HubSpot Breeze Assistant used for AI-driven content creation and hyper-personalized marketing-to-sales handoff, scaling personalized outreach by industry, pain point and persona",
+      "ai_technology": "HubSpot Breeze Assistant",
+      "roi_outcome": "Personalized, AI-assisted campaigns lifted email click-through rates 25%, grew sales-qualified leads 4x, increased the share of SQLs converting to pipeline by 60%, and cut the sales cycle roughly in half (90 to 45 days)",
+      "roi_metrics": [
+        "25% higher email CTR",
+        "4x growth in SQLs",
+        "60% increase in SQL-to-pipeline conversion",
+        "sales cycle cut from 90 to 45 days"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/case-studies/sandler",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0777922fb065",
+      "company": "Nutribees",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Breeze Customer Agent deployed in Service Hub to handle inbound support chats and FAQs around the clock",
+      "ai_technology": "HubSpot Breeze Customer Agent",
+      "roi_outcome": "Per Nutribees' CMO, the AI agent cut the number of tickets handled by human support staff by 77% while 24/7 availability simultaneously improved conversion rate and customer satisfaction",
+      "roi_metrics": [
+        "77% reduction in tickets handled by humans",
+        "24/7 support availability",
+        "improved conversion rate"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/products/artificial-intelligence/case-studies",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7c19e1d7c05d",
+      "company": "Ignite Reading",
+      "industry": "Education",
+      "business_function": "Marketing",
+      "use_case": "Custom AI agent built in HubSpot Agent Builder that automatically finds and parses each school district's academic calendar from deal records, plus Data Hub/Data Studio for unifying enrollment, progress and tutor-note data to accelerate outreach campaigns",
+      "ai_technology": "HubSpot Agent Builder + Data Hub/Data Studio",
+      "roi_outcome": "The custom agent cut a 15-20 minute manual district-calendar lookup task to seconds, saving over 350 hours a year across 25+ states; unifying data separately quadrupled campaign velocity (3/month to 3/week) and lifted targeted-campaign conversion by about 35%",
+      "roi_metrics": [
+        "15-20 min task cut to seconds",
+        "350+ hours saved/year",
+        "4x campaign velocity",
+        "~35% higher conversion from targeted campaigns"
+      ],
+      "sources": [
+        {
+          "source_org": "HubSpot",
+          "source_url": "https://www.hubspot.com/case-studies/ignite-reading",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4a6c10e7de3f",
+      "company": "Notability",
+      "industry": "Education",
+      "business_function": "R&D / Product",
+      "use_case": "AI study tool (Notability Learn) that turns students' notes into flashcards, quizzes, summaries, and Smart Notes",
+      "ai_technology": "Claude API (Claude Haiku 4.5 and Claude Sonnet 4.6)",
+      "roi_outcome": "Learn users spend 90% more time in the app and return weekly at an 85% rate vs. a 58% baseline; upgrading Claude models cut user-flagged content issues by 45%",
+      "roi_metrics": [
+        "90% more time in-app for Learn users",
+        "85% weekly return rate vs 58% baseline",
+        "45% reduction in flagged content issues (33 to 18 per 10,000 questions)",
+        "220 million quiz questions answered in the past year",
+        "shipped initial product in two months"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/notability",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "992a470671b8",
+      "company": "Caylent",
+      "industry": "Professional Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Caylent Accelerate, an agentic delivery system using Claude Agent SDK to automate database migrations and cloud modernization for enterprise customers on AWS",
+      "ai_technology": "Claude Agent SDK on Amazon Bedrock",
+      "roi_outcome": "Cut engineering hours on a 2,500-procedure database migration by 90% and reduced a 2,600-hour manual migration to about 220 hours, with one customer eliminating $600K in annual licensing",
+      "roi_metrics": [
+        "90% reduction in engineering hours (one migration)",
+        "2,600 hours to ~220 hours on a flagship migration",
+        "58%-82% faster migrations across four engagements",
+        "$600,000 annual licensing eliminated for one customer",
+        "70% of cloud-ops remediation work expedited; 40% reduction in mean time to resolution"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/caylent",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e2a1583668db",
+      "company": "HubSpot",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Internal use of Claude Code and Claude Projects across web development, content creation, technical troubleshooting, developer onboarding, and customer success communications",
+      "ai_technology": "Claude Code, Claude Projects (Claude Platform/API)",
+      "roi_outcome": "Up to 40% productivity increase in web development and content creation; cut technical troubleshooting for customer escalations from 3-5 days to under an hour",
+      "roi_metrics": [
+        "up to 40% productivity increase (web dev/content)",
+        "troubleshooting time cut from 3-5 days to under 1 hour",
+        "hundreds of Claude projects built across teams"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/hubspot",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b39a960cc93b",
+      "company": "Stripe",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Enterprise-wide deployment of Claude Code (custom signed enterprise binary) for software development, large-scale code migration, and future incident response",
+      "ai_technology": "Claude Code (enterprise binary)",
+      "roi_outcome": "1,370 engineers enabled with Claude Code; migrated 10,000 lines of Scala to Java in 4 days versus an estimated 10 engineering-weeks manually, while maintaining 5.5 nines reliability",
+      "roi_metrics": [
+        "1,370 engineers enabled",
+        "10,000 lines Scala-to-Java migrated in 4 days vs. ~10 engineering-weeks manually",
+        "5.5 nines reliability maintained"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/stripe",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "26673353bf63",
+      "company": "Stampli",
+      "industry": "Financial Services",
+      "business_function": "Marketing",
+      "use_case": "ChatGPT Work and Codex used by product marketing to compress go-to-market production (launch content, positioning, enablement) for its Deep Finance product launch",
+      "ai_technology": "ChatGPT Work + Codex",
+      "roi_outcome": "Cut launch production time by 68%, compressing an estimated 243 hours of work into about 77 hours (3.16x faster), taking a product from prototype to public GTM launch in about six weeks",
+      "roi_metrics": [
+        "68% cut in launch hours",
+        "243 hours modeled to ~77 hours actual",
+        "3.16x faster production",
+        "prototype to launch in 6 weeks",
+        "hundreds of content pieces produced weekly (10x team output)"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/stampli/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4c5dc4166420",
+      "company": "NVIDIA",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "ChatGPT Work used by NVIDIA's go-to-market and solutions architecture teams to automate GTC event planning/account analysis and to surface actionable external AI signals",
+      "ai_technology": "ChatGPT Work",
+      "roi_outcome": "Saved about 16 hours per week during the 12-week GTC conference planning cycle (down from ~40% of one strategist's time on manual analysis) and cut prototype build time from 2-3 weeks to 3-5 days",
+      "roi_metrics": [
+        "16 hours/week saved during GTC planning cycle",
+        "manual analysis time cut from ~40% of workweek",
+        "prototype build time: 3-5 days vs. 2-3 weeks previously",
+        "5-8 actionable signals surfaced weekly from 25-40 external AI updates"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/nvidia/chatgpt-work/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "76d1451ef4b7",
+      "company": "Virgin Atlantic",
+      "industry": "Travel & Hospitality",
+      "business_function": "R&D / Product",
+      "use_case": "ChatGPT Work and ChatGPT Sites used for competitive customer-journey research, product planning, and connected analytics dashboards as part of a five-year digital strategy",
+      "ai_technology": "ChatGPT Work + ChatGPT Sites",
+      "roi_outcome": "Competitive customer-journey research that previously took weeks was accelerated into hours (qualitative result; no percentage/dollar figure disclosed)",
+      "roi_metrics": [
+        "research time: weeks to hours (qualitative)"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/virgin-atlantic/chatgpt-work/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "3d206d99a5a8",
+      "company": "Bynder",
+      "industry": "Technology & Software",
+      "business_function": "Knowledge Management",
+      "use_case": "Visual-similarity digital asset search letting customers find assets via image selection or natural-language description",
+      "ai_technology": "Amazon Bedrock - Titan Multimodal Embeddings",
+      "roi_outcome": "Reduced asset search time for typical campaign tasks by 75% and returned about 50% more relevant results on average, across a library of 175 million assets",
+      "roi_metrics": [
+        "75% reduction in search time",
+        "~50% increase in relevant search results returned",
+        "175 million assets / 18 PB managed"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/bynder-bedrock-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b905d0f4088d",
+      "company": "BDM (Big Data Mining)",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "LOUIS, a generative AI model on Amazon Bedrock that automates analysis and processing of complex corporate/financial documents at scale",
+      "ai_technology": "Amazon Bedrock generative AI (LOUIS)",
+      "roi_outcome": "85% faster document analysis than manual review with 98% accuracy; one financial institution customer saved $4.2 million over five years and cut insurance claims processing from six months to minutes",
+      "roi_metrics": [
+        "85% faster than manual interpretation",
+        "98% accuracy",
+        "40% reduction in operational effort",
+        "50% reduction in development costs",
+        "$4.2M cost savings over 5 years (one customer)",
+        "insurance claims: 6 months to minutes",
+        "40,000+ monthly documents automated, previously requiring 150 professionals"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/bdm-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "bc40ced60597",
+      "company": "Multitudes",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Code review quality assessment feature that evaluates feedback specificity, tone/sentiment, and bot-generated activity using multiple LLMs on Amazon Bedrock",
+      "ai_technology": "Amazon Bedrock (multiple LLMs, incl. Amazon Nova Pro)",
+      "roi_outcome": "Feature launched in 2 months drove a 44% increase in monthly active users and cut misclassification rates from 20% to under 1%",
+      "roi_metrics": [
+        "44% increase in monthly active users",
+        "misclassification reduced from 20% to <1%",
+        "built and launched in 2 months",
+        "ranked top-5 most-used platform feature within 2 months"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/multitudes-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4d0ee6f1d6e4",
+      "company": "Air India",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "AI.g, an agentic virtual assistant built on Azure OpenAI in Foundry Models, handling customer service queries such as bookings, refunds, and flight status",
+      "ai_technology": "Azure OpenAI in Foundry Models (agentic virtual assistant)",
+      "roi_outcome": "AI.g now handles about 40,000 customer queries daily across 1,300+ question types, resolving 13+ million conversations at a 97% success rate, with only 3% escalated to humans",
+      "roi_metrics": [
+        "40,000 daily queries handled",
+        "97% success/resolution rate",
+        "13 million+ conversations resolved since launch",
+        "only 3% escalated to human agents",
+        "about half of customers now choose AI.g as first contact channel"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26047-air-india-azure-openai-in-foundry-models",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e968a5b41256",
+      "company": "CrushBank",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "CrushBank Neuro, an AI-powered IT help-desk assistant unifying ticket records, documents, and knowledge-base articles for grounded conversational search, using IBM watsonx.ai and watsonx.data",
+      "ai_technology": "IBM watsonx.ai + watsonx.data",
+      "roi_outcome": "Customers using CrushBank's AI-powered platform saw a 40% increase in daily ticket resolutions, a 25% reduction in average time to resolution, and a 20% increase in first-call resolution",
+      "roi_metrics": [
+        "40% increase in daily ticket resolutions",
+        "25% reduction in average time to resolution",
+        "20% increase in first-call resolution",
+        "new hires productive within 6 weeks onboarding"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/case-studies/crushbank-wx",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b965a18af981",
+      "company": "AT&T",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "Ask AT&T, customer-facing AI agents built on a continuous data-flywheel using NVIDIA NeMo microservices and NIM for account service recommendations, fraud prevention, and support automation",
+      "ai_technology": "NVIDIA NeMo, NIM microservices, NVIDIA AI Enterprise",
+      "roi_outcome": "Deployment of Ask AT&T with NVIDIA NIM and NeMo delivered an 84% decrease in call-center analytics cost and up to 40% improvement in AI agent response accuracy after fine-tuning",
+      "roi_metrics": [
+        "84% decrease in call-center analytics cost",
+        "up to 40% improvement in response accuracy (Rouge/BERT F1)",
+        "~10,000 documents refreshed multiple times weekly via data flywheel"
+      ],
+      "sources": [
+        {
+          "source_org": "NVIDIA",
+          "source_url": "https://www.nvidia.com/en-us/case-studies/att-drives-ai-agents-with-nemo/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "fe08d47fec9e",
+      "company": "T-Mobile",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "Expert Assist, an AI system built on NVIDIA Riva and NeMo that transcribes real-time customer care calls and recommends solutions to frontline agents",
+      "ai_technology": "NVIDIA NeMo + NVIDIA Riva (Speech AI)",
+      "roi_outcome": "Fine-tuned speech models cut word error rate by 10% in noisy production environments and reduced transcription latency by 10x, supporting real-time performance for thousands of concurrent agents",
+      "roi_metrics": [
+        "10% lower word error rate",
+        "10x latency reduction"
+      ],
+      "sources": [
+        {
+          "source_org": "NVIDIA",
+          "source_url": "https://www.nvidia.com/en-us/case-studies/speech-ai-for-award-winning-customer-care/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
