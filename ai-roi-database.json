@@ -1392,7 +1392,10 @@
         "14% deflection boost",
         "10% productivity gain",
         "48% code acceptance",
-        "$10M value"
+        "$10M value",
+        "14% boost to employee deflection rate",
+        "50 FTEs/year equivalent productivity",
+        "value within 120 days"
       ],
       "sources": [
         {
@@ -4069,12 +4072,22 @@
       "roi_outcome": "Cut HR process cycle times by 40-60% and reduced manual errors across procurement processes by 50%",
       "roi_metrics": [
         "40-60% faster HR cycle times",
-        "50% reduction in manual procurement errors"
+        "50% reduction in manual procurement errors",
+        "40-60% reduction in HR process cycle times",
+        "~30 seconds per HR task",
+        "100% user activation in 5 days",
+        "2,000+ employees"
       ],
       "sources": [
         {
           "source_org": "SAP",
           "source_url": "https://news.sap.com/2026/07/sap-business-ai-release-highlights-q2-2026/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        },
+        {
+          "source_org": "SAP",
+          "source_url": "https://www.sap.com/australia/about/customer-stories/lc-waikiki.html",
           "source_type": "saas",
           "source_tier": "primary"
         }
@@ -4538,7 +4551,13 @@
         "50% faster build time",
         "75+ use cases deployed",
         "16 in production",
-        "17 cases in 4 months vs 14 projected in 8 months"
+        "17 cases in 4 months vs 14 projected in 8 months",
+        "75+ gen AI use cases deployed",
+        "16+ in full production",
+        "50% reduction in AI app build time",
+        "30% efficiency increase",
+        "up to 20% cost reduction",
+        "17 use cases in 4 months vs 14 in 8 months"
       ],
       "sources": [
         {
@@ -5248,6 +5267,264 @@
         }
       ],
       "date_added": "2026-08-23",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0ba9b861652d",
+      "company": "KOHLER",
+      "industry": "Manufacturing",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Microsoft 365 Copilot, GitHub Copilot and Copilot Studio agents rolled out enterprise-wide for productivity, coding and custom internal agents",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Reached 98% Microsoft 365 Copilot adoption in 6 weeks; 5,000 employees save 2-5 hours per week; GitHub Copilot improved code releases 25% and cut error defects 75%",
+      "roi_metrics": [
+        "98% Copilot adoption in 6 weeks",
+        "2-5 hours/week saved per employee",
+        "5,000 employees",
+        "25% improvement in code releases",
+        "75% reduction in error defects",
+        "3,000 custom agents created",
+        "95% adoption goal hit in 40 days vs 9 months planned"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26948-kohler-company-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "dbecd50d4b97",
+      "company": "CarMax",
+      "industry": "Retail & E-commerce",
+      "business_function": "Marketing",
+      "use_case": "Azure OpenAI Service (GPT) summarizing 100,000+ customer vehicle reviews into short research summaries for each make/model/year on the website",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Produced customer-review summaries for 5,000 car pages in a few months, work estimated at 11 years of manual effort, with an 80% editorial-review approval rate",
+      "roi_metrics": [
+        "5,000 car pages in a few months",
+        "~11 years of manual effort replaced",
+        "80% editorial approval rate",
+        "100,000+ reviews processed"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/1501304071775762777-carmax-retailer-azure-openai-service",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "373765b60655",
+      "company": "Affinda",
+      "industry": "Technology & Software",
+      "business_function": "R&D / Product",
+      "use_case": "Amazon Bedrock LLMs (Claude) plus SageMaker replacing hand-built extraction models for document data capture across its IDP product",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Cut setup time for new document-extraction use cases by 90% and delivery-team cost by 90%; configuration dropped from weeks/months to minutes",
+      "roi_metrics": [
+        "90% reduction in setup time",
+        "90% cost savings for product delivery team",
+        "weeks/months to minutes for configuration"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/affinda-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0bdc9efe9eaf",
+      "company": "Banner Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "BannerWise, an enterprise assistant on Claude Sonnet 4.5 via Amazon Bedrock, for clinical chart summarization, documentation and general staff productivity across a 33-hospital system",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "85% of users report significant time savings with improved accuracy; deployed to 55,000+ employees in under 30 days; 1,400+ oncology clinical notes processed since June 2025; internal NPS +64",
+      "roi_metrics": [
+        "85% of users report time savings",
+        "NPS +64",
+        "productivity rating 8.9/10",
+        "1,400+ oncology clinical notes processed",
+        "55,000+ employees",
+        "deployed in under 30 days",
+        "target 50% cut in clinician admin tasks by 2029"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/banner-health",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "558f72fcbb74",
+      "company": "Aviva",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Zowie AI agent resolving customer inquiries on website chat and Messenger (document requests, claim filing) with compliance-grade audit trails",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "AI agent fully resolves 90% of all customer inquiries; reached ~40% resolution within two weeks of deployment, with a sharp drop in conversations needing human agents",
+      "roi_metrics": [
+        "90% of inquiries fully resolved by AI",
+        "40% resolution within 2 weeks of launch"
+      ],
+      "sources": [
+        {
+          "source_org": "Zowie",
+          "source_url": "https://getzowie.com/testimonials/aviva",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8cb06b3d95ee",
+      "company": "Mercado Libre",
+      "industry": "Retail & E-commerce",
+      "business_function": "Marketing",
+      "use_case": "GenAds, built on Amazon Bedrock with Stability AI Stable Diffusion and Claude for prompt generation, auto-producing display banner ads for small and mid-size marketplace sellers",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "GenAds campaigns delivered 45% more display impressions and a 25% higher click-through rate than non-GenAds campaigns; 90,000+ product banners generated across 7 countries",
+      "roi_metrics": [
+        "45% increase in display impressions",
+        "25% higher click-through rate",
+        "90,000+ banners generated",
+        "7 countries"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/mercado-libre-mutt-data/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7e02f77af286",
+      "company": "Rakuten",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Code adopted across engineering for unit tests, API mocking, component building, bug fixing, documentation and large open-source refactoring",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Cut time to market for new features by 79% (24 days to 5 days); ran 7 hours of sustained autonomous coding on a complex refactor at 99.9% accuracy",
+      "roi_metrics": [
+        "79% reduction in time to market",
+        "24 days to 5 days",
+        "7 hours sustained autonomous coding",
+        "99.9% accuracy on code modifications"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/rakuten",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7517da4edfb6",
+      "company": "Snowflake",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude powering Cortex Analyst, the natural-language-to-SQL layer of Snowflake's Cortex AI platform for governed enterprise data analytics",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Claude reaches 90% accuracy on complex text-to-SQL tasks in Cortex Analyst, serving 10,000+ global enterprises and letting data teams move from manual SQL to automated insights",
+      "roi_metrics": [
+        "90% accuracy on complex text-to-SQL",
+        "10,000+ enterprises served",
+        "AI apps deployed in days instead of months"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/snowflake",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b7f149d7bf2f",
+      "company": "Reckitt",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Marketing",
+      "use_case": "BCG-led AI transformation deploying AI tools to 1,000+ marketers for reporting, creativity and innovation, plus an agentic revenue-growth-management platform for pricing and promotion optimization",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "60% marketing efficiency increase and time spent on everyday tasks down by as much as 70%, with output quality up",
+      "roi_metrics": [
+        "60% marketing efficiency increase",
+        "up to 70% less time on everyday tasks",
+        "1,000+ marketers"
+      ],
+      "sources": [
+        {
+          "source_org": "BCG",
+          "source_url": "https://www.bcg.com/about/client-impact",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3192002e79fd",
+      "company": "GTU",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Generative-AI chatbot built with Slalom on Amazon Bedrock giving vehicle-inspection engineers expert-level answers inside the GTU+ system",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Chatbot supports 2,700 engineers with expert-level answers, improving access to technical expertise and internal efficiency",
+      "roi_metrics": [
+        "2,700 engineers supported"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/gtu-slalom-bedrock/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-09-02",
       "has_hard_numbers": true,
       "confidence": "high"
     }
