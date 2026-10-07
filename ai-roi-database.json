@@ -5527,6 +5527,306 @@
       "date_added": "2026-09-02",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "5b5b3e2b9078",
+      "company": "PwC",
+      "industry": "Professional Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Code for legacy and mainframe modernization, RFP drafting, and technical spec generation",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Legacy code analysis time cut from 6 weeks to 2.5 days; 400 consultants trained to build working app prototypes in under an hour, with a 30,000-person firmwide rollout underway",
+      "roi_metrics": [
+        "6 weeks to 2.5 days for legacy code analysis",
+        "400 consultants trained in <1 hour",
+        "30,000-person rollout underway",
+        "RFP responses drafted in 15-20 minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/pwc-qa",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1d90b86c5432",
+      "company": "KPMG",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Claude embedded in KPMG's Digital Gateway platform for tax/legal client work, cybersecurity, and firmwide code modernization (KPMG Blaze)",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Building an AI agent to help clients adjust to changing tax regulations went from taking weeks (switching between multiple tools) to minutes, rolled out to KPMG's 276,000+ professionals globally",
+      "roi_metrics": [
+        "Tax-agent build time: weeks to minutes",
+        "276,000+ employees given access"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://www.anthropic.com/news/anthropic-kpmg",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "14f8071c8565",
+      "company": "Copy.ai",
+      "industry": "Technology & Software",
+      "business_function": "Marketing",
+      "use_case": "Claude powering an AI-driven GTM content platform used by marketing teams to generate on-brand content",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "4x increase in content output and 75% reduction in content creation costs",
+      "roi_metrics": [
+        "4x content output",
+        "75% lower content creation costs"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/copy-ai",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b38692d8c6ff",
+      "company": "IG Group",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Claude Enterprise adopted by IG Group's Data and AI transformation team after a multi-vendor evaluation, for analytics and workflow automation",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Full ROI within the first three months; analytics team saves about 70 hours weekly; productivity increased 100% in some use cases",
+      "roi_metrics": [
+        "ROI achieved in 3 months",
+        "~70 hours/week saved by analytics team",
+        "100% productivity increase in some use cases"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/ig-group",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d50d4efbabf0",
+      "company": "Travelers Insurance",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Agentic AI Claim Assistant built with OpenAI's Realtime API, taking customer calls to guide auto-damage claim filing end-to-end",
+      "ai_technology": "Speech / voice AI",
+      "roi_outcome": "85-90% of customers who use the AI Assistant fully complete claim filing on their first call; expanded from an 8-state pilot to countrywide within two months",
+      "roi_metrics": [
+        "85-90% first-call full claim completion",
+        "Countrywide expansion within 2 months of pilot"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/travelers/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "dbfc1eea3f35",
+      "company": "NHS England",
+      "industry": "Public Sector & Government",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot and Copilot Studio agents rolled out for clinical administration, ward clerk operations, medical secretary work, and back-office HR/finance/procurement",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "30,000-worker pilot across 90 organizations showed an average of 43 minutes saved per day on admin tasks; nationwide rollout now underway to 505,000 clinicians and support staff, projected to save millions of hours annually",
+      "roi_metrics": [
+        "43 minutes/day saved per staff member in pilot",
+        "30,000-worker, 90-organization pilot",
+        "505,000 staff in nationwide rollout",
+        "200,000 users onboarded within first 6 months"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://news.microsoft.com/source/2026/06/08/nhs-england-accelerates-ai-adoption-with-microsoft-365-copilot-to-improve-service-delivery-reduce-costs-and-create-more-time-for-care/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9c543de4f63a",
+      "company": "Bell (Bell Canada)",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "ServiceNow AI Agents in Telecom validating, populating, and routing customer case and complaint intake automatically",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "25% faster customer response time and 90% accuracy on AI-assisted cases, as part of the largest ServiceNow implementation in Canada",
+      "roi_metrics": [
+        "25% faster response time",
+        "90% accuracy on AI-assisted cases"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://www.servicenow.com/customers/bell.html",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ff15c845be5c",
+      "company": "Live Nation",
+      "industry": "Media & Entertainment",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce Venue Agent (built with Data 360) delivering venue-specific fan support (parking, show details, what to bring) across concert venues",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Deflects 95% of fan support cases across 120 venues, on track to automate 300,000+ annual fan inquiries as it scales",
+      "roi_metrics": [
+        "95% case deflection",
+        "300,000+ projected annual inquiries automated",
+        "Deployed across 120 venues"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/live-nation/agentic-venue-support/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "59df81ac0fa4",
+      "company": "SPAR",
+      "industry": "Retail & E-commerce",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot deployed across the organization to streamline everyday office and administrative tasks",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "67% active user base saved roughly 715 hours (about 89 workdays, or the output of 4 full-time employees); 93% of users reported increased productivity",
+      "roi_metrics": [
+        "715 hours saved",
+        "67% active user adoption",
+        "93% report increased productivity",
+        "88% feel empowered to work faster"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/07/24/ai-powered-success-with-1000-stories-of-customer-transformation-and-innovation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4afb2de3317a",
+      "company": "Conde Nast",
+      "industry": "Media & Entertainment",
+      "business_function": "Legal & Compliance",
+      "use_case": "Amazon Nova Pro on Amazon Bedrock moderating user-generated image, video, and text submissions for Vogue's 'Dogue' photo contest community feature",
+      "ai_technology": "Computer vision",
+      "roi_outcome": "Delivered a working proof of concept in 1 month and moderated 56,700 photo submissions, 47,300 comments, and 1,300 replies from 50,000+ contest users, saving roughly 2 weeks of manual review effort with no preprocessing required",
+      "roi_metrics": [
+        "56,700 photos moderated",
+        "47,300 comments processed",
+        "~2 weeks of manual review saved",
+        "1-month proof of concept"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/conde-nast-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "cbf888b87429",
+      "company": "Rocket Mortgage",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Amazon Transcribe Call Analytics, Amazon Comprehend, and Amazon Bedrock (Claude) automating call transcription, sentiment/entity extraction, and post-call summarization for mortgage servicing calls",
+      "ai_technology": "Speech / voice AI",
+      "roi_outcome": "Automated post-call wrap-up projected to save 40,000 team hours annually; a 10% increase in first-call resolution saved another 20,000 hours annually; 70% of servicing clients now choose self-service",
+      "roi_metrics": [
+        "40,000 team hours/year saved on call wrap-up",
+        "20,000 hours/year saved from +10% first-call resolution",
+        "70% self-service adoption",
+        "30,000 servicing calls processed in 10 days during rollout"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/transforming-home-ownership-with-amazon-transcribe-call-analytics-amazon-comprehend-and-amazon-bedrock-rocket-mortgages-journey-with-aws/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6d29275ef2d4",
+      "company": "Hyundai Motor Group",
+      "industry": "Automotive",
+      "business_function": "R&D / Product",
+      "use_case": "Crash Safety AI Assistant, an internal R&D knowledge-retrieval system that searches and compares historical crash-test cases, images, and analysis data for engineers",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Cut the time engineers spend searching for and reviewing historical crash-test cases by about 90%, disclosed alongside 80% employee AI adoption group-wide",
+      "roi_metrics": [
+        "90% reduction in crash-test case review time",
+        "80% of employees using AI tools"
+      ],
+      "sources": [
+        {
+          "source_org": "Hyundai Motor Group",
+          "source_url": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-accelerates-ai-transformation-across-its-business-advancing-toward-the-physical-ai-era",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-06",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
