@@ -5827,6 +5827,189 @@
       "date_added": "2026-10-06",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "6eaaaf48df97",
+      "company": "CDW Corporation",
+      "industry": "Technology & Software",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot rolled out to 10,000 employees for meeting summaries, email triage, and content creation",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "88% of users reported improved work quality, 77% completed tasks faster, and 85% reported increased overall productivity, with 80% spending less mental effort on routine tasks",
+      "roi_metrics": [
+        "88% improved work quality",
+        "77% faster task completion",
+        "85% increased productivity",
+        "80% less mental effort on routine tasks"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/19101-cdw-corporation-microsoft-365",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1dbeb8a7d56e",
+      "company": "Farm Credit Canada",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot rolled out from 300 to 1,000 employees for routine task automation",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "78% of users reported time savings on routine tasks, with 35% saving more than an hour per week, and adoption scaled from 300 to 1,000 employees in six months",
+      "roi_metrics": [
+        "78% of users saved time",
+        "35% saved 1+ hour/week",
+        "30% saved 30-60 min/week",
+        "scaled from 300 to 1,000 users in 6 months"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/18887-farm-credit-canada-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "07ec7131fe8c",
+      "company": "EY",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Microsoft 365 Copilot Studio AI agents (PowerPost, PowerMatch, PowerSync) automating general ledger posting, payment matching, and account reconciliation in finance operations",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "95% reduction in general ledger lead times, 37% operational cost reduction, automatic payment matching increased from 30% to 80%, 120,000 hours saved annually at 50% rollout (230,000 projected at full deployment), and an 85% reduction in rebooking errors",
+      "roi_metrics": [
+        "95% reduction in GL lead times",
+        "37% operational cost reduction",
+        "payment matching 30% to 80%",
+        "120,000 hours saved annually (current)",
+        "230,000 hours projected at full rollout",
+        "85% fewer rebooking errors"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/25760-ey-global-services-limited-microsoft-power-platform",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e886250b6634",
+      "company": "CVS Caremark",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce Health AI agent reasoning across 150+ fulfillment substatuses to answer pharmacy benefit member questions",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "58% chat containment rate and 8-12% less time per call, serving 87 million pharmacy benefit members",
+      "roi_metrics": [
+        "58% chat containment",
+        "8-12% reduction in call handling time",
+        "87 million members served"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/cvs-health/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b0a41edd1513",
+      "company": "Xero",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce-powered service agent coordinating specialized agents for banking, payroll, and security support",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Resolves 62% of support cases autonomously across more than 800,000 cases a year",
+      "roi_metrics": [
+        "62% autonomous resolution",
+        "800,000+ cases/year"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/au/customer-stories/xero/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b40e0e2e0ec5",
+      "company": "Access Holdings Plc",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot deployed enterprise-wide for coding, chatbot development, presentations and meeting productivity across a multinational banking group",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Coding time cut from 8 hours to 2 hours, chatbot launch time from 3 months to 10 days, presentation prep from 6 hours to 45 minutes, a 25% increase in meeting engagement, and roughly 5 hours saved per employee per week",
+      "roi_metrics": [
+        "coding: 8hrs to 2hrs",
+        "chatbot launch: 3 months to 10 days",
+        "presentations: 6hrs to 45min",
+        "25% increase in meeting engagement",
+        "~5 hours/week saved per employee",
+        "20% faster new-employee onboarding"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/1802756598954587083-access-holdings-plc-microsoft-365-banking-and-capital-markets-en-nigeria",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "de4c769684c1",
+      "company": "Epsilon",
+      "industry": "Professional Services",
+      "business_function": "Marketing",
+      "use_case": "20+ AI agents on Amazon Bedrock AgentCore automating marketing campaign briefs, content generation, and personalization at scale",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "30% reduction in campaign setup time, 20% increase in personalization capacity, roughly 8 hours saved weekly per team, and agent development time cut from months to weeks",
+      "roi_metrics": [
+        "30% reduction in campaign setup time",
+        "20% increase in personalization capacity",
+        "~8 hours saved weekly",
+        "development time: months to weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS re:Invent 2025 session (AIM395)",
+          "source_url": "https://dev.to/kazuya_dev/aws-reinvent-2025-concept-to-campaign-marketing-agents-on-amazon-bedrock-agentcore-aim395-55cl",
+          "source_type": "foundry",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-10-07",
+      "has_hard_numbers": true,
+      "confidence": "medium"
     }
   ]
 }
