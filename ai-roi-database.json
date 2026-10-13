@@ -6010,6 +6010,133 @@
       "date_added": "2026-10-07",
       "has_hard_numbers": true,
       "confidence": "medium"
+    },
+    {
+      "id": "265aa10b7076",
+      "company": "Regal Rexnord",
+      "industry": "Manufacturing",
+      "business_function": "Knowledge Management",
+      "use_case": "Copilot Studio agents: employee policy agent (RRX GPT), customer order-status agent, and rep-assist agent",
+      "ai_technology": "Copilot Studio agents",
+      "roi_outcome": "Employee agent handles 2,000+ inquiries/month saving ~2,400 hours/yr; rep-assist agent yields ~12% productivity gain for 500+ reps; customer agent satisfaction above 80%",
+      "roi_metrics": [
+        "2,400 hours saved per year",
+        "2,000+ inquiries per month",
+        "12% productivity improvement",
+        "80%+ customer satisfaction"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://microsoft.com/en/customers/story/26197-regal-rexnord-microsoft-copilot-studio/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "27f2de7c68f0",
+      "company": "Presidio",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "Microsoft 365 Copilot and custom Copilot Studio copilots for proposals, meeting recaps, help desk and expenses",
+      "ai_technology": "Microsoft 365 Copilot / Copilot Studio",
+      "roi_outcome": "About 1,200 hours saved per month; 90% reduction in time on RFPs; a three-day task cut to two hours",
+      "roi_metrics": [
+        "1,200 hours saved per month",
+        "90% reduction in RFP time",
+        "3 days to 2 hours",
+        "6 hours/week saved per project manager"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/19401-presidio-network-solutions-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "54935cb50bbc",
+      "company": "Microsoft",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "'Ask Microsoft' multi-agent web assistant on Copilot Studio for product, pricing and support questions on microsoft.com",
+      "ai_technology": "Copilot Studio multi-agent orchestration",
+      "roi_outcome": "Up to 70% reduction in human-handled chat volume, up to 61% lower latency, engaged customers 10x more likely to sign up, 16% more Azure trial initiations",
+      "roi_metrics": [
+        "70% fewer human-handled chats",
+        "61% lower latency",
+        "10x sign-up likelihood",
+        "16% more trial initiations"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26166-microsoft-microsoft-copilot-studio",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a2ec12703fa1",
+      "company": "Chime Financial",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Claude on Amazon Bedrock summarizing customer service calls for agents",
+      "ai_technology": "LLM (Claude on Amazon Bedrock)",
+      "roi_outcome": "Saves 250,000+ hours per year and $700,000 annual efficiency gains; 18 seconds cut from average handling time; NPS up 5 points",
+      "roi_metrics": [
+        "250,000+ hours saved per year",
+        "$700,000 annual efficiency gains",
+        "18 seconds less handling time",
+        "+5 NPS points"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/chime-financial-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "aa677e03533a",
+      "company": "Lonely Planet",
+      "industry": "Travel & Hospitality",
+      "business_function": "Marketing",
+      "use_case": "Generative AI on Amazon Bedrock turning guidebook content into personalized digital itineraries",
+      "ai_technology": "Generative AI (Amazon Bedrock)",
+      "roi_outcome": "Cut costs by 80% with Amazon Bedrock while producing unlimited itineraries from 50 years of content",
+      "roi_metrics": [
+        "80% cost reduction"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/ai/generative-ai/customers/lonely-planet/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-13",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
