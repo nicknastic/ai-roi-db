@@ -6137,6 +6137,245 @@
       "date_added": "2026-10-13",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "8f41f721b2c5",
+      "company": "Reddit",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce AI agent supporting SMB advertisers in the Reddit Ads Help Center",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Chat resolution time fell from 8.9 to 1.4 minutes, saving live reps 760 hours a year and lifting CSAT 20%",
+      "roi_metrics": [
+        "84% faster chat resolution",
+        "760 hours saved per year",
+        "20% CSAT increase",
+        "46% case deflection (vs 13% prior chatbot)"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/reddit/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "cf8566f63df8",
+      "company": "Capita",
+      "industry": "Professional Services",
+      "business_function": "Human Resources",
+      "use_case": "Agentforce automating high-volume recruitment",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Time-to-hire cut from months to as little as 24 hours",
+      "roi_metrics": [
+        "Time-to-hire from months to 24 hours"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a98de5733fc5",
+      "company": "Carnegie Learning",
+      "industry": "Education",
+      "business_function": "Sales",
+      "use_case": "Agentforce AI account summaries for sales reps",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Rep account research time cut from up to an hour to 5-10 minutes",
+      "roi_metrics": [
+        "92% less research time"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9333251c54c1",
+      "company": "Grupo Globo",
+      "industry": "Media & Entertainment",
+      "business_function": "Sales & Marketing",
+      "use_case": "Agentforce for subscriber retention, upgrades and conversion",
+      "ai_technology": "AI agent",
+      "roi_outcome": "22% retention increase versus the previous bot",
+      "roi_metrics": [
+        "22% retention increase"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6b60e8d4565e",
+      "company": "World Economic Forum",
+      "industry": "Public Sector & Government",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce 24/7 attendee support app",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Supported 3,000 guests with 75% first-time case resolution",
+      "roi_metrics": [
+        "3,000 guests supported",
+        "75% first-time resolution"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "69fbec4d786d",
+      "company": "El Jannah",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce website FAQ agent",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Handled 60% of inbound requests and coincided with 16,000+ new active customers and lifetime value up over 55%",
+      "roi_metrics": [
+        "60% of inbound requests handled",
+        "16,000+ new active customers",
+        "55% LTV increase"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6fdfdce32e07",
+      "company": "Grupo Falabella",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce automated customer service on WhatsApp in Colombia",
+      "ai_technology": "AI agent",
+      "roi_outcome": "WhatsApp digital interactions rose to 71% within three weeks",
+      "roi_metrics": [
+        "71% digital interactions in 3 weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7ea19f0c3b9e",
+      "company": "Datasite",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce answering day-to-day customer chat questions",
+      "ai_technology": "AI agent",
+      "roi_outcome": "70% of chat questions resolved accurately",
+      "roi_metrics": [
+        "70% of chat questions resolved"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0613542182d9",
+      "company": "OpenTable",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce diner and restaurant support with ticket creation",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Resolved 73% of restaurant web queries after three weeks, a 50% improvement over the previous tool",
+      "roi_metrics": [
+        "73% of restaurant web queries resolved",
+        "50% improvement over prior tool"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/news/stories/agentforce-customer-success-stories/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f0a47ffeb1d7",
+      "company": "Danfoss",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI agents automating email-based B2B order processing on Google Cloud (with Go Autonomous)",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Automated up to 80% of transactional decisions and communication; processing time down 50%; response time potentially from 42 hours to near real time",
+      "roi_metrics": [
+        "Up to 80% of transactional decisions automated",
+        "50% processing time reduction",
+        "42 hours to near real-time response (potential)"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/customers/danfoss",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-14",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
