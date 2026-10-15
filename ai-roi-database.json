@@ -6376,6 +6376,154 @@
       "date_added": "2026-10-14",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "f33ac5f13194",
+      "company": "Bradesco",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Gemini Enterprise for automated fiscal, accounting and contractual analysis, accelerating proposal reviews and budgetary workflows",
+      "ai_technology": "Generative AI assistant",
+      "roi_outcome": "Cut document review time from 1 hour to 5 minutes, reduced risk inconsistencies by 60% and delivered over 10% financial efficiencies",
+      "roi_metrics": [
+        "1 hour to 5 minutes document review",
+        "60% fewer risk inconsistencies",
+        "10%+ financial efficiencies"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "18cf177efb56",
+      "company": "Ulta Beauty",
+      "industry": "Retail & E-commerce",
+      "business_function": "Sales",
+      "use_case": "AI shopping assistant built with Gemini Enterprise turning conversational questions into personalized beauty recommendations across 30,000 products",
+      "ai_technology": "Generative AI assistant",
+      "roi_outcome": "Tripled digital sales conversion rates",
+      "roi_metrics": [
+        "3x digital sales conversion"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b80e34d778c6",
+      "company": "SOMPO",
+      "industry": "Insurance",
+      "business_function": "IT & Engineering",
+      "use_case": "10,000+ custom Gemini Enterprise agents built across 34,000 employees for document search, summarization and model development",
+      "ai_technology": "AI agents",
+      "roi_outcome": "Engineering team cut development time for new models from one week to a single day",
+      "roi_metrics": [
+        "1 week to 1 day model development",
+        "10,000+ agents",
+        "34,000 employees"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "94d98a9649b4",
+      "company": "PayPal",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering",
+      "use_case": "AI platform built on Gemini Enterprise for creating new commerce tools and deploying models",
+      "ai_technology": "Generative AI platform",
+      "roi_outcome": "Cut time to deploy new models from weeks to minutes",
+      "roi_metrics": [
+        "weeks to minutes model deployment"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "2b20b68ea27d",
+      "company": "InterWiz",
+      "industry": "Professional Services",
+      "business_function": "HR",
+      "use_case": "AI-driven structured candidate screening interviews migrated from GPT-4 Turbo to multi-model Amazon Bedrock (Claude 3.5 Sonnet, Llama 3.3 70B)",
+      "ai_technology": "LLM, prompt caching and routing",
+      "roi_outcome": "AI cost per interview fell 90% ($0.25 to $0.025), response time down 55%, 99.9% uptime",
+      "roi_metrics": [
+        "90% AI cost reduction",
+        "$0.25 to $0.025 per interview",
+        "55% faster responses",
+        "99.9% uptime"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/apn/how-interwiz-reduced-ai-costs-by-90-with-amazon-bedrock/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f7940b601ed7",
+      "company": "Base39",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Claude on Amazon Bedrock with LangGraph and MongoDB Atlas analyzing loan applications for credit decisions",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "96% lower cost per loan analysis; decision time cut from three days to under an hour; 84% lower infrastructure costs",
+      "roi_metrics": [
+        "96% cost reduction per loan analysis",
+        "3 days to under 1 hour decisions",
+        "84% infrastructure cost reduction",
+        "75% lower development costs"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/partners/success/base39-mongodb-anthropic/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-15",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
