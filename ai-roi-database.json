@@ -869,9 +869,11 @@
       "business_function": "Customer Service",
       "use_case": "Agentforce for appliance self-service support grounded on knowledge articles",
       "ai_technology": "LLM agent",
-      "roi_outcome": "Increasing self-service rates from 40% to 70%, reducing service costs and improving satisfaction",
+      "roi_outcome": "Salesforce's customer story reports an 80% resolution rate for Agentforce self-service and 75% positive rep feedback for the in-console rep assistant; Fisher & Paykel's GM Digital says the self-service agent resolves about 70% of product troubleshooting queries, up from about 30% with its earlier Einstein bots. (The often-quoted '40% to 70% self-service' figure is a Salesforce projection from Aug 2025, not a measured result.)",
       "roi_metrics": [
-        "self-service 40% to 70%"
+        "80% resolution rate (Agentforce self-service)",
+        "75% positive rep feedback (rep assistant)",
+        "~70% of troubleshooting queries resolved vs ~30% with prior Einstein bots"
       ],
       "sources": [
         {
@@ -879,6 +881,12 @@
           "source_url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/",
           "source_type": "saas",
           "source_tier": "primary"
+        },
+        {
+          "source_org": "Chief Marketer",
+          "source_url": "https://www.chiefmarketer.com/luxury-appliance-brand-fisher-paykel-taps-agentic-ai-for-efficiency",
+          "source_type": "other",
+          "source_tier": "secondary"
         }
       ],
       "date_added": "2026-06-22",
@@ -1937,24 +1945,23 @@
       "business_function": "Finance & Accounting",
       "use_case": "Intelligent Financial Advisor on SAP generating narrative commentaries for controllership",
       "ai_technology": "LLM / generative AI",
-      "roi_outcome": "90%+ of AI-generated narratives approved with little revision; saved ~57,000 hours globally; moved to a 3-day close from 5; freed 20% of idle cash",
+      "roi_outcome": "Over 90% of AI-generated narratives approved with little or no revision; saved about 57,000 hours globally in controllership work; helped move to a three-day global close from five",
       "roi_metrics": [
         "57,000 hours saved",
-        "90%+ auto-approved",
-        "5-day to 3-day close",
-        "20% idle cash freed"
+        "90%+ approved with little/no revision",
+        "5-day to 3-day close"
       ],
       "sources": [
         {
           "source_org": "SAP News",
           "source_url": "https://news.sap.com/2026/03/how-accenture-uses-ai-as-growth-engine/",
-          "source_type": "consulting",
-          "source_tier": "secondary"
+          "source_type": "saas",
+          "source_tier": "primary"
         }
       ],
       "date_added": "2026-06-22",
       "has_hard_numbers": true,
-      "confidence": "medium"
+      "confidence": "high"
     },
     {
       "id": "0f06447b7e23",
@@ -4249,11 +4256,11 @@
       "business_function": "Customer Service",
       "use_case": "AI-enabled Customer Care 'Super-Agent' built on Databricks, trained on product manuals, case history and expert video, supporting call center agents and new-hire onboarding for RV/marine/automotive parts support",
       "ai_technology": "LLM agent",
-      "roi_outcome": "AI assistant handled 50% of call volume, cut new agent onboarding time roughly in half, and reached 84% model accuracy within weeks",
+      "roi_outcome": "Assistant is expected to augment about half of the 1M+ inbound calls a year (company projection, not a measured result); new-agent ramp time fell from six months to four weeks (85% reduction); model accuracy rose from 33% to 84% within weeks using synthetic-data evaluation",
       "roi_metrics": [
-        "50% of call volume handled by AI",
-        "onboarding time cut ~50%",
-        "84% model accuracy"
+        "~50% of inbound call volume expected to be augmented (projection)",
+        "new-agent ramp 6 months to 4 weeks (85% reduction)",
+        "model accuracy 33% to 84%"
       ],
       "sources": [
         {
@@ -6768,6 +6775,666 @@
         {
           "source_org": "Anthropic",
           "source_url": "https://claude.com/customers/nri",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "98bc21bbcefa",
+      "company": "Holcim",
+      "industry": "Manufacturing",
+      "business_function": "Finance & Accounting",
+      "use_case": "Omnivore: generative AI triaging the accounts-payable inbox, classifying supplier emails as invoices vs other vendor communications, sorting invoices by company code and routing them, in multiple languages",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "In one European country (shared inbox of ~2,000 invoices/month previously worked by a dedicated full-time employee), Omnivore averaged 3,906 emails/month with 95% of volume processed automatically and ~300 emails handled manually (April 2025 data); Holcim says it removes 90% of the manual work in invoice processing; rollout to four more countries planned",
+      "roi_metrics": [
+        "95% of AP inbox volume automated",
+        "3,906 emails/month processed",
+        "90% of manual invoice-processing work removed (Holcim)",
+        "~300 emails/month still manual"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS (co-authored with Holcim)",
+          "source_url": "https://aws.amazon.com/blogs/industries/transform-invoice-processing-holcim/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "16498cb5e46b",
+      "company": "Ellby",
+      "industry": "Technology & Software",
+      "business_function": "Finance & Accounting",
+      "use_case": "EllbyExtract: generative-AI supplier invoice data extraction with Claude Sonnet and Haiku on Amazon Bedrock, replacing template-based OCR in its accounts-payable automation platform",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Invoice processing automation rose from under 60% (40% of invoices needed manual validation) to over 94%; customer onboarding time cut by more than 55%; 300+ hours/month of template maintenance eliminated",
+      "roi_metrics": [
+        "invoice automation <60% to 94%+",
+        "55%+ faster customer onboarding",
+        "300+ hours/month maintenance saved"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/ellby-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "56bcfb7e3454",
+      "company": "FibroGen",
+      "industry": "Pharma & Biotech",
+      "business_function": "Finance & Accounting",
+      "use_case": "Document AI Invoice Parser pipeline capturing supplier invoices from email and posting them into SAP for the accounts-payable team, built with Deloitte",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Automates capture of ~1,000 supplier invoices/month that took ~25% of a two-person AP team's working hours; runs for ~$150/month, which Google estimates as a 40x ROI if it frees up that 25% of AP capacity; design to production in under three months",
+      "roi_metrics": [
+        "~1,000 invoices/month",
+        "est. 40x ROI",
+        "$150/month run cost",
+        "up to 25% of AP team capacity freed (est.)",
+        "<3 months to production"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud (co-authored with FibroGen)",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/reducing-invoice-processing-with-document-ai",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5fd2cb5d3475",
+      "company": "Thermo Fisher Scientific",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Finance & Accounting",
+      "use_case": "UiPath Document Understanding with custom ML models extracting data from purchase-to-pay invoices received through Coupa, with human validation in Action Center",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Cut invoice processing time by 70% for ~824,000 invoices a year handled by an eight-person P2P team; ~53% of invoices processed with no human involvement; 82.4% document-reading accuracy at initial deployment (goal 85%+)",
+      "roi_metrics": [
+        "70% less invoice processing time",
+        "824,000 invoices/year",
+        "53% straight-through processing",
+        "82.4% extraction accuracy"
+      ],
+      "sources": [
+        {
+          "source_org": "UiPath",
+          "source_url": "https://www.uipath.com/resources/automation-case-studies/document-understanding-reduces-thermo-fisher-scientific-invoice-process",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "802bcb3a2699",
+      "company": "Canon USA",
+      "industry": "Manufacturing",
+      "business_function": "Finance & Accounting",
+      "use_case": "UiPath Document Understanding with custom ML models replacing RegEx extraction for vendor invoice processing into Oracle, with exceptions handled in Action Center",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "About 90% straight-through processing of vendor invoices (goal was 75%), versus 35-40% accuracy from the earlier RegEx-based automation; ~4,500 invoices/month (40,000 in under nine months); about 6,000 employee hours saved a year (company estimate)",
+      "roi_metrics": [
+        "~90% straight-through processing",
+        "6,000 hours/year saved (est.)",
+        "4,500 invoices/month",
+        "35-40% accuracy with prior RegEx automation"
+      ],
+      "sources": [
+        {
+          "source_org": "UiPath",
+          "source_url": "https://www.uipath.com/resources/automation-case-studies/canon-leverages-ai-for-document-processing",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4bf56a223edb",
+      "company": "Veolia",
+      "industry": "Energy & Utilities",
+      "business_function": "Finance & Accounting",
+      "use_case": "Rossum AI document processing capturing and posting supplier invoices at a shared service center serving 30 Veolia entities",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "90% automation rate and 90% manual workload reduction; invoice processing 8x faster with up to 87.5% time saved per document; the shared service center is targeting 98% automation",
+      "roi_metrics": [
+        "90% automation rate",
+        "8x faster processing",
+        "87.5% time saved per document",
+        "90% manual workload reduction"
+      ],
+      "sources": [
+        {
+          "source_org": "Rossum",
+          "source_url": "https://rossum.ai/customers/veolia/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "aafb19dd6256",
+      "company": "Fugro",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Rossum AI invoice capture across four accounts-payable shared service centers integrated with three ERPs, plus AI triage of supplier emails",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Average invoice processing time cut from 2 minutes to 35 seconds (~70%) on ~300,000 invoices/year from 21 countries; 70% automation rate overall, 85%+ in some regions; supplier-email triage saves the AP team 160 hours/month; four shared service centers onboarded within three months",
+      "roi_metrics": [
+        "~70% faster invoice processing (2 min to 35 s)",
+        "70% automation rate",
+        "300,000 invoices/year",
+        "160 hours/month saved on supplier emails"
+      ],
+      "sources": [
+        {
+          "source_org": "Rossum",
+          "source_url": "https://rossum.ai/customer-stories/fugro/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b5e22f8a30a1",
+      "company": "Maximus",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Rossum AI invoice capture from a central AP mailbox, validated and pushed into Coupa for approval and payment",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Invoice processing time cut 85%, from 3-8 minutes to under 30 seconds per invoice; extraction accuracy estimated at 95-98%; AP team went from 10 to 8 people through attrition while keeping capacity; live March 2025 after a ~5-month implementation",
+      "roi_metrics": [
+        "85% less invoice processing time",
+        "3-8 min to <30 s per invoice",
+        "95%+ extraction accuracy",
+        "AP team 10 to 8 (20%) via attrition"
+      ],
+      "sources": [
+        {
+          "source_org": "Rossum",
+          "source_url": "https://rossum.ai/customer-stories/maximus/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "43b0f6e8104d",
+      "company": "Beiersdorf",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Finance & Accounting",
+      "use_case": "Hypatos AI agents doing end-to-end PO line matching for invoice auto-posting in SAP S/4HANA across 88 legal entities, on top of AI invoice capture, enrichment and validation",
+      "ai_technology": "AI agent",
+      "roi_outcome": "PO-matching agents went live across all 88 company codes (EMEA, APAC, LATAM, Canada) within four months; PO line matching accuracy reached ~90%, up roughly 20-30 percentage points from baseline, on roughly 560,000-650,000 invoices a year (~80% PO-based)",
+      "roi_metrics": [
+        "~90% PO line matching accuracy",
+        "+20-30 pts vs baseline",
+        "88 legal entities live in 4 months",
+        "~560K-650K invoices/year"
+      ],
+      "sources": [
+        {
+          "source_org": "Hypatos",
+          "source_url": "https://www.hypatos.ai/resources/case-studies/fmcg-global-confidential",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "67edc7e7f4b7",
+      "company": "Boddie-Noell Enterprises",
+      "industry": "Travel & Hospitality",
+      "business_function": "Finance & Accounting",
+      "use_case": "Auditoria AI agents reading supplier invoices to assign vendor, spend category, cost center and approval routing in Workday, flagging duplicates, and auto-answering vendor inquiries",
+      "ai_technology": "AI agent",
+      "roi_outcome": "Processing time for invoices handled through Auditoria cut ~80% (simple invoices used to take 5-6 minutes); error rate fell from 3-4% to about 2%; a four-person AP team handles ~3,500 invoices a month across 330+ cost centers for the largest US Hardee's franchisee",
+      "roi_metrics": [
+        "~80% less invoice processing time",
+        "error rate 3-4% to ~2%",
+        "3,500 invoices/month with a 4-person AP team"
+      ],
+      "sources": [
+        {
+          "source_org": "Auditoria.AI",
+          "source_url": "https://www.auditoria.ai/case-study-boddie-noell/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "36662333f9ef",
+      "company": "Accenture",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Intelligent Cash: machine learning on SAP recommending how much cash to hold, treating cash like inventory, using a unified business data mart",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Freed up 20% of Accenture's idle cash",
+      "roi_metrics": [
+        "20% of idle cash freed"
+      ],
+      "sources": [
+        {
+          "source_org": "SAP News",
+          "source_url": "https://news.sap.com/2026/03/how-accenture-uses-ai-as-growth-engine/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a99f6a9c8503",
+      "company": "Accenture",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Machine-learning receivables processing and cash-application matching co-developed on SAP",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "More than doubled the receivables-processing automation rate and tripled automatic reconciliation (~300% improvement); a cash-application scheduler added a 7% uplift in auto-clearing and matches ~77% faster",
+      "roi_metrics": [
+        "2x+ receivables automation rate",
+        "3x automatic reconciliation",
+        "7% uplift in auto-clearing",
+        "77% faster matching"
+      ],
+      "sources": [
+        {
+          "source_org": "SAP News",
+          "source_url": "https://news.sap.com/2026/03/how-accenture-uses-ai-as-growth-engine/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f80904a293d5",
+      "company": "Morgan Stanley",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "AI @ Morgan Stanley Assistant: GPT-4 internal chatbot giving wealth management financial advisors instant answers from the firm's 100,000-document knowledge base",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Over 98% of advisor teams in wealth management actively use it; access to documents jumped from 20% to 80%, cutting search time; coverage grew from answering 7,000 questions to any question across a 100,000-document corpus",
+      "roi_metrics": [
+        "98%+ advisor team adoption",
+        "document access 20% to 80%",
+        "7,000 questions to 100,000-document corpus"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/morgan-stanley/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "981e5a61f247",
+      "company": "Morgan Stanley",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "AI @ Morgan Stanley Debrief: Whisper and GPT-4 meeting assistant turning wealth management client meetings into notes, CRM entries, action items and draft follow-up emails for financial advisors",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Available to Morgan Stanley's 15,000 financial advisors; saves an average of 30 minutes per one-hour client meeting (Morgan Stanley's figure in its Celent award submission); follow-ups that used to take days now happen within hours",
+      "roi_metrics": [
+        "30 min saved per 1-hour client meeting",
+        "follow-ups from days to hours",
+        "15,000 advisors with access"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/morgan-stanley/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        },
+        {
+          "source_org": "Celent (Model Wealth Manager 2025, source: Morgan Stanley Wealth Management)",
+          "source_url": "https://www.celent.com/v1/downloader/Morgan_Stanley_Wealth_Management_Debrief_Model_Wealth_Manager_One_Pager_8fe3273627.pdf",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b33e617197a8",
+      "company": "JPMorgan",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Connect Coach: generative AI tool giving J.P. Morgan wealth management advisors tailored client recommendations, call summaries and fast content retrieval",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Approximately 95% quicker at locating relevant content for client conversations; over 80% of the Asset & Wealth Management front office uses the firm's LLM Suite (J.P. Morgan AWM CEO letter, 2024 Annual Report)",
+      "roi_metrics": [
+        "~95% quicker locating relevant content",
+        "80%+ of AWM front office on LLM Suite"
+      ],
+      "sources": [
+        {
+          "source_org": "JPMorgan Chase (AWM CEO letter, 2024 Annual Report)",
+          "source_url": "https://www.jpmorganchase.com/ir/annual-report/2024/ar-ceo-letter-mary-callahan-erdoes",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ae597416c003",
+      "company": "JPMorgan",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Sales Assist: generative AI that transcribes J.P. Morgan asset and wealth management sales calls, surfaces product information in real time, and summarizes and tags client data",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Approximately 20% higher gross sales year-over-year supported by Sales Assist (company-reported, 2024; not isolated from other factors)",
+      "roi_metrics": [
+        "~20% higher gross sales YoY"
+      ],
+      "sources": [
+        {
+          "source_org": "JPMorgan Chase (AWM CEO letter, 2024 Annual Report)",
+          "source_url": "https://www.jpmorganchase.com/ir/annual-report/2024/ar-ceo-letter-mary-callahan-erdoes",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "cfcdf1d19574",
+      "company": "JPMorgan",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "GPT-Insights: proprietary generative AI tool creating comprehensive company research reports from multiple sources for J.P. Morgan Asset & Wealth Management investment teams",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Since its December 2024 launch, GPT-Insights has reduced research task times by up to 85%",
+      "roi_metrics": [
+        "up to 85% less research task time"
+      ],
+      "sources": [
+        {
+          "source_org": "JPMorgan Chase (AWM CEO letter, 2024 Annual Report)",
+          "source_url": "https://www.jpmorganchase.com/ir/annual-report/2024/ar-ceo-letter-mary-callahan-erdoes",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "06599ec86d62",
+      "company": "Merrill (Bank of America)",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "AI-Powered Meeting Journey: meeting prep, consent-based AI notetaking and follow-up task generation for Merrill and Bank of America Private Bank wealth advisors",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Bank of America says the capability can save advisors up to four hours per meeting (manual note processing, moving data between systems, follow-up correspondence) across millions of meetings a year; full-scale rollout March 2026 (firm estimate, no methodology published)",
+      "roi_metrics": [
+        "up to 4 hours saved per meeting (company estimate)"
+      ],
+      "sources": [
+        {
+          "source_org": "Bank of America newsroom",
+          "source_url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/merrill-and-bank-of-america-private-bank-launch-ai-powered-meeti.html",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e18f4af744cc",
+      "company": "RBC Wealth Management",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Agentforce meeting-prep agent on Data 360 for RBC Wealth Management's 2,200 US financial advisors, summarizing a year of client CRM data before each meeting",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Meeting prep cut from at least an hour to under a minute (60 minutes of advisor time saved per meeting); 50% reduction in data management costs; agent launched in six weeks; 95% adoption of Salesforce tools across 6,000+ employees",
+      "roi_metrics": [
+        "60 min advisor time saved per meeting",
+        "50% lower data management costs",
+        "agent live in 6 weeks",
+        "95% adoption"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/rbc-wealth-management",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9a2bc6a36e9e",
+      "company": "UBS",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "UBS AI client-insight tools (STAAT Insights) for US wealth management: aggregating internal and external signals to flag client life events and send pre-meeting briefings to 5,000+ financial advisors",
+      "ai_technology": "Recommendation system",
+      "roi_outcome": "UBS's Chief Data & Analytics Officer for GWM Americas says some advisors using UBS AI have saved three to four hours per client meeting, and that flagged life events have prompted multimillion-dollar investment shifts; STAAT Insights won Celent's 2026 Model Wealth Manager award",
+      "roi_metrics": [
+        "3-4 hours saved per client meeting (some advisors)",
+        "5,000+ advisors served"
+      ],
+      "sources": [
+        {
+          "source_org": "UBS",
+          "source_url": "https://www.ubs.com/us/en/wealth-management/financial-advisor-experience/articles/ai-for-financial-advisors.html",
+          "source_type": "other",
+          "source_tier": "primary"
+        },
+        {
+          "source_org": "Celent (Model Wealth Manager 2026, source: UBS Financial Services)",
+          "source_url": "https://gd-celent-prod-cms.celent.com/v1/downloader/Celent_Model_Wealth_Manager_2026_One_Pager_UBS_b0f1b60ab6.pdf",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ca1ca8c42b49",
+      "company": "Singular Bank",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Singularity: internal assistant built on ChatGPT and Codex that analyzes private-banking client portfolios in real time, prepares bankers for meetings and drafts compliant follow-up communications",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Bankers at the Madrid private bank save 60-90 minutes a day; meeting prep down from ~20 minutes to under 1 minute, call reports from 15-20 minutes to under 30 seconds, investment arguments from 10-15 minutes to ~20 seconds; 3,500+ operations run in a 30-day period across 19 workflows",
+      "roi_metrics": [
+        "60-90 min saved per banker per day",
+        "meeting prep ~20 min to <1 min",
+        "call reports 15-20 min to <30 s",
+        "3,500+ operations in 30 days"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/singular-bank/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7e6c99d159fd",
+      "company": "Societe Generale Private Banking",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "GenAI tool on Azure OpenAI that analyzes portfolio data and drafts personalized managed-portfolio performance reports for private-banking portfolio managers to share with clients",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Up to 100 minutes saved per report across analysis, writing and client-meeting prep; capacity to produce 84,000+ report texts a year; MVP live six months after kickoff (bank-supplied figures in Celent's award summary)",
+      "roi_metrics": [
+        "up to 100 min saved per report",
+        "84,000+ report texts/year capacity",
+        "6 months to MVP"
+      ],
+      "sources": [
+        {
+          "source_org": "Celent (Model Wealth Manager 2025, source: Societe Generale Private Banking)",
+          "source_url": "https://www.celent.com/v1/downloader/Societe_Generale_Model_Wealth_Manager_One_Pager_689879d6b3.pdf",
+          "source_type": "consulting",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "b912eba14997",
+      "company": "Quilter",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Microsoft 365 Copilot transcribing and writing up client meetings for Quilter wealth management investment managers, plus drafting investment commentary and reviewing data",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Quilter estimates Copilot will save 13,000+ hours a month of post-call admin for its most expensive staff (based on ~45 minutes saved per meeting across 174 investment managers); reports ~20% higher team productivity and a breakeven of about one month (company estimates, not measured results)",
+      "roi_metrics": [
+        "13,000+ hours/month post-call admin (est.)",
+        "45 min saved per meeting (est.)",
+        "20% team productivity increase",
+        "~1 month breakeven"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/23237-quilter-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ecb1d529009c",
+      "company": "Hargreaves Lansdown",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Microsoft 365 Copilot with Teams Premium summarizing client meetings so Hargreaves Lansdown financial advisers can turn notes into branded client documents",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Advisers expect to complete client documentation 4x faster (aiming to cut a 4-hour process to 1 hour); initial estimates show employees saving 2-3 hours a week; 96% of surveyed users find Copilot useful (2023 early-adopter results)",
+      "roi_metrics": [
+        "4x faster client documentation (expected)",
+        "2-3 hours/week saved per employee (est.)",
+        "96% of users find it useful"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/1700944299531611959-hargreaves-lansdown-microsoft-365-copilot-united-kingdom",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ee02aab7036f",
+      "company": "HSBC",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "AI-powered decision assistant for HSBC wealth relationship managers and frontline staff cutting admin and client-meeting prep, being expanded with Google Cloud Gemini",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "HSBC says the assistant is already reducing admin and client meeting prep time from hours to minutes for thousands of users (no exact figures disclosed); being expanded under a multi-year Google Cloud partnership",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "HSBC (news release with Google Cloud)",
+          "source_url": "https://www.hsbc.com/-/files/hsbc/media/media-release/2026/260616-hsbc-and-google-cloud-ai-strategic-partnership.pdf",
+          "source_type": "other",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "480dd41d37d1",
+      "company": "Norges Bank Investment Management (NBIM)",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude Enterprise and Claude Code across the sovereign wealth fund's investment research, ESG analysis of portfolio companies, compliance documentation and analyst tooling",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Employees save about 20% of their time weekly on Claude-assisted analytical and operational tasks (internal surveys); 600+ active users across all departments within two months of a two-week pilot; supports ESG analysis across the ~9,000 companies NBIM invests in",
+      "roi_metrics": [
+        "20% weekly time saved per employee",
+        "600+ active users in 2 months"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://www.claude.com/customers/nbim",
           "source_type": "frontier-lab",
           "source_tier": "primary"
         }
