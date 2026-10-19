@@ -6675,6 +6675,106 @@
       "date_added": "2026-10-19",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "fcdf4f3aa481",
+      "company": "Elation Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Clinical Insights chart-review summarization with citations for primary-care clinicians, powered by Claude Haiku 4.5",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "61% reduction in median time to first insight (from 26 seconds) after migrating to Claude; Clinical Insights adoption doubled",
+      "roi_metrics": [
+        "61% reduction in median time to first insight",
+        "2x adoption of Clinical Insights",
+        "AI tool adoption among active clinicians more than tripled",
+        "3-day integration, 2-week full rollout"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/elation-health",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ae3c2cc1e675",
+      "company": "Carta Healthcare",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Operations",
+      "use_case": "Lighthouse platform using Claude on Amazon Bedrock to automate clinical data abstraction for surgical registries, with clinician validation",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "Abstraction time cut by up to 66% and 50% cost savings; complex cases dropped from 5-6 hours to 90 minutes",
+      "roi_metrics": [
+        "66% reduction in abstraction time",
+        "50% cost savings",
+        "3,667-6,050 hours saved annually",
+        "98-99% inter-rater reliability"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/carta-healthcare",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "af805c715978",
+      "company": "Binti",
+      "industry": "Public Sector & Government",
+      "business_function": "Operations",
+      "use_case": "Claude-drafted home visit reports and case notes from recordings, case-file Q&A and form translation for child welfare social workers",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "Home visit report writing cut from 3-4 hours to under 2 hours (50%); family licensing timelines cut from 110 to under 90 days",
+      "roi_metrics": [
+        "50% reduction in report writing time",
+        "20% faster family licensing (110 to under 90 days)",
+        "up to 75% time savings for some workers"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/binti",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a0c6e7069213",
+      "company": "Nomura Research Institute (NRI)",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Claude 3.5 Sonnet on Amazon Bedrock reviewing complex Japanese business and financial documents with few-shot examples from past human reviews",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "50% reduction in review time for complex Japanese business documents while matching human reviewer accuracy",
+      "roi_metrics": [
+        "50% reduction in review time"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/nri",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
