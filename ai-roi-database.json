@@ -6524,6 +6524,157 @@
       "date_added": "2026-10-15",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "2c595487998e",
+      "company": "EvenUp",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Claude drafting personal-injury demand packages and discovery responses from case records, with attorney review",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "Drafting cut from 8-15 hours to minutes per case; discovery response time from 5 hours to 30 minutes; demand output tripled at customer firms",
+      "roi_metrics": [
+        "8-15 hours to ~30 minutes drafting",
+        "5 hours to 30 minutes discovery response",
+        "3x demand output",
+        "16% more complete drafts"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/evenup",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3e22dc2c8124",
+      "company": "Spellbook",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Claude agents reviewing and redlining contracts inside Word using each legal team's playbook",
+      "ai_technology": "LLM agents (Claude)",
+      "roi_outcome": "Agreement turnaround cut ~10x, from about 10 hours of lawyer work to about 1; 530,000 contract reviews per month",
+      "roi_metrics": [
+        "10x faster agreement turnaround",
+        "10 hours to ~1 hour",
+        "530,000 contract reviews/month"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/spellbook",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "02bcf8840ef1",
+      "company": "Zendesk",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Custom customer-service agent builder on Claude via Amazon Bedrock",
+      "ai_technology": "LLM agents (Claude)",
+      "roi_outcome": "Up to 80% reduction in human handle times and up to 10% higher automated resolution for customers; 1 million agent executions in 7 weeks of early access",
+      "roi_metrics": [
+        "up to 80% lower handle times",
+        "up to 10% higher automated resolution",
+        "1M agent executions in 7 weeks",
+        "99% accuracy in duplicate-merging pilot"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/zendesk",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c75feb4afbcc",
+      "company": "Pictet",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering",
+      "use_case": "Claude Code and Claude Cowork for prototyping, compliance gap analysis and automation across the bank",
+      "ai_technology": "Agentic coding (Claude Code)",
+      "roi_outcome": "Prototype development cut from two weeks to two hours; a 50-directive compliance gap analysis estimated at two weeks for three people finished in hours",
+      "roi_metrics": [
+        "2 weeks to 2 hours prototypes",
+        "3-hour weekly newsletter automated",
+        "500+ staff trained"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/pictet",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "826926a487d4",
+      "company": "Qonto",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Claude-powered Operator and Analyst agents for transfers, payroll and invoicing for small businesses, on Amazon Bedrock",
+      "ai_technology": "LLM agents (Claude)",
+      "roi_outcome": "Bank transfers 2x faster, invoice creation 3x less time, payroll 5x quicker",
+      "roi_metrics": [
+        "2x faster bank transfers",
+        "3x less time creating invoices",
+        "5x quicker payroll"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/qonto",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "46c69833ef16",
+      "company": "HubSpot",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering",
+      "use_case": "Claude Code, Claude projects and customer-success assistance across engineering, marketing and CS teams",
+      "ai_technology": "LLM (Claude)",
+      "roi_outcome": "Up to 40% productivity gain in web development and content creation; complex troubleshooting cut from 3-5 days to under an hour (HubSpot calls figures illustrative)",
+      "roi_metrics": [
+        "up to 40% productivity gain",
+        "3-5 days to under 1 hour troubleshooting"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/hubspot",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
