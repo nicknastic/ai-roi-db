@@ -1020,12 +1020,21 @@
       "ai_technology": "LLM / generative AI",
       "roi_outcome": "Empowers associates across 1,700+ stores with expert project guidance",
       "roi_metrics": [
-        "1,700+ stores"
+        "1,700+ stores",
+        "3x customer conversion",
+        "300K associates",
+        "25M questions answered"
       ],
       "sources": [
         {
           "source_org": "OpenAI",
           "source_url": "https://openai.com/index/1-million-businesses-putting-ai-to-work/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        },
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/lowes/",
           "source_type": "frontier-lab",
           "source_tier": "primary"
         }
@@ -7440,6 +7449,898 @@
         }
       ],
       "date_added": "2026-10-19",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b21b268ea43f",
+      "company": "Boston Children's Hospital",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Enterprise ChatGPT layer powering 50+ operational automations (supply chain invoice intake/routing, AI surgical scheduling by acuity) plus a 'co-pilot geneticist' for rare-disease diagnosis",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "~60,000 hours saved across 50+ automations, equal to $7M+ in redeployed labor; 40+ previously unresolved rare conditions diagnosed",
+      "roi_metrics": [
+        "60,000 hours saved",
+        "$7M+ redeployed labor",
+        "50+ automations",
+        "40+ rare conditions diagnosed",
+        "1/3+ of employees use AI daily"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/boston-childrens-hospital/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "625605ad13a5",
+      "company": "AdventHealth",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "ChatGPT for Healthcare drafting structured chart summaries and rationales for physician-advisor utilization management reviews, plus admin drafting across finance, HR and IT",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "80% reduction in time spent on administrative tasks; care teams reclaiming hours each week across a nine-state hospital system",
+      "roi_metrics": [
+        "80% reduction in admin task time"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/adventhealth/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9cc019c58626",
+      "company": "Itaú Unibanco",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "ia.i conversational banking interface for customers plus IARA AI governance platform, with internal AI applied to legal department processes",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "ia.i reached ~300,000 customers in first phase with goal of 100% of customer base by end of 2026; 20%-80% efficiency gains in legal department processes over a 90M+ document repository",
+      "roi_metrics": [
+        "~300,000 customers in first phase",
+        "20%-80% efficiency gains",
+        "90M+ documents"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/itau-generative-ai/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7444dc2660d2",
+      "company": "Benefit Street Partners",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Portfolio manager building BDC loan-mark comparison tracker and credit-agreement clause analyzer with Codex",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Investment-committee follow-ups answered in a day instead of days or weeks; first-pass analysis of 300-page credit agreements in ~20 minutes; tracker built in ~1 day (10-12 dev hours total)",
+      "roi_metrics": [
+        "~20 min first-pass credit agreement analysis",
+        "~1 day to first tracker version",
+        "10-12 total dev hours"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/benefit-street-partners/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8abca014831e",
+      "company": "Sullivan & Cromwell",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Agreement Analyzer: ChatGPT Enterprise tool combining firm precedents and negotiating playbooks to identify issues and propose changes in draft agreements",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Lawyers get provision-by-provision analysis against precedents and proposed changes in one review workflow; scaled from single-user prototype to multi-lawyer tool (no quantified figures published)",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/sullivan-cromwell/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "f1eee7d9e340",
+      "company": "SentinelOne",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "OpenAI Daybreak reverse-engineering malware samples for threat research",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Malware reverse engineering cut from 4-6 weeks to ~8 hours at human-level output",
+      "roi_metrics": [
+        "8 hours vs 4-6 weeks per malware analysis"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/sentinelone/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "62bd314f6ca2",
+      "company": "Block",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "OpenAI Daybreak and Codex for security operations: automated vulnerability patching, detection tuning and false-positive triage",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Proposed patch in 18 minutes from a vulnerability submission; detection changes replayed against seven months of telemetry in under an hour; ~600 analyst-hours/quarter handed back from false-positive triage; ~1,100 analyst-hours of investigation completed per quarter",
+      "roi_metrics": [
+        "18 min to proposed patch",
+        "<1 hour detection replay",
+        "~600 analyst-hours/quarter saved",
+        "~1,100 analyst-hours/quarter of investigations"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/block-ai-powered-security/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8268e7d3cc25",
+      "company": "Sophos",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "AI agents in Sophos MDR (via OpenAI Daybreak) investigating and resolving managed detection and response cases",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "96% reduction in investigation time; 52% of MDR cases resolved end-to-end by AI; 89-second average response time on AI-agent cases",
+      "roi_metrics": [
+        "96% reduction in investigation time",
+        "52% of MDR cases resolved by AI",
+        "89 seconds average response time"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/sophos/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7858ddb47e55",
+      "company": "Oracle",
+      "industry": "Technology & Software",
+      "business_function": "Human Resources",
+      "use_case": "Talent market intelligence tool built with ChatGPT Work that benchmarks roles, compensation and talent pools for recruiters, plus enterprise-wide ChatGPT and Codex",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "98% decrease in talent acquisition research time (2-4 days down to 15-20 minutes of prep); 130K active ChatGPT users and 95K+ Codex users",
+      "roi_metrics": [
+        "98% less recruiting research time",
+        "2-4 days to 15-20 minutes",
+        "130K ChatGPT users",
+        "95K+ Codex users"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/oracle/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "fee7f4bc4812",
+      "company": "Wayfair",
+      "industry": "Retail & E-commerce",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "OpenAI API validating and tagging product attributes across a 40M-item catalog plus 'Wilma' automating supplier support tickets",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "11M+ product specs validated; 41,000 supplier support tickets automated per month, up to 70% automation in some workflows; 1,200 ChatGPT Enterprise seats",
+      "roi_metrics": [
+        "11M+ product specs validated",
+        "41K supplier tickets automated/month",
+        "up to 70% ticket automation"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/wayfair/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b19434aa002d",
+      "company": "Circles",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "OpenAI-powered CareX support orchestration and Xplore IQ AI personalization for digital telco subscribers",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "22% ARPU increase in Singapore from AI personalization; 9% churn reduction; 65% autonomous support resolution; 29% development efficiency gain with Codex",
+      "roi_metrics": [
+        "22% ARPU increase",
+        "9% churn reduction",
+        "65% autonomous resolution",
+        "29% dev efficiency gain"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/circles/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e5926d6b3722",
+      "company": "1Password",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Codex across the software delivery lifecycle to build features, internal tools and debug production issues",
+      "ai_technology": "Code generation",
+      "roi_outcome": "21% engineering productivity increase; estimated 553% ROI; ~90% less investigation time on a complex production issue; 11% shorter median PR cycle time; ~$0.8M annual engineering capacity value",
+      "roi_metrics": [
+        "21% productivity increase",
+        "553% estimated ROI",
+        "~90% less investigation time",
+        "11% shorter PR cycle time",
+        "$0.8M annual capacity value"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/1password/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6acf03f523fa",
+      "company": "BBVA",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "ChatGPT Enterprise rolled out to ~100,000 employees globally as part of strategic OpenAI collaboration",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "~3 hours saved per employee per week; up to 80% efficiency gains in selected workflows; ~100,000 employees using ChatGPT Enterprise",
+      "roi_metrics": [
+        "~3 hrs saved per employee per week",
+        "80% efficiency gains in selected workflows",
+        "~100,000 employees"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/bbva/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1d658dd08443",
+      "company": "Univé",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "ChatGPT Enterprise with ~1,500 employee-built custom GPTs, including pet insurance claims preparation",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Pet insurance claims prepared for decision in minutes instead of hours; 97% license activation and 85% weekly active usage",
+      "roi_metrics": [
+        "claims prep hours to minutes",
+        "97% licenses activated",
+        "85% weekly active users",
+        "~1,500 custom GPTs"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/unive/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "823d90eba0f7",
+      "company": "Asana",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Codex completing a long-running frontend testing-system code migration",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Migration projected to take ~5 more years finished in ~2 weeks for about $12K in model and infrastructure costs",
+      "roi_metrics": [
+        "2 weeks vs ~5 years projected",
+        "$12K total cost"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/asana/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7c2a6cc169a0",
+      "company": "Australian Payments Plus",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "ChatGPT Enterprise and Codex for payments reconciliation investigations, simulations and knowledge work",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Complex reconciliation investigations cut from 4 hours to 30 minutes; working simulations built in 1 day vs days-weeks; 77% of surveyed employees save 2+ hours/week",
+      "roi_metrics": [
+        "4 hours to 30 mins investigations",
+        "1 day simulations",
+        "77% save 2+ hrs/week",
+        "80% report improved work quality"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/australian-payments-plus/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4176f5850f8f",
+      "company": "HSP GRUPPE",
+      "industry": "Professional Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "ChatGPT Enterprise for tax advisory professionals processing client information and drafting",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "40,000+ estimated annual hours of added capacity across the firm network; 98.6% of employees report higher productivity; 500,000+ conversations in six months",
+      "roi_metrics": [
+        "40,000+ annual hours capacity",
+        "98.6% report higher productivity",
+        "84% weekly active usage"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/hsp-gruppe/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "844d0a94cfd9",
+      "company": "Cars24",
+      "industry": "Automotive",
+      "business_function": "Customer Service",
+      "use_case": "OpenAI-powered voice and chat agents automating buyer/seller conversations and lead re-engagement in a used-car marketplace",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "1M+ monthly conversation minutes handled by AI agents; 50% higher support resolution; 80% faster turnaround in key service workflows; 12% of lost seller leads recovered",
+      "roi_metrics": [
+        "1M+ monthly AI conversation minutes",
+        "50% increase in resolution rates",
+        "80% turnaround reduction",
+        "12% lost leads recovered"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/cars24/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9884ea8d8d9a",
+      "company": "Omio",
+      "industry": "Travel & Hospitality",
+      "business_function": "R&D / Product",
+      "use_case": "Conversational AI trip planning plus Codex-accelerated product development",
+      "ai_technology": "Code generation",
+      "roi_outcome": "New products built with 20% of previous development effort; builds that took multiple developers a quarter done by one developer in a month",
+      "roi_metrics": [
+        "20% of previous dev effort",
+        "3 months to 1 month"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/omio/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5a2c2086a887",
+      "company": "loveholidays",
+      "industry": "Travel & Hospitality",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Codex putting software development in the hands of business teams and engineers",
+      "ai_technology": "Code generation",
+      "roi_outcome": "AI-assisted code changes grew from 7% to 79% in a year; 73% higher deployment frequency without growing engineering; Data Platform change success up from 58% to 93%",
+      "roi_metrics": [
+        "7% to 79% AI-assisted changes",
+        "73% more deployments",
+        "93% change success vs 58%",
+        "4x changes per support request"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/loveholidays/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4f3ae9b3283a",
+      "company": "NTT DATA Group",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Codex rolled out to ~9,000 employees, including production incident analysis",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Incident analysis that took five engineers 3 days completed in 30 minutes (-99.3%)",
+      "roi_metrics": [
+        "99.3% reduction in incident analysis time",
+        "9,000 active Codex users"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/ntt-data/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a7e409a411a3",
+      "company": "Gilbert + Tobin",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "ChatGPT and Codex workflows for conflict/KYC/AML checks, recruitment research and audit report preparation at a law firm",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Conflict, KYC and AML checks cut from 3-8 hours to 5 minutes; recruitment research from ~4 hours to 20 minutes; a day of manual work avoided on audit reports across 300 entities; 87% active usage",
+      "roi_metrics": [
+        "3-8 hours to 5 minutes for KYC/AML checks",
+        "4 hours to 20 minutes recruitment research",
+        "87% active usage"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/gilbert-tobin/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ca5e0419ebbd",
+      "company": "Radisson Hotel Group",
+      "industry": "Travel & Hospitality",
+      "business_function": "Sales",
+      "use_case": "ChatGPT plugin (built with Accenture) for hotel discovery, comparison and booking inside ChatGPT",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "~1.5x booking conversion versus organic search in early results (Jul-Aug 2026); plugin built and launched in 6 weeks",
+      "roi_metrics": [
+        "~1.5x conversion vs organic search",
+        "6 weeks to launch"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/radisson/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a83ea3053096",
+      "company": "Ringg",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Multilingual AI customer-service agents across voice, chat and WhatsApp on GPT-5.6",
+      "ai_technology": "Speech / voice AI",
+      "roi_outcome": "7M+ connected calls handled monthly; up to 65% of requests resolved by agents; 90% lower cost vs GPT-4.1 on selected workloads; 4.8 CSAT",
+      "roi_metrics": [
+        "7M+ calls/month",
+        "up to 65% resolution",
+        "90% lower costs",
+        "4.8 CSAT"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/ringg/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d04f8eedcd05",
+      "company": "The Den Family Social",
+      "industry": "Travel & Hospitality",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "ChatGPT Work preparing grant applications and liquor-license materials for a new social-club location",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "10-15 leadership hours saved weekly; grant applications in 2 hours vs 3 days (92% less time); liquor-license materials in 3 hours vs 4 days (91% less)",
+      "roi_metrics": [
+        "10-15 hours/week saved",
+        "92% less grant application time",
+        "91% less license application time"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/the-den-family-social/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "93ce4efc9033",
+      "company": "Chatham Financial",
+      "industry": "Financial Services",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Codex-built trade validation workflow and employee-built apps for capital markets advisory",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Trade validation cut from 30 minutes to under 4 minutes",
+      "roi_metrics": [
+        "30 min to <4 min trade validation"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/chatham-financial/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "76a1881c3281",
+      "company": "Proaction",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "Codex for custom demos and engineering plus GPT voice agents for fleet-management operations",
+      "ai_technology": "Code generation",
+      "roi_outcome": "60% increase in sales; 40-60 engineering hours and 33 founder hours saved per month",
+      "roi_metrics": [
+        "60% sales increase",
+        "40-60 engineering hours/month saved",
+        "33 founder hours/month saved"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/proaction/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0b88796541c0",
+      "company": "Rocket Money",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Rowan, a text-message personal finance agent built on Claude with a Haiku classifier routing to Sonnet/Opus subagents",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Near-zero hallucinations across Rowan's beta; team code commits grew 11x (11 to 128 per month) while building the agent",
+      "roi_metrics": [
+        "11x code commits",
+        "near-zero hallucinations"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/rocket-money",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b4295242e7f8",
+      "company": "DXC Technology",
+      "industry": "Insurance",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Claude inside DXC Assure insurance platform classifying claims documents and encoding regulatory rules and benefits calculations",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Claims document backlogs cut from days to minutes with sub-second classification; new regulatory rules embedded in days vs 12-18 months; regulated benefits calculation stood up in 8 hours, 80% right first pass",
+      "roi_metrics": [
+        "days to minutes claims backlog",
+        "<1 second classification",
+        "days vs 12-18 months regulatory rules",
+        "8 hours benefits calc, 80% first-pass"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/dxc",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "dab49483bc11",
+      "company": "Supermetrics",
+      "industry": "Technology & Software",
+      "business_function": "Marketing",
+      "use_case": "Claude connector letting marketers query live ad/analytics data and manage ad campaigns from a conversation",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Agency customer Layer cut 10-hour client reports to 20 minutes; connector active users grew 250% month over month on average",
+      "roi_metrics": [
+        "10 hours to 20 minutes reporting",
+        "250% MoM user growth"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/supermetrics",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b2f3dde703da",
+      "company": "Slack",
+      "industry": "Technology & Software",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude powering Slack AI summarization, recaps and enterprise search",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Average user saves 97 minutes per week through summarization and recap features",
+      "roi_metrics": [
+        "97 minutes/week saved per user"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/slack",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "70cf437fcd0a",
+      "company": "International Rescue Committee (IRC)",
+      "industry": "Public Sector & Government",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude Enterprise building offline health-data dashboards from Ministry of Health facility files for humanitarian health programs",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Management-ready analysis in under 30 minutes vs a full working day; half of surveyed pilot users save 4+ hours/month",
+      "roi_metrics": [
+        "full day to <30 minutes analysis",
+        "4+ hours/month saved by half of pilot users",
+        "15+ health indicators"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/irc",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "04b6d1b83087",
+      "company": "Carvana",
+      "industry": "Retail & E-commerce",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Tag in Slack investigating production alerts, posting root-cause analysis and taking fixes to pull requests",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "56% fewer alerts in retail science channel by resolving root causes; 65% faster answers for wholesale platform team triage; replaced two homegrown Slackbots",
+      "roi_metrics": [
+        "56% fewer alerts",
+        "65% faster answers"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/carvana",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "01fcd2843725",
+      "company": "Impel",
+      "industry": "Automotive",
+      "business_function": "Sales",
+      "use_case": "Claude roleplay training agent built from 150K+ dealer calls plus Claude-drafted dealer business review briefs from Snowflake",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "New-product ramp time cut from 3-6 months to ~1 month; business review prep down 85% (3-4 hours to ~30 minutes); 20% more support cases handled",
+      "roi_metrics": [
+        "3-6 months to 1 month ramp",
+        "85% less review prep time",
+        "20% more support cases"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/impel",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f0de6fa93ffa",
+      "company": "Atlassian",
+      "industry": "Technology & Software",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude as base agent model for Rovo Chat and Rovo agents running in customer Jira/Confluence workflows on Google Cloud",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "5M+ AI agents executed in customer business workflows each month; Rovo Chat used by millions with Claude as base model",
+      "roi_metrics": [
+        "5M+ agents executed monthly"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/atlassian",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d7b953d0ab9a",
+      "company": "League",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Company-wide Claude Enterprise and Claude Code for healthcare platform software development",
+      "ai_technology": "Code generation",
+      "roi_outcome": "Product development cycle times cut in half; ~98% of code AI-authored; 98% Claude adoption reached in under a quarter",
+      "roi_metrics": [
+        "50% shorter development cycles",
+        "~98% AI-authored code",
+        "98% adoption"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/league-qa",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-20",
       "has_hard_numbers": true,
       "confidence": "high"
     }
