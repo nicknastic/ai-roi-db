@@ -8343,6 +8343,744 @@
       "date_added": "2026-10-20",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "c92aaa436bd7",
+      "company": "Acentra Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Operations",
+      "use_case": "MedScribe app on Azure OpenAI drafting Medicare appeal determination letters for nurses",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Cut time per appeal letter ~50% (6 to 3 minutes), saving 11,000 nursing hours and nearly $800,000; 99% approval rate for AI-drafted letters",
+      "roi_metrics": [
+        "11,000 nursing hours saved",
+        "~$800,000 saved",
+        "50% less time per letter",
+        "nurse throughput 12-14 to 20-30 letters/day",
+        "99% approval rate",
+        "65,000 letters in first 6 months"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/19280-acentra-health-azure",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1c24ee904063",
+      "company": "Intermountain Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Azure OpenAI clinical note summarization, patient email drafting and Microsoft 365 Copilot productivity across the health system",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Microsoft 365 Copilot saved 4,300 hours of work in a year; data science teams save 40 hours a quarter per AI product; model deployment cut from months to weeks",
+      "roi_metrics": [
+        "4,300 hours saved in one year",
+        "40 hours per quarter saved per AI product",
+        "deployment months to weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/22701-intermountain-health-azure-open-ai-service",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "080b39e44780",
+      "company": "Notion",
+      "industry": "Technology & Software",
+      "business_function": "R&D / Product",
+      "use_case": "External Agents feature letting customers run Claude Managed Agents inside Notion workspaces, triggered by automations",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "18,000 Claude agents created in first three weeks; 12 hours of prototyping collapsed into ~20 minutes",
+      "roi_metrics": [
+        "18,000 agents in 3 weeks",
+        "90% of agent turns triggered by automations",
+        "~140,000 agent steps",
+        "12 hours to ~20 minutes prototyping"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/notion-qa",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f2907bdc0359",
+      "company": "Telepass",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce AI agents answering tolling and mobility customer FAQs via chat plus an internal agent assisting service reps",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "~87% of incoming inquiries resolved autonomously; 50% faster call handling; ROI within 10 weeks",
+      "roi_metrics": [
+        "87% autonomous inquiry resolution",
+        "50% faster call handling",
+        "40,000 conversations per week",
+        "ROI within 10 weeks",
+        "partner onboarding 3 months to 1-2 weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/telepass/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "bd20eb1b7f71",
+      "company": "Finnair",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce AI agent Sisu answering traveler questions on web and app, plus rep-side drafting, summaries and case classification",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "80% chat inquiry resolution rate; first-contact resolution doubled in four months; drafting time cut by more than 20%",
+      "roi_metrics": [
+        "80% inquiry resolution rate",
+        "2x first-contact resolution",
+        "7x conversations in 7 months",
+        "25% less employee onboarding time",
+        "20%+ less drafting time"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/finnair/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "65b9f7e4e4b9",
+      "company": "Rossmann",
+      "industry": "Retail & E-commerce",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Six ServiceNow autonomous AI agents classifying, analyzing and routing store service requests across 800+ drugstores",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Selected store requests processed in under five seconds (from several minutes); routing accuracy up from 56% to 94%; 1,500 work hours saved so far",
+      "roi_metrics": [
+        "minutes to under 5 seconds",
+        "routing accuracy 56% to 94%",
+        "1,500 work hours saved"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://newsroom.servicenow.com/de/press-releases/details/2026/ROSSMANN-bearbeitet-Filialanfragen-mit-der-KI-von-ServiceNow-in-weniger-als-fnf-Sekunden/default.aspx",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2dd129ec2fe0",
+      "company": "Merck",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "R&D / Product",
+      "use_case": "Generative AI authoring platform co-developed with McKinsey QuantumBlack drafting clinical study reports",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Human-reviewed CSR first draft time cut from 180 to 80 hours on average (2-3 weeks to 3-4 days) with 50% fewer errors",
+      "roi_metrics": [
+        "180 to 80 hours per CSR draft",
+        "2-3 weeks to 3-4 days",
+        "50% fewer errors"
+      ],
+      "sources": [
+        {
+          "source_org": "Merck",
+          "source_url": "https://www.merck.com/news/merck-expands-innovative-internal-generative-ai-solutions-helping-to-deliver-medicines-to-patients-faster/",
+          "source_type": "consulting",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "93a884f053dd",
+      "company": "Oxfordshire County Council",
+      "industry": "Public Sector & Government",
+      "business_function": "Knowledge Management",
+      "use_case": "Council-wide Microsoft 365 Copilot and Copilot Chat rollout for supervision notes, meeting follow-ups, communications and hiring",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Approximately 174,000 hours released within six months of rollout to 5,000+ staff; pilot identified GBP 3.3M NPV",
+      "roi_metrics": [
+        "~174,000 hours released",
+        "GBP 3.3M NPV (pilot)",
+        "8,000 hours/year saved in hiring",
+        "4,500 Copilot users"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/25610-oxfordshire-county-council-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3e4c58b4621d",
+      "company": "Somerset Council",
+      "industry": "Public Sector & Government",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot for meeting summaries and individual staff productivity under funding pressure",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Saved 10 hours per employee per month; 87% of users reported positive benefits",
+      "roi_metrics": [
+        "10 hours per employee per month",
+        "87% users reported benefits"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/22699-somerset-council-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e08527e47db4",
+      "company": "Factory",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude-powered Droids automating code review, ticket-to-PR coding, refactors and migrations for customers",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Estimated 550,000 development hours saved across customers (~2,300 hours per org), a 20% cut in development cycle time",
+      "roi_metrics": [
+        "550,000 hours saved",
+        "~2,300 hours per organization",
+        "20% shorter development cycle",
+        "3x less code churn"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/factory",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "33393352ad03",
+      "company": "Classmethod",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Code for code generation, self-review, tests and codebase comprehension at a Japanese cloud integrator",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Up to 90% less development time on specific tasks and up to 80% less code-review time; one task cut from 24 hours to 1",
+      "roi_metrics": [
+        "up to 10x productivity",
+        "up to 90% less dev time",
+        "up to 80% less review time",
+        "96% faster Apps Script task (24h to 1h)",
+        "merged PRs 108 to 165"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/classmethod",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "de0241bb3557",
+      "company": "Dolly",
+      "industry": "Education",
+      "business_function": "R&D / Product",
+      "use_case": "Claude on Amazon Bedrock auto-marking digital assessments and writing student progress reports for UK teachers",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "60-70% reduction in marking time and 8-10 hours saved per teacher per week; report writing time halved",
+      "roi_metrics": [
+        "60-70% less marking time",
+        "8-10 hours per teacher per week",
+        "50% less report writing time"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/dolly",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "80d3098963c2",
+      "company": "TRY",
+      "industry": "Professional Services",
+      "business_function": "Marketing",
+      "use_case": "Claude Enterprise rolled out across Norway's largest communications group for strategy, proposals and content",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "30% less time on routine tasks and 40% faster proposal development across 50+ use cases",
+      "roi_metrics": [
+        "30% less time on routine tasks",
+        "40% faster proposals",
+        "50+ use cases"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/try",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "74d23865e55c",
+      "company": "GC AI",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Claude-based platform for in-house legal teams doing contract review, research and drafting against department playbooks",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "In-house legal teams save 14 hours per week on average and cut outside counsel spend 14% (survey of 100+ customers)",
+      "roi_metrics": [
+        "14 hours saved per week",
+        "14% less outside counsel spend",
+        "21% greater accuracy",
+        "1,500+ companies"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/gc-ai",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "11c1b5079867",
+      "company": "Crunched",
+      "industry": "Financial Services",
+      "business_function": "Finance & Accounting",
+      "use_case": "Claude-powered AI Excel analyst building, linking and error-checking financial models",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Over 50% time savings on Excel modeling; financial spreads cut from 8+ hours to 1 hour",
+      "roi_metrics": [
+        ">50% time savings",
+        "8+ hours to 1 hour spreads",
+        "8 hours to 20 minutes write-ups",
+        "up to 10x speed"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/crunched",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0447cd3e3a4c",
+      "company": "Law&Company",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "SuperLawyer AI legal assistant on Claude for research, precedent analysis and drafting for Korean lawyers",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Lawyers 1.7x more efficient, saving 25 minutes per hour of work; 2.3M collective hours saved in first 180 days",
+      "roi_metrics": [
+        "1.7x efficiency",
+        "25 minutes saved per hour",
+        "2.3 million hours in 180 days",
+        "6,000 users (20% of Korean lawyers)",
+        "60.2% free-to-paid conversion"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/law-and-company",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "06b6c687d14d",
+      "company": "Grupo Bimbo",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Finance & Accounting",
+      "use_case": "Copilot Studio agents (Audit Assist, Comatrix) answering audit-procedure questions and generating risk and control matrices for internal audit",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "About 20% reduction in planning-phase audit completion time; risk-and-control matrix work cut from two days to under half a day",
+      "roi_metrics": [
+        "~20% less planning-phase audit time",
+        "2 days to under half a day per matrix",
+        "50-60% auditor adoption"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26762-grupo-bimbo-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "240b749d341c",
+      "company": "AGCO",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Employee-built Copilot Studio agents for quality and warranty reviews, supplier contract analysis and agronomy guidance",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Some quality reviews cut from weeks to about an hour; several hundred enterprise agents in production built by ~2,000 employee makers",
+      "roi_metrics": [
+        "quality reviews weeks to ~1 hour",
+        "several hundred agents in production",
+        "~2,000 makers"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26836-agco-corp-word",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6e0a0d31f366",
+      "company": "DoorDash",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Voice self-service generative AI contact center on Amazon Bedrock with Claude answering Dasher support calls",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Handles hundreds of thousands of Dasher calls daily with 2.5s latency, reducing live-agent escalations by thousands per day; development time cut 50%",
+      "roi_metrics": [
+        "100Ks of calls per day",
+        "escalations cut by thousands per day",
+        "50% less development time",
+        "50x testing capacity",
+        "2.5s latency"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/doordash-bedrock-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a48c5ccb0558",
+      "company": "Druva",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "DruAI multi-agent system on Claude and Bedrock AgentCore for telemetry analysis, threat investigation and remediation",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Resolves up to 63% of customer issues without human intervention with up to 58% faster time-to-resolution",
+      "roi_metrics": [
+        "63% issues resolved without humans",
+        "58% faster time-to-resolution",
+        "3,000+ customers"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-and-claude-transforming-business-with-agentic-ai/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7da3638b1961",
+      "company": "Vi (Vodafone Idea)",
+      "industry": "Telecom",
+      "business_function": "Customer Service",
+      "use_case": "Oriserve multilingual generative AI churn-reduction bots on Amazon Bedrock",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Customer retention rose 75% with Oriserve's Bedrock-based bots, which run at 50% lower cost to serve",
+      "roi_metrics": [
+        "75% higher customer retention",
+        "50% lower cost to serve"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/oriserve-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6969df29392c",
+      "company": "Banco Popular Dominicano",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "AURA multi-agent ecosystem on Copilot Studio and Power Platform for real-time operational risk monitoring",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Operational risk coverage up from ~40% to 100% in real time; 7x analytical capacity; manual effort cut 70%",
+      "roi_metrics": [
+        "risk coverage 40% to 100%",
+        "7x analytical capacity",
+        "70% less manual effort",
+        "98% methodological accuracy",
+        "~80,000 documents per week"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26686-banco-popular-dominicano-microsoft-power-platform",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d26bb57d5c98",
+      "company": "ASM",
+      "industry": "Manufacturing",
+      "business_function": "IT & Engineering",
+      "use_case": "Microsoft Security Copilot for threat investigation and incident triage",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Incident triage time cut 68%, saving 337 hours a week on investigations",
+      "roi_metrics": [
+        "68% less triage time",
+        "337 hours saved per week",
+        "25 to 8 minutes per investigation"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2fc29b6add3b",
+      "company": "Cactus Life Sciences",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "R&D / Product",
+      "use_case": "Microsoft 365 Copilot and 30+ custom agents for scientific document review and data extraction",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Approximately 35-50% efficiency improvement in structured data extraction",
+      "roi_metrics": [
+        "35-50% efficiency gain",
+        "30+ custom agents"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "04aee2293367",
+      "company": "Chow Tai Fook",
+      "industry": "Retail & E-commerce",
+      "business_function": "Sales",
+      "use_case": "AI Fook super-agent ecosystem of 400+ agents supporting frontline jewelry retail associates",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Core business-process efficiency gains exceeding 70% and sales conversion up to 57% higher",
+      "roi_metrics": [
+        ">70% process efficiency gain",
+        "up to 57% higher sales conversion",
+        "400+ agents",
+        "24,000+ employees"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d818eed76a51",
+      "company": "Grandiose Supermarkets",
+      "industry": "Retail & E-commerce",
+      "business_function": "Sales",
+      "use_case": "GrandChef AI shopping companion on Azure OpenAI linking recipes to live product and inventory data",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "31% increase in conversion and 20% lift in average basket value",
+      "roi_metrics": [
+        "31% higher conversion",
+        "20% larger basket",
+        "40% faster shopping journeys"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9624c376b69d",
+      "company": "Navien",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "AI agents and automation on Fabric, Foundry and Copilot Studio connecting procurement, manufacturing, quality and service data",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Saved 28,000 hours annually through AI agents and automation",
+      "roi_metrics": [
+        "28,000 hours saved annually",
+        "32% of employees on self-service analytics"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "534f8b3bbd11",
+      "company": "St. Luke's University Health Network",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "IT & Engineering",
+      "use_case": "Microsoft Security Copilot correlating threats and triaging phishing alerts across 15 campuses",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Saving nearly 200 hours each month in phishing alert triage",
+      "roi_metrics": [
+        "~200 hours saved per month"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "750415dc6968",
+      "company": "Novo Nordisk",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "R&D / Product",
+      "use_case": "Governed reasoning agent on Azure over clinical trial data for evaluating R&D opportunities",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Team capacity to evaluate opportunities expanded from 5-10 strong ideas per quarter to more than 50",
+      "roi_metrics": [
+        "5-10 to 50+ ideas evaluated per quarter"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-21",
+      "has_hard_numbers": false,
+      "confidence": "high"
     }
   ]
 }
