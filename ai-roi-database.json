@@ -9081,6 +9081,494 @@
       "date_added": "2026-10-21",
       "has_hard_numbers": false,
       "confidence": "high"
+    },
+    {
+      "id": "5306079cf0b0",
+      "company": "Barclays",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude-powered Colleague Knowledge Assistant for frontline staff plus Global Markets client-email classification, enrichment and routing, alongside Claude Code for developers",
+      "ai_technology": "LLM (Claude), RAG assistant, agentic coding",
+      "roi_outcome": "Colleague Knowledge Assistant used by 16,000+ colleagues with over 1 million searches serving a 20M+ retail customer base; Claude classifies, enriches and routes ~120,000 Global Markets client emails per day; Claude Code expected to reach 50% of developers by end of 2026",
+      "roi_metrics": [
+        "16,000+ colleagues using assistant",
+        "1 million+ searches",
+        "120,000 emails routed per day"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://anthropic.com/news/barclays-scales-claude",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c90286858ada",
+      "company": "Hero FinCorp",
+      "industry": "Financial Services",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Agentforce operations agent automating two-wheeler loan processing: document intake, PAN/Aadhaar identity verification via government APIs, credit and bank checks via MuleSoft, e-signature and disbursement",
+      "ai_technology": "AI agents (Agentforce), intelligent document processing",
+      "roi_outcome": "Two-wheeler loan turnaround cut from about two days to under 30 minutes (80% reduction), with 37% fewer form errors, 35% faster time to action and a 35% three-year ROI",
+      "roi_metrics": [
+        "80% reduction in loan turnaround",
+        "2 days to 30 minutes",
+        "37% fewer form errors",
+        "35% reduction in time to action",
+        "35% ROI over three years"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/in/customer-stories/hero-fincorp/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f4de98d5bb98",
+      "company": "AWS",
+      "industry": "Technology & Software",
+      "business_function": "Sales",
+      "use_case": "Account Plan Pulse: Amazon Bedrock scoring sales account plans across 10 business categories, producing readiness indexes and improvement recommendations in a daily batch from the CRM",
+      "ai_technology": "Generative AI (Amazon Bedrock)",
+      "roi_outcome": "Account plan quality improved 37% year over year while time to complete, review and approve plans fell 52%",
+      "roi_metrics": [
+        "37% improvement in plan quality",
+        "52% less time to complete and approve plans"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-bedrock-powers-next-generation-account-planning-at-aws",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d9b5b3ddd3a6",
+      "company": "French Ministry of Economy and Finance",
+      "industry": "Public Sector & Government",
+      "business_function": "Knowledge Management",
+      "use_case": "ThinkDeep DeepBrain sovereign multi-agent assistant platform on NVIDIA (NIM, Nemotron, NeMo Guardrails) letting civil servants build assistants over internal documents for retrieval and cross-referencing",
+      "ai_technology": "Multi-agent LLM platform (NVIDIA NIM, Nemotron)",
+      "roi_outcome": "About EUR 2 million saved after deploying DeepBrain to 10,000 employees; document retrieval cut from two days to two minutes; ~1,000 hours saved per month in a typical 100-user deployment",
+      "roi_metrics": [
+        "EUR 2M saved",
+        "10,000 employees",
+        "2 days to 2 minutes document retrieval",
+        "1,000 hours saved per month per 100 users"
+      ],
+      "sources": [
+        {
+          "source_org": "NVIDIA",
+          "source_url": "https://www.nvidia.com/en-us/case-studies/thinkdeep-sovereign-ai-agents-automate-public-services/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "3ffae9bd1bbb",
+      "company": "HUB International",
+      "industry": "Insurance",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude Enterprise for account managers, producers and customer support, Claude Code for technology teams and the Anthropic API for custom agentic solutions across 20,000+ employees",
+      "ai_technology": "LLM (Claude Enterprise, Claude Code, API)",
+      "roi_outcome": "Early results show an 85% productivity increase in targeted use cases, an average of 2.5 hours saved per employee per week and over 90% user satisfaction",
+      "roi_metrics": [
+        "85% productivity increase in targeted use cases",
+        "2.5 hours saved per employee per week",
+        "90%+ user satisfaction",
+        "20,000+ employees"
+      ],
+      "sources": [
+        {
+          "source_org": "Insurance Canada (reproducing HUB International press release)",
+          "source_url": "https://insurance-canada.ca/2026/02/25/hub-anthropic-claude-productivity-satisfaction/",
+          "source_type": "other",
+          "source_tier": "secondary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "medium"
+    },
+    {
+      "id": "dd093262501f",
+      "company": "CSX",
+      "industry": "Logistics & Supply Chain",
+      "business_function": "Customer Service",
+      "use_case": "Chessie for ShipCSX: multi-agent customer assistant built with Copilot Studio and Azure AI Foundry, with a supervisor agent routing freight tracking and shipment questions to specialist agents",
+      "ai_technology": "Multi-agent (Copilot Studio, Azure AI Foundry)",
+      "roi_outcome": "Assistant logged more than 4,000 conversations with over 1,000 customers in its first 45 days; additional agents for rail workers and employee benefits in development",
+      "roi_metrics": [
+        "4,000+ conversations in 45 days",
+        "1,000+ customers"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/customers/story/24556-csx-microsoft-copilot-studio",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "9aaf6e1bba20",
+      "company": "Wesfarmers (Bunnings, Kmart, Officeworks)",
+      "industry": "Retail & E-commerce",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Gemini Enterprise internal admin agent at Bunnings plus shopping agents at Kmart and Officeworks that help customers find products and build carts",
+      "ai_technology": "AI agents (Gemini Enterprise)",
+      "roi_outcome": "Bunnings admin agent saved half a million staff hours; shopping agents drove conversion rates up to 3x higher at Kmart and Officeworks",
+      "roi_metrics": [
+        "500,000 staff hours saved",
+        "up to 3x conversion"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2b6ecaad90ea",
+      "company": "Snap",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Prism diagnostic agent on Google Cloud connected directly to storage archives for engineering troubleshooting",
+      "ai_technology": "AI agent (Gemini)",
+      "roi_outcome": "Diagnostic troubleshooting cut from 30 minutes to 30 seconds (60x faster)",
+      "roi_metrics": [
+        "30 minutes to 30 seconds",
+        "60x faster troubleshooting"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "7f8aa177548e",
+      "company": "Nokia",
+      "industry": "Telecom",
+      "business_function": "Network Operations",
+      "use_case": "Specialized Gemini-based telecom network agents for network troubleshooting",
+      "ai_technology": "AI agents (Gemini)",
+      "roi_outcome": "Network issue resolution time cut by up to 80%",
+      "roi_metrics": [
+        "up to 80% faster issue resolution"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "a940483ec85d",
+      "company": "Starling Bank",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "Scam Intelligence tool using Gemini to analyze marketplace ads customers share before paying and flag likely scams",
+      "ai_technology": "Multimodal LLM (Gemini)",
+      "roi_outcome": "Customers cancel potentially fraudulent payments at 4x the previous rate",
+      "roi_metrics": [
+        "4x rate of cancelled fraudulent payments"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "debcdda9dddd",
+      "company": "Airwallex",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Gemini agents for customer support, payment dispute handling and software delivery",
+      "ai_technology": "AI agents (Gemini)",
+      "roi_outcome": "Customer issues resolved 10x faster, dispute case handling time cut 40%, software time-to-market more than 95% faster",
+      "roi_metrics": [
+        "10x faster issue resolution",
+        "40% less dispute case time",
+        "95%+ faster time-to-market"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "fdd21f9faf90",
+      "company": "Hitachi",
+      "industry": "Energy & Utilities",
+      "business_function": "Field Service",
+      "use_case": "HMAX field-technician AI agents on Google Cloud for power and utilities frontline workers, including image-recognition checks of tools and wiring before and after jobs",
+      "ai_technology": "AI agents, computer vision (Gemini)",
+      "roi_outcome": "Frontline field-technician productivity up to 30% with 200+ agent use cases built, plus safety improvements",
+      "roi_metrics": [
+        "up to 30% productivity gain",
+        "200+ use cases"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8d8f62c7e637",
+      "company": "NTT DOCOMO",
+      "industry": "Telecom",
+      "business_function": "Knowledge Management",
+      "use_case": "Gemini data agents giving employees instant natural-language access to data and insights",
+      "ai_technology": "Data agents (Gemini, BigQuery)",
+      "roi_outcome": "Time to insight cut from two weeks to instant, returning 450,000 hours a year",
+      "roi_metrics": [
+        "450,000 hours a year returned",
+        "2 weeks to instant time-to-insight"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8488bf6eb78a",
+      "company": "Tata Steel",
+      "industry": "Manufacturing",
+      "business_function": "Customer Service",
+      "use_case": "300+ specialized Gemini agents across safety, supply chain and customer complaint handling",
+      "ai_technology": "AI agents (Gemini Enterprise)",
+      "roi_outcome": "Customer complaint turnaround time cut 50%",
+      "roi_metrics": [
+        "50% faster complaint turnaround",
+        "300+ agents"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "18be1f1a8c84",
+      "company": "Banco BV",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "Gemini generating personalized client communication scripts for customer relationship managers",
+      "ai_technology": "Generative AI (Gemini)",
+      "roi_outcome": "Time needed for personalized client communications reduced by 80%",
+      "roi_metrics": [
+        "80% faster client communications"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "224193a6e732",
+      "company": "Farmacias del Ahorro",
+      "industry": "Retail & E-commerce",
+      "business_function": "Knowledge Management",
+      "use_case": "PotencIA internal Gemini Enterprise productivity program for corporate employees",
+      "ai_technology": "LLM assistant (Gemini Enterprise)",
+      "roi_outcome": "95% active adoption among 1,000 employees and about 140,000 hours of annual productivity gains",
+      "roi_metrics": [
+        "140,000 hours annual productivity gain",
+        "95% active adoption",
+        "1,000 employees"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6d6e03605678",
+      "company": "Globo",
+      "industry": "Media & Entertainment",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "PlanejaAI: Gemini tool for software pre-development planning and plan validation",
+      "ai_technology": "Generative AI (Gemini)",
+      "roi_outcome": "Pre-development plan accuracy up 33%, validation time cut from 20 minutes to 6 seconds, 127 hours saved in one quarter",
+      "roi_metrics": [
+        "33% higher plan accuracy",
+        "20 minutes to 6 seconds validation",
+        "127 hours saved per quarter"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4771a51c0470",
+      "company": "Grupo Bafar",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Legal & Compliance",
+      "use_case": "Gemini-based automated contract management for new store/branch openings",
+      "ai_technology": "Generative AI agents (Gemini)",
+      "roi_outcome": "Contract preparation cut from 140 to 17 minutes per branch, with tenfold processing capacity",
+      "roi_metrics": [
+        "140 to 17 minutes per contract",
+        "10x processing capacity"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "6d93102b8ab8",
+      "company": "The Home Depot",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Gemini-powered voice and digital customer assistants for inventory search and support calls",
+      "ai_technology": "Voice and conversational AI agents (Gemini)",
+      "roi_outcome": "Phone resolution speed up four-fold, with customer needs understood in under 10 seconds",
+      "roi_metrics": [
+        "4x faster phone resolution",
+        "under 10 seconds to understand need"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "08c37134c29c",
+      "company": "Commerzbank",
+      "industry": "Financial Services",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Gemini automating document quality assurance reviews",
+      "ai_technology": "Generative AI (Gemini)",
+      "roi_outcome": "Manual document review work cut from 20 hours to 1 hour",
+      "roi_metrics": [
+        "20 hours to 1 hour",
+        "95% less manual review"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-26",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
