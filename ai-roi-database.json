@@ -9569,6 +9569,361 @@
       "date_added": "2026-10-26",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "1952b2d9911c",
+      "company": "Mid-Ohio Food Collective",
+      "industry": "Public Sector & Government",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude Code, Claude Tag and Claude Design rebuilding and extending the FreshTrak food-pantry platform (state-specific rules, legacy refactor, Slack-to-PR engineering requests) with human-approved merges",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Feature delivery cut from two to three months to 24-36 hours from idea to production; partner food bank onboarding and training time cut 50% on a platform used by ~2,500 pantries serving 35,000 families a day",
+      "roi_metrics": [
+        "24-36 hours idea to production (was 2-3 months)",
+        "50% less onboarding/training time",
+        "2,500 pantries on platform",
+        "35,000 families served per day",
+        "22 food banks live"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/mid-ohio-food-collective",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d96a8ea4ccf3",
+      "company": "Montgomery County Food Bank",
+      "industry": "Public Sector & Government",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Claude (Cowork, Excel, Outlook, Chrome) across a nonprofit food bank's operations: shift and delivery pattern analysis, sourcing price comparison, reporting, donor stewardship and record matching",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Biweekly driver/warehouse overtime fell from 99 to 11 hours; first partner agency buying through the food bank got 40% lower food costs; monthly reporting cut from a week of work to 30 seconds",
+      "roi_metrics": [
+        "Overtime 99 to 11 hours biweekly",
+        "40% lower food costs for partner agency",
+        "Monthly reporting from 1 week to 30 seconds",
+        "Donor thank-you drafts in ~1 minute"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/montgomery-county-food-bank",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "25ae0d3f10bb",
+      "company": "Palo Alto Networks",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude via Google Cloud for real-time code completion (Haiku), IDE code chat (Sonnet) and CI/CD post-processing that adds comments, renames variables and generates unit tests",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "20-30% increase in feature development velocity across 2,500 onboarded developers (ramping to 3,500); junior developers completed integration tasks 70% faster in pilot",
+      "roi_metrics": [
+        "20-30% faster feature development",
+        "2,500 developers onboarded",
+        "70% faster integration tasks (junior dev pilot)"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/palo-alto-networks",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ff4d158aa3a4",
+      "company": "Thrive",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "ServiceNow AI Platform with Technology Provider Service Management, specialized AI agents, AI ticket assignment/task intelligence and gen-AI case summaries for a managed services provider's customer support",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "73% first-contact resolution, 63% reduction in time-to-resolution, connection time cut from six minutes to under one minute, 14,500+ engineer hours returned to customer-facing work",
+      "roi_metrics": [
+        "73% first-contact resolution",
+        "63% faster time-to-resolution",
+        "Connection time 6 min to <1 min",
+        "14,500+ engineer hours returned",
+        "21,000 hours of manual work saved",
+        "92,000+ automated assists",
+        "99.2% CSAT"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://newsroom.servicenow.com/press-releases/details/2026/Thrive-scales-customer-experience-with-ServiceNow-AI-achieving-73-first-contact-resolution/default.aspx",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "696e0a47c93b",
+      "company": "Alberta Health Services",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Snowflake Cortex AI app recording, transcribing and summarizing emergency department visits for ER physicians inside a governed environment (proof of concept in use by a handful of physicians)",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "10-15% increase in the number of patients seen per hour by participating ER physicians",
+      "roi_metrics": [
+        "10-15% more patients seen per hour"
+      ],
+      "sources": [
+        {
+          "source_org": "Snowflake",
+          "source_url": "https://www.snowflake.com/en/blog/gen-ai-cortex-customer-stories-outcomes/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b138c596f9e1",
+      "company": "Advisor360",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Automated daily customer-sentiment pipeline on customer feedback using Snowflake Cortex AI sentiment analysis",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Saves at least a day of senior data scientist work per month at about 1/25th the cost of the alternative VM-and-larger-LLM approach; built in about two days",
+      "roi_metrics": [
+        "1 day/month of senior data scientist time saved",
+        "1/25th the cost of alternative",
+        "Built in ~2 days"
+      ],
+      "sources": [
+        {
+          "source_org": "Snowflake",
+          "source_url": "https://www.snowflake.com/en/blog/gen-ai-cortex-customer-stories-outcomes/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "efeab060e096",
+      "company": "Rumo",
+      "industry": "Logistics & Supply Chain",
+      "business_function": "Knowledge Management",
+      "use_case": "RUTI Maquinista Copilot Studio agent on Azure OpenAI answering rail freight train drivers' rules and procedures questions on mobile from an approved knowledge base",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Time to find a procedure dropped from four minutes to three seconds; 7,644 hours freed per year and ROI in under 2 months",
+      "roi_metrics": [
+        "4 minutes to 3 seconds per lookup",
+        "7,644 hours freed per year",
+        "ROI in under 2 months",
+        "1.3 million pages saved annually"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/25656-rumo-microsoft-copilot-studio",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "aa6364a6755b",
+      "company": "Microsoft",
+      "industry": "Technology & Software",
+      "business_function": "Marketing",
+      "use_case": "AI Messaging Assistant (AMA) on Azure OpenAI grounded in 100,000+ customer voices, generating and testing marketing copy and checking it against customer insights inside the content studio",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Delivered $14 million in value; select messaging cycles cut 90% and global email timelines reduced from 18 weeks to under 5 across 150M+ marketing emails a year",
+      "roi_metrics": [
+        "$14M value delivered",
+        "90% shorter messaging cycles",
+        "Global email 18 weeks to <5 weeks",
+        "500+ marketing decisions influenced"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/27496-microsoft-azure-openai-in-foundry-models",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8eebb8a3aea4",
+      "company": "Engine",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce agent Eva handling hotel, flight and car rental booking support across chat and voice, making changes such as cancellations via booking APIs and escalating complex cases",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Agentforce resolves 50% of chat inquiries, with a 15% decrease in support handle time and 16% increase in CSAT",
+      "roi_metrics": [
+        "50% of chat inquiries resolved",
+        "15% lower handle time",
+        "16% higher CSAT"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/engine/agentic-service/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "0c2695c59371",
+      "company": "Vivint",
+      "industry": "Technology & Software",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce agent AVA autonomously handling smart-home troubleshooting, payments, appointments and shipment tracking, with briefed handoff to live reps",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "20% autonomous resolution rate alongside 28% growth in chat",
+      "roi_metrics": [
+        "20% resolution rate",
+        "28% chat growth"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/vivint/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f39eda23f9f5",
+      "company": "GET AI",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Customer Zero internal use of Microsoft 365 Copilot, GitHub Copilot and Copilot Studio agents, including an AI Intake Agent turning unstructured ideas into decision-ready use cases",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Average 15% productivity uplift across knowledge work (~260 hours extra capacity per participating employee a year); AI Intake Agent cuts discovery effort by up to 70% (internal estimates)",
+      "roi_metrics": [
+        "15% productivity uplift",
+        "~260 hours/employee/year",
+        "1.5 FTE per 10 consistent users",
+        "Up to 70% less discovery effort",
+        "Sales tasks 30-50% faster"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/27280-get-ai-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8037b9fa6913",
+      "company": "ICICI Lombard",
+      "industry": "Insurance",
+      "business_function": "Finance & Accounting",
+      "use_case": "Claims copilot for health claims adjudicators combining Azure OCR, Document Intelligence and Azure OpenAI to extract diagnosis/treatment/lab data and check treatment against guidelines",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Reduced the time for claims adjudicators to process a single health claim by over 50%, with over 2x adjudicator productivity",
+      "roi_metrics": [
+        "50%+ faster claim processing",
+        "2x adjudicator productivity"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://microsoft.com/en-in/aifirstmovers/icici-lombard",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "fadddc8705b9",
+      "company": "C.H. Robinson",
+      "industry": "Logistics & Supply Chain",
+      "business_function": "Sales",
+      "use_case": "Generative AI on Azure AI Foundry/Azure OpenAI classifying inbound customer emails and auto-producing freight price quotes, finding missing details across truckload, LTL, intermodal and air requests",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Email price quotes went from hours to an average of 32 seconds; well over half a million AI-generated quotes to 2,720 customers",
+      "roi_metrics": [
+        "Hours to 32 seconds per quote",
+        "500,000+ AI price quotes",
+        "2,720 customers served"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/19575-ch-robinson-azure-ai-studio",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "42bd28e5d736",
+      "company": "Hertz",
+      "industry": "Automotive",
+      "business_function": "Customer Service",
+      "use_case": "Manny, an employee-built Copilot Studio agent answering roadside-assistance questions for customer service reps from manufacturer sites, VIN lookup and instructional video (pilot at one location)",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Reduced the time to resolve customer issues by over 15% at the pilot location",
+      "roi_metrics": [
+        "15%+ faster issue resolution (pilot)"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/25989-hertz-microsoft-power-platform",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
