@@ -9924,6 +9924,747 @@
       "date_added": "2026-10-29",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "6915907d262f",
+      "company": "Credit Saison",
+      "industry": "Financial Services",
+      "business_function": "Sales",
+      "use_case": "ChatGPT Enterprise pilot then companywide rollout at a Japanese credit card issuer, with custom GPTs for store debrief reporting, corporate customer research and prospect roleplay, plus Codex for engineering",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "315-person pilot reported 954% ROI and 14 hours saved per participant per month, beating targets of 500% and 7.5 hours; engineering saves 850 hours a month with Codex",
+      "roi_metrics": [
+        "954% ROI in pilot",
+        "14 hours saved per participant per month",
+        "850 engineering hours saved per month",
+        "315 pilot participants"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/credit-saison/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5325fa3762ad",
+      "company": "Zenken",
+      "industry": "Professional Services",
+      "business_function": "Sales",
+      "use_case": "ChatGPT Enterprise across web marketing and overseas HR businesses for sales preparation, in-meeting answers, personalized proposals and document translation",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "30 to 50% average time savings on knowledge work, new-deal win rate up 5 to 10%, and 50 million yen in annual outsourcing savings",
+      "roi_metrics": [
+        "30-50% time savings",
+        "5-15 hours per employee per month",
+        "50M yen annual outsourcing savings",
+        "5-10% higher win rate",
+        "90%+ weekly active usage"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/zenken/",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5c6e994db0c2",
+      "company": "Xogene Services",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Legal & Compliance",
+      "use_case": "Transcend multi-agent platform on Amazon Bedrock drafting, fact-checking and formatting clinical trial results postings and plain-language summaries, with human checkpoints",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Results posting processing time fell from about 69 hours to about 4 hours; drafting from about 40 hours to about 1 hour",
+      "roi_metrics": [
+        "94% less processing time",
+        "98% less drafting time",
+        "95% less QC time",
+        "95.2% field-level accuracy in proof of concept"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/xogene-bedrock/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "eb8e254b5f9a",
+      "company": "Sanofi",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Concierge employee assistant on Amazon Bedrock for finding information, generating content and completing tasks, connected to specialized agents through an agent hub",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "72,000 monthly users and 11 million conversations; 90.5% of surveyed employees report time saved, and one use case cut verification time by 92%",
+      "roi_metrics": [
+        "72,000 monthly users",
+        "11M conversations",
+        "90.5% report time saved",
+        "92% less verification time in one use case"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/sanofi-bedrock-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "87b1f1a8c5c9",
+      "company": "Novo Nordisk",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Self-service generative AI platform on Amazon Bedrock where employees build chatbots and agents for nonregulated business processes",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "2,500 chatbots built, 25,000 employees using the platform, about $10 per month per use case, and day-long work reduced to 30 minutes",
+      "roi_metrics": [
+        "2,500 chatbots",
+        "25,000 employees",
+        "$10 per month per use case",
+        "1 day to 30 minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/novo-nordisk-generative-ai-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "d3345d253926",
+      "company": "Huron",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Claude on Amazon Bedrock answering questions across clinical trial documents to support coverage analysis for clients launching studies",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "20% better model accuracy and 10% less administrative effort, with vectorization development effort cut in half",
+      "roi_metrics": [
+        "20% accuracy improvement",
+        "10% less administrative effort",
+        "50% less vectorization development effort"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/huron-consulting-group-amazon-bedrock-case-study/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "97ff496a23ab",
+      "company": "Gallagher",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Microsoft Foundry and Copilot Studio agents for claims file summarization, M&A due diligence and multi-line quote letters, plus Microsoft 365 Copilot for staff",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "70,000+ employees enabled; claims review that took an hour or two now takes minutes, per the Global CIO",
+      "roi_metrics": [
+        "70,000+ employees enabled",
+        "1-2 hours to minutes per claims review"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/26479-gallagher-microsoft-foundry/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1a8499c5803d",
+      "company": "Sandvik",
+      "industry": "Manufacturing",
+      "business_function": "Sales",
+      "use_case": "Manufacturing Copilot on Azure OpenAI giving employees and customers natural-language access to decades of product knowledge in 19 languages for sales, support and training",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Up to 30% productivity gain and sales onboarding in about half the time",
+      "roi_metrics": [
+        "Up to 30% productivity gain",
+        "20-30% average time saved",
+        "50% less sales onboarding time"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/22965-sandvik-azure-open-ai-service",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4ae65cb9068a",
+      "company": "Signal Iduna",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Gemini Enterprise delivering insurance answers to customers",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Insurance answers delivered to customers 37% faster",
+      "roi_metrics": [
+        "37% faster answers"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f7ab3a2294ca",
+      "company": "Virgin Voyages",
+      "industry": "Travel & Hospitality",
+      "business_function": "Marketing",
+      "use_case": "Gemini Enterprise specialized agents, including more than 50 for marketing campaign creation",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "More than 1,000 specialized agents, with campaign creation times cut by 40%",
+      "roi_metrics": [
+        "40% less campaign creation time",
+        "1,000+ agents"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "627b67efc9be",
+      "company": "WPP",
+      "industry": "Media & Entertainment",
+      "business_function": "Marketing",
+      "use_case": "Gemini Enterprise producing AI-led advertising campaigns for clients",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "An AI-led campaign released every four days, at twice the speed and 2.5x more value for clients",
+      "roi_metrics": [
+        "1 campaign every 4 days",
+        "2x speed",
+        "2.5x client value"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c4933664073c",
+      "company": "Highmark Health",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Sidekick generative AI employee assistant on Google Cloud with agent-driven features, including first drafts of research protocols at Allegheny Health Network",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "74 active use cases delivering a calculated $27.9 million in AI-enabled value in 2025; interactions grew from 1 million to more than 6 million prompts",
+      "roi_metrics": [
+        "$27.9M AI-enabled value in 2025",
+        "74 active use cases",
+        "6M+ prompts"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/helping-healthcare-move-from-data-to-agentic-action-himms",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f4dd4ebe3da6",
+      "company": "Waystar",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Finance & Accounting",
+      "use_case": "AltitudeAI autonomous revenue cycle platform on Google Cloud for preventing denied claims and handling appeal and documentation workflows for providers",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Helped providers prevent more than $15 billion in denied claims; clients cut appeal and documentation time by 90%",
+      "roi_metrics": [
+        "$15B+ denied claims prevented",
+        "90% less appeal and documentation time"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/transform/helping-healthcare-move-from-data-to-agentic-action-himms",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "06262154beb1",
+      "company": "Robinhood",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "ServiceNow AI embedded in IT, HR and Legal workflows to deflect employee requests and onboard new teams and acquired entities",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "70% of employee requests deflected before human intervention; manual effort reduced by 2,200 hours across 1,300 tickets monthly",
+      "roi_metrics": [
+        "70% request deflection",
+        "2,200 hours saved monthly",
+        "1,300 tickets monthly"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-moves-beyond-the-sidecar-AI-era-giving-customers-a-complete-AI-native-experience-across-all-products-and-packages/default.aspx",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e009967ac89a",
+      "company": "City of Raleigh",
+      "industry": "Public Sector & Government",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "ServiceNow AI agents routing and resolving city IT service tickets",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Service desk costs cut by 66% and more than 1,300 staff hours a year returned",
+      "roi_metrics": [
+        "66% lower service desk costs",
+        "1,300+ staff hours per year"
+      ],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-accelerates-AI-powered-government-reinvention-across-nearly-all-50-U-S--states-with-new-customer-wins/default.aspx",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ed4c7123cf17",
+      "company": "Honeywell",
+      "industry": "Manufacturing",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "AI assistant Red built with ServiceNow and Moveworks handling employee service desk conversations",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Eliminated the majority of service desk conversations, saving employee and IT time",
+      "roi_metrics": [],
+      "sources": [
+        {
+          "source_org": "ServiceNow",
+          "source_url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-turns-enterprise-AI-chaos-into-control-with-the-platform-for-governed-autonomous-work/default.aspx",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": false,
+      "confidence": "high"
+    },
+    {
+      "id": "7ff0a4847ed5",
+      "company": "Sammons Financial Group",
+      "industry": "Insurance",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce Voice Agent handling policy questions, case status and distribution requests by phone",
+      "ai_technology": "Speech / voice AI",
+      "roi_outcome": "16,000+ calls fielded with 60% resolved without human help; QA coverage rose from 3% to 100%",
+      "roi_metrics": [
+        "16,000+ calls",
+        "60% resolved without human help",
+        "QA coverage 3% to 100%"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/services/customer-success-awards/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "97fc137c3991",
+      "company": "Tottenham Hotspur",
+      "industry": "Media & Entertainment",
+      "business_function": "Customer Service",
+      "use_case": "Ask Spurs AI fan assistant on Salesforce across 5 channels and 7 languages, built on unified fan data",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "38,623 sessions, over 31,000 with no human escalation, and a 90.8% task resolution rate",
+      "roi_metrics": [
+        "38,623 sessions",
+        "31,000+ without escalation",
+        "90.8% task resolution"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/services/customer-success-awards/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8c0831cbe36e",
+      "company": "The Grout Guy",
+      "industry": "Professional Services",
+      "business_function": "Field Service",
+      "use_case": "Agentforce with partner Servly for scheduling, quoting, lead handling and technician preparation at a home services business",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Lead conversion hit 80%, dispatcher-to-technician ratio reached 1:25+, and 20+ hours a week reclaimed from data entry",
+      "roi_metrics": [
+        "80% lead conversion",
+        "1:25+ dispatcher ratio",
+        "20+ hours per week"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/services/customer-success-awards/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e3375ed0ccde",
+      "company": "Canada Goose",
+      "industry": "Retail & E-commerce",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce handling routine order and warranty messages so Style Experts can focus on personalized advice",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Resolves 89% of routine messaging inquiries and cuts peak wait times by 13.9%",
+      "roi_metrics": [
+        "89% of routine inquiries resolved",
+        "13.9% lower peak wait times"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/agentforce/metrics/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "56c826991829",
+      "company": "Safari365",
+      "industry": "Travel & Hospitality",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce 24/7 traveler servicing across time zones",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "A 15% efficiency goal grew to over 30%, live six weeks after signing",
+      "roi_metrics": [
+        "30%+ efficiency",
+        "6 weeks to go live"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/agentforce/metrics/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2582dcd10d4a",
+      "company": "Agibank",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce WhatsApp superagent verifying identity and routing to loan, retention and new-product agents",
+      "ai_technology": "LLM agent (autonomous, multi-step)",
+      "roi_outcome": "Handles 70,000 customer inquiries a month",
+      "roi_metrics": [
+        "70,000 inquiries per month"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/agentforce/metrics/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "5308bda7b7ec",
+      "company": "Applied Materials",
+      "industry": "Manufacturing",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Databricks machine learning models for factory anomaly detection and demand forecasting, plus AI/BI Genie for natural-language data questions",
+      "ai_technology": "Anomaly detection",
+      "roi_outcome": "More than 100 production ML models serving 75,000 hits a day, development 90% faster, and more than 800 Genie Spaces live",
+      "roi_metrics": [
+        "100+ production ML models",
+        "75,000 hits per day",
+        "90% faster development",
+        "800+ Genie Spaces"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b3fb73d0a545",
+      "company": "Fonterra",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Databricks natural-language data access and AI for supply chain and inventory decisions plus on-farm compliance",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Data load times cut by more than 50%, engineering productivity up by up to 20%, and twice as many data products per week",
+      "roi_metrics": [
+        "50%+ faster data loads",
+        "Up to 20% engineering productivity",
+        "2x data products per week"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1fba14b2dc7d",
+      "company": "Axpo",
+      "industry": "Energy & Utilities",
+      "business_function": "Knowledge Management",
+      "use_case": "AxploreAI generative AI multi-agent platform using RAG, vector search and OCR, plus an AI classifier for procurement spend data",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "About 90% average precision, up to 30% time savings for power users, and a 90% approval rating",
+      "roi_metrics": [
+        "90% average precision",
+        "Up to 30% time savings",
+        "90% approval rating"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "01242d8cfd95",
+      "company": "Atlassian",
+      "industry": "Technology & Software",
+      "business_function": "Fraud & Risk",
+      "use_case": "Databricks AI/BI Genie for natural-language security telemetry queries and ML-driven anomaly detection",
+      "ai_technology": "Anomaly detection",
+      "roi_outcome": "Queries 21 billion+ security events in under a minute, cuts ingest costs by 80%, and reduces detection latency from 17 to 5 seconds",
+      "roi_metrics": [
+        "80% lower ingest costs",
+        "21B+ events queried in under 1 minute",
+        "Detection latency 17s to 5s"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "73aafc9008f5",
+      "company": "Virtue Foundation",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Global health knowledge graph and geospatial analytics finding medical deserts, plus an AI assistant matching clinicians to volunteer opportunities on Databricks",
+      "ai_technology": "Recommendation system",
+      "roi_outcome": "Helped serve more than 50,000 patients, with thousands of surgical cases and hundreds of volunteers matched",
+      "roi_metrics": [
+        "50,000+ patients served"
+      ],
+      "sources": [
+        {
+          "source_org": "Databricks",
+          "source_url": "https://www.databricks.com/blog/announcing-winners-2026-databricks-customer-awards",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "64e1bbc061a0",
+      "company": "Bud Financial",
+      "industry": "Financial Services",
+      "business_function": "Fraud & Risk",
+      "use_case": "Real-time AI enrichment of banking transactions on IBM watsonx.data, covering classification, merchant identification and pattern detection",
+      "ai_technology": "Predictive ML / forecasting",
+      "roi_outcome": "Enriched results returned to the bank in under five milliseconds, with more than 97% classification accuracy across 20 million merchants",
+      "roi_metrics": [
+        "<5 ms response",
+        "97%+ classification accuracy",
+        "20M merchants"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/new/product-blog/from-raw-data-to-trusted-ai-context-lessons-from-production-ibm-watsonx-data-deployments",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "4d2137bbce4e",
+      "company": "Shorthills AI",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "Evidence-rich legal research search on IBM watsonx.data using section-based chunking, entity extraction and keyword, vector and graph retrieval",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Recall and precision improved by more than 60%, with roughly four times greater comprehensiveness",
+      "roi_metrics": [
+        "60%+ better recall and precision",
+        "4x comprehensiveness",
+        "9x result diversity"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/new/product-blog/from-raw-data-to-trusted-ai-context-lessons-from-production-ibm-watsonx-data-deployments",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1323e935bf2b",
+      "company": "Wikimedia Deutschland",
+      "industry": "Technology & Software",
+      "business_function": "Knowledge Management",
+      "use_case": "Natural-language retrieval across about 120 million Wikidata entries using Astra DB vector search",
+      "ai_technology": "RAG (retrieval-augmented generation)",
+      "roi_outcome": "Query speed up about 30 times and development time reduced by roughly 90% compared with early local vector experiments",
+      "roi_metrics": [
+        "30x query speed",
+        "90% less development time",
+        "120M entries"
+      ],
+      "sources": [
+        {
+          "source_org": "IBM",
+          "source_url": "https://www.ibm.com/new/product-blog/from-raw-data-to-trusted-ai-context-lessons-from-production-ibm-watsonx-data-deployments",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-10-31",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
