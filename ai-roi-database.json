@@ -10665,6 +10665,527 @@
       "date_added": "2026-10-31",
       "has_hard_numbers": true,
       "confidence": "high"
+    },
+    {
+      "id": "73bd220ede4e",
+      "company": "Smartsheet",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Claude across three surfaces: Smartsheet MCP Connector for Claude letting customers manage sheets from conversation, Claude Code for 500+ engineers, and Claude Enterprise company-wide including an IT helpdesk agent",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "Engineers using Claude Code merged 31% more pull requests than peers; 30% of IT helpdesk tickets now handled automatically; prompt caching cut API operating cost 60%; org cycle time dropped 28%",
+      "roi_metrics": [
+        "31% more PRs merged vs peers",
+        "3x more code shipped by 500+ engineers",
+        "30% of IT helpdesk tickets handled automatically",
+        "60% operational cost reduction via prompt caching",
+        "28% cycle time reduction",
+        "code documentation from two weeks to four hours",
+        "1.76M MCP tool calls in first 30 days across 1,400+ orgs"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/smartsheet",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c1d9913a5d18",
+      "company": "Advantage Solutions",
+      "industry": "Retail & E-commerce",
+      "business_function": "Finance & Accounting",
+      "use_case": "Claude Enterprise, Claude Code and Cowork rollout (with Tenex) automating finance forecast validation and building in-store event compliance and store-routing tools",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Recurring 10-hour finance forecast validation workflow compressed to under 30 minutes; scaled from a 150-person pilot to thousands of users with 100+ AI use cases surfaced",
+      "roi_metrics": [
+        "10-hour forecast validation cut to under 30 minutes",
+        "scaled from 150 to thousands of users",
+        "100+ AI use cases surfaced",
+        "150+ executives trained"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/advantage-solutions",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "1c7d632cd5b0",
+      "company": "STADLER",
+      "industry": "Manufacturing",
+      "business_function": "Knowledge Management",
+      "use_case": "Company-wide ChatGPT with 125+ custom GPTs for engineering analysis, project documentation, technical translation, drafting and summarizing at a waste-sorting plant manufacturer",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "30-40% time savings on common knowledge tasks and 2.5x faster time to first draft, with >85% daily active usage",
+      "roi_metrics": [
+        "30-40% time savings on knowledge tasks",
+        "2.5x faster first draft",
+        "up to 6x in high-volume use cases",
+        "125+ custom GPTs",
+        ">85% daily active usage"
+      ],
+      "sources": [
+        {
+          "source_org": "OpenAI",
+          "source_url": "https://openai.com/index/stadler",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f8bfb01b51cc",
+      "company": "Dentsu",
+      "industry": "Media & Entertainment",
+      "business_function": "Marketing",
+      "use_case": "Conversational predictive-analytics copilot on Azure AI Foundry and Azure OpenAI for media forecasting, budgeting and media-plan optimization",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Cut analysis time 80% and overall time to media insights 90%; copilot built from PoC to production in under 12 weeks",
+      "roi_metrics": [
+        "80% less analysis time",
+        "90% faster time to insight",
+        "built in under 12 weeks"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://microsoft.com/en/customers/story/19582-dentsu-azure-kubernetes-service",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "e9fae68301ba",
+      "company": "Verdent AI",
+      "industry": "Technology & Software",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "Agentic enterprise AI coding assistant (research and verifier agents) on Amazon Bedrock and Bedrock AgentCore for code refactoring, PR review and IaC generation",
+      "ai_technology": "Code generation",
+      "roi_outcome": "40% lower LLM invocation costs (cost per conversation $0.50 to $0.30), P95 latency from 5s to 100ms, PR review from 2 hours to 15 minutes",
+      "roi_metrics": [
+        "40% LLM cost reduction",
+        "$0.50 to $0.30 per conversation",
+        "P95 latency 5s to 100ms",
+        "PR review 2 hours to 15 minutes",
+        "99.9% availability",
+        "10x concurrent capacity"
+      ],
+      "sources": [
+        {
+          "source_org": "AWS",
+          "source_url": "https://aws.amazon.com/solutions/case-studies/verdent-ai/",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8416bf1c4b9f",
+      "company": "L'Oreal",
+      "industry": "Consumer Goods (CPG)",
+      "business_function": "Customer Service",
+      "use_case": "Agentforce in Service Cloud for consumer care advisors: case summaries, intent validation, brand-voiced email drafts for advisor review and promo code generation across 25 North American brands",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Case handling time cut 64% (about 7 to 2.5 minutes) when drafts need no edits and ~40% when edited; promo code generation 90% faster; 100% adoption among eligible advisors",
+      "roi_metrics": [
+        "64% faster case handling",
+        "~40% faster with edited drafts",
+        "90% faster promo code generation",
+        "100% advisor adoption",
+        "300+ daily advisor users"
+      ],
+      "sources": [
+        {
+          "source_org": "Salesforce",
+          "source_url": "https://www.salesforce.com/customer-stories/loreal/agentic-service-advisor-assistance/",
+          "source_type": "saas",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c5963ad2c260",
+      "company": "LUXGEN",
+      "industry": "Automotive",
+      "business_function": "Customer Service",
+      "use_case": "Vertex AI chatbot on LUXGEN's LINE official account trained on FAQs and owner manuals answering EV buyer and owner questions",
+      "ai_technology": "Conversational AI / chatbot",
+      "roi_outcome": "Reduced human customer service workload by 30% with 90% user satisfaction",
+      "roi_metrics": [
+        "30% customer service workload reduction",
+        "90% user satisfaction",
+        "160,000-user LINE account"
+      ],
+      "sources": [
+        {
+          "source_org": "Google Cloud",
+          "source_url": "https://cloud.google.com/customers/luxgen",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "fa3fa123e43e",
+      "company": "AIG",
+      "industry": "Insurance",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Underwriting by AIG Assist on Claude processing commercial submissions and generating curated risk summaries with audit trail for underwriters",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Submission review time cut by more than 90%; at Lexington Middle Market Property (as of Mar 31 2026) time-to-quote fell 55%, quoted submissions rose 30% and bound submissions rose 40%",
+      "roi_metrics": [
+        ">90% less submission review time",
+        "55% faster time-to-quote",
+        "+30% quoted submissions",
+        "+40% submissions bound",
+        "100% of applicable submissions reviewed"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/aig-case-study",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "feb422b05399",
+      "company": "Newfront",
+      "industry": "Insurance",
+      "business_function": "Supply Chain & Operations",
+      "use_case": "Claude API powering loss-run document extraction into legacy systems, an employee benefits assistant, and a contract review tool for CFO/legal teams at an insurance brokerage",
+      "ai_technology": "Document AI / intelligent document processing",
+      "roi_outcome": "Loss-run document processing costs cut 60%; benefits assistant handles hundreds of thousands of inquiries a year, saving HR teams a month per year",
+      "roi_metrics": [
+        "60% lower document processing cost",
+        "one month per year saved for HR teams",
+        "hundreds of thousands of inquiries annually"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/newfront",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "dcfb1c37181a",
+      "company": "Gradient Labs",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Claude-powered AI customer support agent for financial institutions doing intent classification, knowledge-graph reasoning and SOP execution with tool use",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "80-90% end-to-end resolution rates without human intervention, with satisfaction up to 98%",
+      "roi_metrics": [
+        "80-90% resolution rate",
+        "up to 98% satisfaction"
+      ],
+      "sources": [
+        {
+          "source_org": "Anthropic",
+          "source_url": "https://claude.com/customers/gradient-labs",
+          "source_type": "frontier-lab",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b3aa9f760a8d",
+      "company": "JCB",
+      "industry": "Financial Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot scaled from 440 to 1,600 licenses at a Japanese card payments company for information search, meeting minutes, email summaries, translation and coding",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Users save about six hours per person per month across top five use cases, with 83% average monthly utilization; coding users average 13 hours saved per month",
+      "roi_metrics": [
+        "~6 hours saved per person per month",
+        "83% monthly utilization",
+        "13 hours/month saved on coding",
+        "1.4 hours/month saved on meeting minutes"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/25324-jcb-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "2029b71206a0",
+      "company": "Tupras",
+      "industry": "Energy & Utilities",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot across finance reporting and compliance checks, budget forecasting, HR interview summaries, procurement drafting and meeting summaries at a Turkish refiner",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Estimated over an hour saved per employee daily, about 5,000 hours monthly across the workforce; all users set up in one week",
+      "roi_metrics": [
+        "1+ hour saved per employee per day (est.)",
+        "5,000 hours saved monthly (est.)",
+        "setup in one week"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/23105-tupras-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "61daf08c4b5e",
+      "company": "Kantar",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot rolled out to 12,600 staff for productivity and business development with specialist prompts and Copilot Studio integrations",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Average 1.8 hours saved per person per week (up to 10 hours) with 85% daily use",
+      "roi_metrics": [
+        "1.8 hours/week saved on average",
+        "up to 10 hours/week",
+        "85% daily use",
+        "12,600 users"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/24603-kantar-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "ada363bb4c64",
+      "company": "Capita",
+      "industry": "Professional Services",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot across 3,000 licences plus 169+ employee-built Copilot Studio agents including AskMeAnything SharePoint knowledge search",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Employees saved 9,000 hours in one month; 169+ employee-built agents automating processes",
+      "roi_metrics": [
+        "9,000 hours saved per month",
+        "169+ employee-built agents",
+        "3,000 licences"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/24350-capita-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "8c6c6b1c86d7",
+      "company": "M&G",
+      "industry": "Financial Services",
+      "business_function": "Customer Service",
+      "use_case": "Microsoft 365 Copilot helping the customer engagement team draft customer inquiry responses and QA reporting",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "25% productivity increase in customer engagement team, 25% less touch time on inquiries and 50% more processed resolutions",
+      "roi_metrics": [
+        "25% productivity increase",
+        "25% reduction in touch time",
+        "50% more resolutions processed"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/23651-m-and-g-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "c8dc6c0bd563",
+      "company": "M&G",
+      "industry": "Financial Services",
+      "business_function": "IT & Engineering / Software Development",
+      "use_case": "GitHub Copilot for developers plus PRAI, an in-house Azure OpenAI code-review tool flagging issues in pull requests",
+      "ai_technology": "Code generation",
+      "roi_outcome": "22% reduction in development time across the function (11% directly from GitHub Copilot); PRAI scanned 2M+ lines and flagged 3,500 issues in five months",
+      "roi_metrics": [
+        "22% less development time",
+        "11% directly from GitHub Copilot",
+        "2M+ lines scanned",
+        "3,500 issues flagged",
+        "~200 engineering hours saved (est.)"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/23651-m-and-g-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "f8b0eb51e454",
+      "company": "Royal College of Surgeons of England",
+      "industry": "Healthcare & Life Sciences",
+      "business_function": "Knowledge Management",
+      "use_case": "Microsoft 365 Copilot for meeting summaries, analysis of ~1,500 student feedback forms a year, curriculum document comparison and accessibility checks",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "71% of pilot employees reported higher productivity, averaging over two hours saved per week (up to 5); cited cost savings of GBP 775 per user per month",
+      "roi_metrics": [
+        "71% reported increased productivity",
+        "2+ hours/week saved on average",
+        "up to 5 hours/week",
+        "GBP 775 per user per month savings",
+        "7.4/10 satisfaction"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/24453-royal-college-of-surgeons-of-england-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "97cfaf08ef2b",
+      "company": "Allegis Group",
+      "industry": "Professional Services",
+      "business_function": "Human Resources",
+      "use_case": "Copilot Studio PTO Calculator agent automating paid-time-off accrual cases, alongside Microsoft 365 Copilot for 18,000+ users at a staffing firm",
+      "ai_technology": "LLM agent",
+      "roi_outcome": "PTO case closure cut from 31 to 13 hours with 100% accuracy across 877 accruals, saving ~8.5 analyst hours weekly; 150,000+ hours saved across AI initiatives",
+      "roi_metrics": [
+        "case closure 31 to 13 hours",
+        "100% accuracy across 877 accruals",
+        "~8.5 analyst hours saved weekly",
+        "150,000+ hours saved across initiatives",
+        "18,000+ active Copilot users",
+        "testing cycle 2 months to 3 days"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/customers/story/25451-allegis-group-azure-ai-services",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "dcfdfa7d3422",
+      "company": "Allegis Group",
+      "industry": "Professional Services",
+      "business_function": "Legal & Compliance",
+      "use_case": "ALTA (Allegis Language Translation Assistant) on Azure AI Services translating business and compliance documents",
+      "ai_technology": "LLM / generative AI",
+      "roi_outcome": "Translation turnaround from three to four days to minutes across 2,000+ documents at 90-95% accuracy, with an estimated $1.5M saved in translation costs",
+      "roi_metrics": [
+        "$1.5M translation cost savings (est.)",
+        "3-4 days to minutes turnaround",
+        "90-95% accuracy",
+        "2,000+ documents"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/customers/story/25451-allegis-group-azure-ai-services",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
+    },
+    {
+      "id": "b3008d6b8dd1",
+      "company": "Vodafone",
+      "industry": "Telecom",
+      "business_function": "Legal & Compliance",
+      "use_case": "Microsoft 365 Copilot for legal contract review and document summarization, ahead of expansion to 68,000 employees",
+      "ai_technology": "Copilot / assistant (human-in-the-loop)",
+      "roi_outcome": "Legal department users save an average of four hours per person per week",
+      "roi_metrics": [
+        "4 hours saved per user per week"
+      ],
+      "sources": [
+        {
+          "source_org": "Microsoft",
+          "source_url": "https://www.microsoft.com/en/customers/story/19346-vodafone-microsoft-365-copilot",
+          "source_type": "foundry",
+          "source_tier": "primary"
+        }
+      ],
+      "date_added": "2026-11-27",
+      "has_hard_numbers": true,
+      "confidence": "high"
     }
   ]
 }
